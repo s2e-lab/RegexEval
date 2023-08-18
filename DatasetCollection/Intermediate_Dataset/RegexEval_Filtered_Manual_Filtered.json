@@ -10288,12 +10288,5 @@
         "description": "1. 3 generic Alphabets\n2. 1 specific alphabet\n3. 1 generic alphabet\n4. 4 digits\n5. 1 generic alphabet\n(alphabets: small or capital)",
         "matches": "AABCL5045N",
         "non_matches": "AABXL5045N"
-    },
-    {
-        "id": 4125,
-        "expression": "^01[0-2,5]{1}[0-9]{8}$",
-        "description": "this regex can validate the Egyptian mobile phone numbers for the 4 Major Service Providers\n(Orange|We|Etisalat|Vodafone)",
-        "matches": "01151151111 | 01208939599 |01001111111",
-        "non_matches": "0115115111 | 0120893959 |01611112935"
     }
 ]
