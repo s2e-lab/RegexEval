@@ -125,8 +125,6 @@
         "matches": "3SquareBand.com | asp.net | army.mil",
         "non_matches": "$SquareBand.com | asp/dot.net | army.military"
     },
-
-
     {
         "id": 25,
         "expression": "^(?=.*\\d).{4,8}$",
@@ -274,7 +272,6 @@
         "matches": "Smith, Ed | Ed Smith | aBcDeFgH",
         "non_matches": "a123 | AB5 | Mr. Ed"
     },
-
     {
         "id": 64,
         "expression": "^(([1-9])|(0[1-9])|(1[0-2]))\\/((0[1-9])|([1-31]))\\/((\\d{2})|(\\d{4}))$",
@@ -611,7 +608,6 @@
         "matches": "example@example.com | foo@bar.info | blah@127.0.0.1",
         "non_matches": "broken@@example.com | foo@bar.infp | blah@.nospam.biz"
     },
-
     {
         "id": 130,
         "expression": "(^\\(\\)$|^\\(((\\([0-9]+,(\\((\\([0-9]+,[0-9]+,[0-9]+\\),)*(\\([0-9]+,[0-9]+,[0-9]+\\)){1}\\))+\\),)*(\\([0-9]+,(\\((\\([0-9]+,[0-9]+,[0-9]+\\),)*(\\([0-9]+,[0-9]+,[0-9]+\\)){1}\\))+\\)){1}\\)))$",
@@ -647,7 +643,6 @@
         "matches": "http://www.blah.com/~joe | ftp://ftp.blah.co.uk:2828/blah%20blah.gif | https://blah.gov/blah-blah.as",
         "non_matches": "www.blah.com | http://www.blah&quot;blah.com/I have spaces! | ftp://blah_underscore/[nope]"
     },
-
     {
         "id": 137,
         "expression": "[^A-Za-z0-9_@\\.]|@{2,}|\\.{5,}",
@@ -1110,7 +1105,6 @@
         "matches": "11/03 | 01/04",
         "non_matches": "13/03 | 10/2003"
     },
-
     {
         "id": 238,
         "expression": "<script[^>]*>[\\w|\\t|\\r|\\W]*</script>",
@@ -1153,8 +1147,6 @@
         "matches": "1111 | 47,26,2,1,1111,12 | 25,1245,2122,23232",
         "non_matches": "111, | 1a1,111,1212,23 | 11aa,aaa,asas,asa"
     },
-
-
     {
         "id": 249,
         "expression": "^\\$?(\\d{1,3},?(\\d{3},?)*\\d{3}(\\.\\d{1,3})?|\\d{1,3}(\\.\\d{2})?)$",
@@ -1183,7 +1175,6 @@
         "matches": "2/2/2000 | 02/02/2000 | 02/2/2000",
         "non_matches": "2.2.2000 | 2-2-2000"
     },
- 
     {
         "id": 254,
         "expression": "^\\d* \\d*\\/{1}\\d*$|^\\d*$",
@@ -1205,7 +1196,6 @@
         "matches": "g_s+gav@com.com | gav@gav.com | jim@jim.c.dc.ca",
         "non_matches": "gs_.gs@com.com | gav@gav.c | jim@--c.ca"
     },
- 
     {
         "id": 262,
         "expression": "(^[A-Z\u00c0-\u00dc]{1}[a-z\u00e0-\u00fc']+\\s[a-zA-Z\u00e0-\u00fc\u00c0-\u00dc]+((([\\s\\.'])|([a-z\u00e0-\u00fc']+))|[a-z\u00e0-\u00fc']+[a-zA-Z\u00e0-\u00fc\u00c0-\u00dc']+))",
@@ -1220,7 +1210,6 @@
         "matches": "31/12/2099 | 1/1/1900 | 10/12/2003",
         "non_matches": "05/11/3000 | 11/13/2003 | 32/04/2030"
     },
-
     {
         "id": 265,
         "expression": "^(\\{|\\[|\\().+(\\}|\\]|\\)).+$",
@@ -1235,7 +1224,6 @@
         "matches": "zigamorph.com | www.zigamorph.com | localhost",
         "non_matches": "http://www.zigamorph.com | ftp://zigamorph.com | localhost/default.aspx"
     },
-
     {
         "id": 269,
         "expression": "^([a-zA-Z.\\s']{1,50})$",
@@ -1789,8 +1777,6 @@
         "matches": "02-343536 | 02/343536 | 02 343536",
         "non_matches": "02a343536 | 02+343536"
     },
-
-
     {
         "id": 386,
         "expression": "^(\\d+|[a-zA-Z]+)$",
@@ -1798,7 +1784,6 @@
         "matches": "aaaaadddaaaaa | 1166633337",
         "non_matches": "1n | ppppp99"
     },
-
     {
         "id": 392,
         "expression": "\\.com/(\\d+)$",
@@ -1932,7 +1917,6 @@
         "matches": "31/12/75 | 29/02/00 | 29/02/04",
         "non_matches": "01/13/01 | 29/02/01 | 29/02/2004"
     },
- 
     {
         "id": 429,
         "expression": "^(0)$|^([1-9][0-9]*)$",
@@ -1996,8 +1980,6 @@
         "matches": "January 2004 | Jan, 2004 | january 2003",
         "non_matches": "Janu 2004 | jAn, 2004 | January,2003"
     },
-
- 
     {
         "id": 452,
         "expression": "^[a-zA-Z]+(([\\'\\,\\.\\-][a-zA-Z])?[a-zA-Z]*)*$",
@@ -2173,7 +2155,6 @@
         "matches": "password1 | pa$$word2 | pa!@#$%3",
         "non_matches": "password | 1stpassword | $password#"
     },
- 
     {
         "id": 507,
         "expression": "^[A-Z].*$",
@@ -2181,7 +2162,6 @@
         "matches": "Lewis | Edward | Moten",
         "non_matches": "lewis | 1moten | @home"
     },
-
     {
         "id": 510,
         "expression": "^[01]?[- .]?\\(?[2-9]\\d{2}\\)?[- .]?\\d{3}[- .]?\\d{4}$",
@@ -2203,7 +2183,6 @@
         "matches": "405.234 | 50 | 213123.456 | -1 | N/A",
         "non_matches": "bathreader | this is N/A | 3.14159 | +10"
     },
-
     {
         "id": 517,
         "expression": "^([A-HK-PRSVWY][A-HJ-PR-Y])\\s?([0][2-9]|[1-9][0-9])\\s?[A-HJ-PR-Z]{3}$",
@@ -2358,7 +2337,6 @@
         "matches": "James Kramer | Sir Richard Branson | 33 yoYo 654 ma",
         "non_matches": "33 66 4ju"
     },
-   
     {
         "id": 567,
         "expression": "^(([a-zA-Z]:)|(\\\\{2}\\w+)\\$?)(\\\\(\\w[\\w ]*.*))+\\.(txt|TXT)$",
@@ -2366,20 +2344,12 @@
         "matches": "C:\\Documents and Settings\\roman.lukyanenko\\Desktop\\stuff\\b_card2.txt",
         "non_matches": "C:\\file.doc"
     },
-  
     {
         "id": 569,
         "expression": "^(((\\d{4})(0[13578]|10|12)(0[1-9]|[12][0-9]|3[01]))|((\\d{4})(0[469]|11)([0][1-9]|[12][0-9]|30))|((\\d{4})(02)(0[1-9]|1[0-9]|2[0-8]))|(([02468][048]00)(02)(29))|(([13579][26]00) (02)(29))|(([0-9][0-9][0][48])(02)(29))|(([0-9][0-9][2468][048])(02)(29))|(([0-9][0-9][13579][26])(02)(29))|(00000000)|(88888888)|(99999999))?$",
         "description": "it's for date in the format: &quot;yyyymmdd&quot; and it validates the empty string and some special values (00000000,88888888,99999999) but you can delete these last values. It works with leap years.",
         "matches": "20041212 | 20040229 | 88888888",
         "non_matches": "20040230 | 20041330"
-    },
-    {
-        "id": 570,
-        "expression": "\\xA9",
-        "description": "Matches the copyright symbol (&amp;copy;). Pretty simple, yet I dont think existed on RegExLib before.",
-        "matches": "\u00a9",
-        "non_matches": "anything"
     },
     {
         "id": 571,
@@ -2507,8 +2477,6 @@
         "matches": "29/02/2004 | 31/01/1900 | 31/01/2999",
         "non_matches": "29/02/2003 | 12042004 | 20/04/04"
     },
- 
-
     {
         "id": 634,
         "expression": "^([1-9]|[1-9]\\d|100)$",
@@ -2565,7 +2533,6 @@
         "matches": "0 | 123 | -123",
         "non_matches": "001 | -012 | -002"
     },
-
     {
         "id": 644,
         "expression": "[:]{1}[-~+o]?[)&gt;]+",
@@ -2643,7 +2610,6 @@
         "matches": "http://www.zeropanic.co.uk/ | http://www.zeropanic.co.uk:81/ | http://www.zeropanic.co.uk:81",
         "non_matches": "http://www.zeropanic.com:81/"
     },
-
     {
         "id": 660,
         "expression": "^([0-9a-fA-F]{1,2})(\\s[0-9a-fA-F]{1,2})*$",
@@ -2721,7 +2687,6 @@
         "matches": "a1b2c3 | abcdefg123 | 12345a",
         "non_matches": "abcdefghij | 1234567890"
     },
-
     {
         "id": 688,
         "expression": "^(((((0?[1-9])|(1\\d)|(2[0-8]))\\.((0?[1-9])|(1[0-2])))|((31\\.((0[13578])|(1[02])))|((29|30)\\.((0?[1,3-9])|(1[0-2])))))\\.((20[0-9][0-9]))|(29\\.0?2\\.20(([02468][048])|([13579][26]))))$",
@@ -2743,7 +2708,6 @@
         "matches": "testfile.txt | .txt | this is a file.txt",
         "non_matches": "this is not a file.trt | .tst | .text"
     },
-
     {
         "id": 697,
         "expression": "((DK|FI|HU|LU|MT|SI)(-)?\\d{8})|((BE|EE|DE|EL|LT|PT)(-)?\\d{9})|((PL|SK)(-)?\\d{10})|((IT|LV)(-)?\\d{11})|((LT|SE)(-)?\\d{12})|(AT(-)?U\\d{8})|(CY(-)?\\d{8}[A-Z])|(CZ(-)?\\d{8,10})|(FR(-)?[\\dA-HJ-NP-Z]{2}\\d{9})|(IE(-)?\\d[A-Z\\d]\\d{5}[A-Z])|(NL(-)?\\d{9}B\\d{2})|(ES(-)?[A-Z\\d]\\d{7}[A-Z\\d])",
@@ -2751,7 +2715,6 @@
         "matches": "CZ-7907111883 | ESA12345678 | FRAB123456789",
         "non_matches": "CZ55912 | XY123456 | FR-IB123456789"
     },
-
     {
         "id": 702,
         "expression": "^((CN=['\\w\\d\\s\\-\\&amp;]+,)+(OU=['\\w\\d\\s\\-\\&amp;]+,)*(DC=['\\w\\d\\s\\-\\&amp;]+[,]*){2,})$",
@@ -3250,13 +3213,6 @@
         "non_matches": "05-43021212 | 123-4567890 | 1234567890"
     },
     {
-        "id": 826,
-        "expression": "^((A(((H[MX])|(M(P|SN))|(X((D[ACH])|(M[DS]))?)))?)|(K7(A)?)|(D(H[DLM])?))(\\d{3,4})[ABD-G][CHJK-NPQT-Y][Q-TV][1-4][B-E]$",
-        "description": "Matches valid reference codes for AMD Athlon and Duron processors (not Athlon 64).",
-        "matches": "AXDA3200DKV4E | A1000AMT3B | D800AUT1B",
-        "non_matches": "N/A"
-    },
-    {
         "id": 827,
         "expression": "^((?:2[0-5]{2}|1\\d{2}|[1-9]\\d|[1-9])\\.(?:(?:2[0-5]{2}|1\\d{2}|[1-9]\\d|\\d)\\.){2}(?:2[0-5]{2}|1\\d{2}|[1-9]\\d|\\d)):(\\d|[1-9]\\d|[1-9]\\d{2,3}|[1-5]\\d{4}|6[0-4]\\d{3}|654\\d{2}|655[0-2]\\d|6553[0-5])$",
         "description": "IPv4 ip:port checker, I hope it will help you. $1 - IP, $2 - port. More to come, maybe :)",
@@ -3330,7 +3286,7 @@
         "id": 842,
         "expression": "([^\\.\\?\\!]*)[\\.\\?\\!]",
         "description": "Finds sentences (assuming they end with a full stop, question mark or exclamation mark).",
-        "matches": "This is a series of sentences. They end predictably! Where would we be without punctuation?",
+        "matches": "This is a series of sentences. | They end predictably! | Where would we be without punctuation?",
         "non_matches": "This sentence just trails off"
     },
     {
@@ -3508,8 +3464,6 @@
         "matches": "FEDC:BA98:7654:3210:FEDC:BA98:7654:3210 | 1080::8:800:200C:417A | ::FFFF:129.144.52.38",
         "non_matches": "FEDC::7654:3210::BA98:7654:3210 | FEDC:BA98:7654:3210 | ::"
     },
- 
-
     {
         "id": 888,
         "expression": "^(\\$|)([1-9]+\\d{0,2}(\\,\\d{3})*|([1-9]+\\d*))(\\.\\d{2})?$",
@@ -3755,7 +3709,6 @@
         "matches": "999-99999995 | 123-47859683 | 156-78965422",
         "non_matches": "123-47859689 | 9999999999 | 9588-58964"
     },
-
     {
         "id": 940,
         "expression": "(^[0-9]*[1-9]+[0-9]*\\.[0-9]*$)|(^[0-9]*\\.[0-9]*[1-9]+[0-9]*$)|(^[0-9]*[1-9]+[0-9]*$)",
@@ -3763,7 +3716,6 @@
         "matches": "0.01 | 010001.011010 | .234",
         "non_matches": "0.00 OR . | 010001.011010E | 1.234.5"
     },
-
     {
         "id": 943,
         "expression": "(a(?:[cdefgilmnoqrstuwxz]|ero|(?:rp|si)a)|b(?:[abdefghijmnorstvwyz]iz)|c(?:[acdfghiklmnoruvxyz]|at|o(?:m|op))|d[ejkmoz]|e(?:[ceghrstu]|du)|f[ijkmor]|g(?:[abdefghilmnpqrstuwy]|ov)|h[kmnrtu]|i(?:[delmnoqrst]|n(?:fo|t))|j(?:[emop]|obs)|k[eghimnprwyz]|l[abcikrstuvy]|m(?:[acdeghklmnopqrstuvwxyz]|il|obi|useum)|n(?:[acefgilopruz]|ame|et)|o(?:m|rg)|p(?:[aefghklmnrstwy]|ro)|qa|r[eosuw]|s[abcdeghijklmnortuvyz]|t(?:[cdfghjklmnoprtvwz]|(?:rav)?el)|u[agkmsyz]|v[aceginu]|w[fs]|y[etu]|z[amw])",
@@ -4128,7 +4080,6 @@
         "matches": "interface I_Point",
         "non_matches": "interface IPoint"
     },
-   
     {
         "id": 1047,
         "expression": "(<[^>]*?tag[^>]*?(?:identify_by)[^>]*>)((?:.*?(?:<[ \\r\\t]*tag[^>]*>?.*?(?:<.*?/.*?tag.*?>)?)*)*)(<[^>]*?/[^>]*?tag[^>]*?>)",
@@ -4220,7 +4171,6 @@
         "matches": "remove all interior vowels",
         "non_matches": "A"
     },
-
     {
         "id": 1090,
         "expression": "^[0-9]*\\/{1}[1-9]{1}[0-9]*$",
@@ -4327,14 +4277,6 @@
         "non_matches": "1800 | a | 2101"
     },
     {
-        "id": 1112,
-        "expression": "0{3,}|1{3,}|2{3,}|3{3,}|4{3,}|5{3,}|6{3,}|7{3,}|8{3,}|9{3,}",
-        "description": "An expression to look for numbers that repeat 3 or more times in succession.",
-        "matches": "122234567 | 1234444444 | 12345999",
-        "non_matches": "123456 | 1335855 | 1983464"
-    },
-
-    {
         "id": 1117,
         "expression": "\\b(((?!\\d\\d\\d)\\d+|1\\d\\d|2[0-4]\\d|25[0-5])(\\b|\\.)){4}",
         "description": "match valid ip",
@@ -4390,7 +4332,6 @@
         "matches": "// some comment | #region myRegion | /* other comment */",
         "non_matches": "for(int i = 0; i &lt; 10; i++) | [XmlAttribute(&quot;somthing_else&quot;) | String name = &quot;MyNa"
     },
- 
     {
         "id": 1145,
         "expression": "(0[289][0-9]{2})|([1345689][0-9]{3})|(2[0-8][0-9]{2})|(290[0-9])|(291[0-4])|(7[0-4][0-9]{2})|(7[8-9][0-9]{2})",
@@ -4419,8 +4360,6 @@
         "matches": "M2 5BQ | EC1A 1HQ | GIR 0AA",
         "non_matches": "M2 BQ5 | E31A 1HQ | GIR0AA"
     },
- 
-
     {
         "id": 1164,
         "expression": "(NL-?)?[0-9]{9}B[0-9]{2}",
@@ -4442,7 +4381,6 @@
         "matches": "www.domain.com | your-domain.com | www.sub-domain.your-domain.museum",
         "non_matches": ".domain.com | your---domain.com | www.-sub-.com"
     },
-
     {
         "id": 1177,
         "expression": "^(([a-zA-Z]+\\d+)|(\\d+[a-zA-Z]+))[a-zA-Z0-9]*$",
@@ -4575,13 +4513,6 @@
         "description": "The OAGIS standard has a format for phone and fax as +###(###)#######. For details on standard see the open applications group.",
         "matches": "+555(555)5555555 | +1(800)5555555",
         "non_matches": "555"
-    },
-    {
-        "id": 1245,
-        "expression": "(((\\+44)? ?(\\(0\\))? ?)|(0))( ?[0-9]{3,4}){3}",
-        "description": "This regex matches UK phone numbers in multiple formats, including those that begin with the international dial code and optionally bracket the leading zero of the area code. To match a number must begin with either +44 or 0 and have 9-12 following digits.",
-        "matches": "+44 (0) 1234 567890 or +44 1234 567890 or 01234 567890 or 0123 456 7890",
-        "non_matches": "Numbers not beginning with 0 or +44 and numbers with less than 9 digits"
     },
     {
         "id": 1246,
@@ -4766,13 +4697,6 @@
         "non_matches": "1223876776 | 4023100923"
     },
     {
-        "id": 1336,
-        "expression": "^-?([1]?[1-7][1-9]|[1]?[1-8][0]|[1-9]?[0-9])\\.{1}\\d{1,6}",
-        "description": "Longitude validation (similiar to Latitude Validation) and inspired by the same code",
-        "matches": "180.0 | -180.0| 98.092391",
-        "non_matches": "181| 180| -98.0923913"
-    },
-    {
         "id": 1341,
         "expression": "^(([1-9]{1}\\d{0,2},(\\d{3},)*\\d{3})|([1-9]{1}\\d{0,}))$",
         "description": "Matches whole numbers only, including comma separated. Does not allow leading zeros. To match comma separated numbers only, change \"\\d{0,}\" to \"\\d{0,2}\". To match 0, add \"|([0])\" before \")$\". If you want to use it with Java's regexp match(), remove \"^(\" and \")$\" since they are not needed.",
@@ -4891,7 +4815,6 @@
         "matches": "12.025.365-6 | 5.698.124-k | 7.999.647-K",
         "non_matches": "125.326.452-1 | 15.336.054-H | 15254587k"
     },
-
     {
         "id": 1394,
         "expression": "<!--\\s*\\#\\s*include\\s+(file|virtual)\\s*=\\s*([\"'])([^\"'<>\\|\\b]+/)*([^\"'<>/\\|\\b]+)\\2\\s*-->",
@@ -4934,7 +4857,6 @@
         "matches": "fix #313 | references #1024 and #1337",
         "non_matches": "fixed 313 | refer #1024"
     },
-
     {
         "id": 1410,
         "expression": "\\d{2}[.]{1}\\d{2}[.]{1}[0-9A-Za-z]{1}",
@@ -4970,7 +4892,6 @@
         "matches": "4111111111111111",
         "non_matches": "4903020000000008"
     },
-
     {
         "id": 1425,
         "expression": "(^(5[0678])\\d{11,18}$)|(^(6[^05])\\d{11,18}$)|(^(601)[^1]\\d{9,16}$)|(^(6011)\\d{9,11}$)|(^(6011)\\d{13,16}$)|(^(65)\\d{11,13}$)|(^(65)\\d{15,18}$)|(^(49030)[2-9](\\d{10}$|\\d{12,13}$))|(^(49033)[5-9](\\d{10}$|\\d{12,13}$))|(^(49110)[1-2](\\d{10}$|\\d{12,13}$))|(^(49117)[4-9](\\d{10}$|\\d{12,13}$))|(^(49118)[0-2](\\d{10}$|\\d{12,13}$))|(^(4936)(\\d{12}$|\\d{14,15}$))",
@@ -5027,7 +4948,6 @@
         "matches": "drwxr-xr-x 5 user dba 1024 Sep 24 21:24 dirname",
         "non_matches": "drwxr-xr-x 5 user dba 1024 Sep 24_21:24 dirname"
     },
-
     {
         "id": 1439,
         "expression": "^[\\w]{1,}$",
@@ -5035,8 +4955,6 @@
         "matches": "a123b",
         "non_matches": "a 1"
     },
-
-  
     {
         "id": 1446,
         "expression": "^[ISBN]{4}[ ]{0,1}[0-9]{1}[-]{1}[0-9]{3}[-]{1}[0-9]{5}[-]{1}[0-9]{0,1}$",
@@ -5227,13 +5145,6 @@
         "non_matches": "INSERT INTO table VALUES (value1, value2)"
     },
     {
-        "id": 1510,
-        "expression": "^(([-\\w$%&'*+\\/=?^_`{|}~.]+)@(([-a-zA-Z0-9_]+\\.)*)([-a-zA-Z0-9]+\\.)([a-zA-Z0-9]{2,7}))?$",
-        "description": "RFC2822 compliant email matching regex that doesn't assume TLDs are set for all time. Clearly this means that someone could get a 2 letter country code wrong, but since no TLD is set in stone, I prefer to match future possibilities as well. This also conforms to what traditional DNS can do w/r/t hostnames and domain names.",
-        "matches": "john.o'malley@mail.example.org",
-        "non_matches": "aoluser1"
-    },
-    {
         "id": 1512,
         "expression": "^(((19|20)(([0][48])|([2468][048])|([13579][26]))|2000)[\\-](([0][13578]|[1][02])[\\-]([012][0-9]|[3][01])|([0][469]|11)[\\-]([012][0-9]|30)|02[\\-]([012][0-9]))|((19|20)(([02468][1235679])|([13579][01345789]))|1900)[\\-](([0][13578]|[1][02])[\\-]([012][0-9]|[3][01])|([0][469]|11)[\\-]([012][0-9]|30)|02[\\-]([012][0-8])))$",
         "description": "This regex match dates in the international standard date notation by ISO (IS0 8601). It can validate any dates between 1900-01-01 and 2099-12-31 ant take account of leap years. The format is mandatory and the hyphen is needed. You could easily change it to accept other separators. It has been tested with Regex Coach and PHP.",
@@ -5247,7 +5158,6 @@
         "matches": "100,000,000.00|-100,000,000.00|100,000,000|-100,000,000|100000000.00|-100000000.00|100000000|-100000000",
         "non_matches": "100,000,00.00|1000.000|1000."
     },
-
     {
         "id": 1520,
         "expression": "^1?[1-2]$|^[1-9]$|^[1]0$",
@@ -5333,20 +5243,12 @@
         "non_matches": "19x.168.1.19"
     },
     {
-        "id": 1550,
-        "expression": "^\\$\\d{1,3}(,?\\d{3})*(\\.\\d{2})?$",
-        "description": "Looks for a number which can be optionally comma separated at thousands and may or may not have two decimal places. Tweaking: 1. Replace the \\$ symbol with your currency. 2. Toggle , and . as separators (Some European countries follow this convention) 3. Mandate comma separation by removing the ? after ,",
-        "matches": "$333,444,444,555.99",
-        "non_matches": "$333,444,444,55"
-    },
-    {
         "id": 1553,
         "expression": "^((0|[1-9]+[0-9]*)-(0|[1-9]+[0-9]*);|(0|[1-9]+[0-9]*);)*?((0|[1-9]+[0-9]*)-(0|[1-9]+[0-9]*)|(0|[1-9]+[0-9]*)){1}$",
         "description": "Matches any range of numbers according to the format x;x-xx where \"x\" is a number between 0 and 9, however 0 may not be a the starting digit of a multi-digit number (i.e. 001). The format specifies that a range is denoted by x-x (numbers are seperated by a hyphen) and multiple range specification or single numbers may be seperated by a semi-colon \";\".",
         "matches": "0 | 0-3 | 1;2 | 1;2-3 | 2-3;10 | 1-2;3-40",
         "non_matches": "1; | 2-3; | a;1 | 2-3;a | 001-3 | 1-003"
     },
-   
     {
         "id": 1566,
         "expression": "^\\d*[0-9](\\.\\d?[0-9])?$",
@@ -5368,7 +5270,6 @@
         "matches": "2007-07-01 01:01:01 | 2007-08-04 18:01:01",
         "non_matches": "2007-07-01 | 2007/07/01 | 2007-08-04 24:00:00 | 2007/07/01 12:12"
     },
-
     {
         "id": 1579,
         "expression": "(^[0][.]{1}[0-9]{0,}[1-9]+[0-9]{0,}$)|(^[1-9]+[0-9]{0,}[.]?[0-9]{0,}$)",
@@ -5387,8 +5288,8 @@
         "id": 1585,
         "expression": "([0-9a-zA-Z]([-.\\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\\w]*[0-9a-zA-Z]\\.)+[a-zA-Z]{2,9})$",
         "description": "This pattern validates email address. it allows (1)numeric characters and underscore(_) in an address.(2)numeric characters in domain name. it doesn't match user names with a dot(.). doesn;t allow username starting or ending with @ underscore.",
-        "matches": "san_z@asg.com,xy_z@123g.co.in, san@ss.com.in",
-        "non_matches": "ssaa_s@asg.c, a@a.com, san@s.co.in, san@apr.com.in.i"
+        "matches": "san_z@asg.com|xy_z@123g.co.in| san@ss.com.in",
+        "non_matches": "ssaa_s@asg.c| a@a.com| san@s.co.in| san@apr.com.in.i"
     },
     {
         "id": 1586,
@@ -5408,8 +5309,8 @@
         "id": 1588,
         "expression": "(15(8[48]|9[26]))|((1[6-9]|[2-9]\\d)(0[48]|[13579][26]|[2468][048]))|(([2468][048]|16|3579[26])00)",
         "description": "Validates four-digit leap years after 1582 (when Pope Gregory XIII switched to the Gregorian calendar). The last recognized leap year is 9996, so no worries with the y3k bug.",
-        "matches": "1584, 2000, 2048",
-        "non_matches": "1200, 1580, 1941, 1800"
+        "matches": "1584 | 2000 | 2048",
+        "non_matches": "1200 | 1580 | 1941 | 1800"
     },
     {
         "id": 1589,
@@ -5446,7 +5347,6 @@
         "matches": "http://website.com | http://subdomain.web-site.com/cgi-bin/perl.cgi?key1=value1&key2=value2",
         "non_matches": "http://website.com/perl.cgi?key= | http://web-site.com/cgi-bin/perl.cgi?key1=value1&key2"
     },
-
     {
         "id": 1599,
         "expression": "^(http\\:\\/\\/[a-zA-Z0-9\\-\\.]+\\.[a-zA-Z]{2,3}(?:\\/\\S*)?(?:[a-zA-Z0-9_])+\\.(?:jpg|jpeg|gif|png))$",
@@ -5461,8 +5361,6 @@
         "matches": "2007-01-01 00:00",
         "non_matches": "2007-1-1 0:0"
     },
-
-
     {
         "id": 1606,
         "expression": "(?:\\([2-9][0-8]\\d\\)\\ ?|[2-9][0-8]\\d[\\-\\ \\.\\/]?)[2-9]\\d{2}[- \\.\\/]?\\d{4}\\b",
@@ -5502,8 +5400,8 @@
         "id": 1632,
         "expression": "(?=[-_a-zA-Z0-9]*?[A-Z])(?=[-_a-zA-Z0-9]*?[a-z])(?=[-_a-zA-Z0-9]*?[0-9])[-_a-zA-Z0-9]{6,}",
         "description": "Tests if the input consists of 6 or more letters, digits, underscores and hyphens. The input must contain at least one upper case ltter, one lower case letter and one digit.",
-        "matches": "M0_k3y Pa-sW0rd S1mPl3",
-        "non_matches": "MonKey PassWord simple"
+        "matches": "M0_k3y | Pa-sW0rd | S1mPl3",
+        "non_matches": "MonKey | PassWord | simple"
     },
     {
         "id": 1633,
@@ -5519,20 +5417,12 @@
         "matches": "192.168.0.17 | 192.168.0.24 | 192.168.0.32",
         "non_matches": "192.168.0.16 | 192.168.0.33"
     },
-
     {
         "id": 1638,
         "expression": "^(\\$)?((\\d{1,5})|(\\d{1,3})(\\,\\d{3})*)(\\.\\d{1,2})?$",
         "description": "This regular expression is used for validating five digit numeric value which can be an amount $ separated with , sign.",
         "matches": "80,000.00 | 80,000 | 80000 | 80.00 | $80000.00",
         "non_matches": "800,00.00 | 80.000 | $8,0000.00"
-    },
-    {
-        "id": 1640,
-        "expression": "(.*)-----(BEGIN|END)([^-]*)-----(.*)",
-        "description": "This is very useful if you dont want your employees to send encrypted mail, or downloading public keys from HTTP. It also catches certficates, CSR and other useless stuff that is only used to hide data from antivirus programs and such things.",
-        "matches": "-----BEGIN PGP ENCRYPTED MESSAGE-----,-----END CERTIFICATE SIGNING REQUEST-----,-----END RSA PRIVATE KEY-----",
-        "non_matches": "-----This is a header-----,-----Account info-----"
     },
     {
         "id": 1642,
@@ -5632,7 +5522,6 @@
         "matches": "aaa",
         "non_matches": "bbb"
     },
-
     {
         "id": 1683,
         "expression": "^([A-Z]+[a-zA-Z]*)(\\s|\\-)?([A-Z]+[a-zA-Z]*)?(\\s|\\-)?([A-Z]+[a-zA-Z]*)?$",
@@ -5654,7 +5543,6 @@
         "matches": "2007-11-02T18:00:00.1234 | 2000-02-29T12:00:12+03:00",
         "non_matches": "2005-01-20 | 23:00:00"
     },
-
     {
         "id": 1696,
         "expression": "^(([0-9]|1[0-9]|2[0-4])(\\.[0-9][0-9]?)?)$|([2][5](\\.[0][0]?)?)$",
@@ -5697,7 +5585,6 @@
         "matches": "$YYYY$$MM$$DD$",
         "non_matches": "$YY$$MM$$DD$"
     },
-
     {
         "id": 1715,
         "expression": "^[1-9]\\d?-\\d{7}$",
@@ -5782,7 +5669,6 @@
         "matches": "MyServer:8080",
         "non_matches": "1Server:A1 | Server:AAA"
     },
-  
     {
         "id": 1762,
         "expression": "(^([0-9]*[.][0-9]*[1-9]+[0-9]*)$)|(^([0-9]*[1-9]+[0-9]*[.][0-9]+)$)|(^([1-9]+[0-9]*)$)",
@@ -5958,7 +5844,6 @@
         "matches": "01-02-2006 | 12-31-2007 | 1-1-2008",
         "non_matches": "01-02-1999 | 13-32-2008 | 01/31/2008"
     },
-
     {
         "id": 1827,
         "expression": "^(http\\:\\/\\/(?:www\\.)?[a-zA-Z0-9]+(?:(?:\\-|_)[a-zA-Z0-9]+)*(?:\\.[a-zA-Z0-9]+(?:(?:\\-|_)[a-zA-Z0-9]+)*)*\\.[a-zA-Z]{2,7}(?:\\/)?)$",
@@ -5979,13 +5864,6 @@
         "description": "Checks whether the entered string looks like a URI, with a specified protocol. Optionally, you can add the port number, and some GET variables.\nThe control is quite loose, but it's a choice of mine.\nComments and corrections are welcome.",
         "matches": "this://is.accepted.com/?and=it&sO=K | this://is.accept.ed?too= | and://also.this.one:12/?is=right",
         "non_matches": "this.is.NOT.accepted | neither://this.is&one | abs://olut.ely.no:way"
-    },
-    {
-        "id": 1831,
-        "expression": "^([0-9]*)+(,[0-9]+)+$",
-        "description": "This regular expression is used to validate only comma separated numbers.",
-        "matches": "100,200,300",
-        "non_matches": "100,200,"
     },
     {
         "id": 1832,
@@ -6082,8 +5960,8 @@
         "id": 1863,
         "expression": "^\\s*[a-zA-Z0-9,\\s]+\\s*$",
         "description": "Will take space, number, no special characters",
-        "matches": "Project Name1, Project 1",
-        "non_matches": "Project@1, Project Name^111"
+        "matches": "Project Name1| Project 1",
+        "non_matches": "Project@1| Project Name^111"
     },
     {
         "id": 1866,
@@ -6124,7 +6002,7 @@
         "id": 1881,
         "expression": "^http[s]?://([a-zA-Z0-9\\-]+\\.)*([a-zA-Z]{3,61}|[a-zA-Z]{1,}\\.[a-zA-Z]{2})/.*$",
         "description": "Used for matching a URL and can be used for extracting the domain name from a given URL ending with '/'.\nConcat $2 and $3 to get the domain name.",
-        "matches": "http://www.google.com/;http://google.com/;http://code.google.com/;http://google.co.uk/;http://tx.us/",
+        "matches": "http://www.google.com/|http://google.com/|http://code.google.com/|http://google.co.uk/|http://tx.us/",
         "non_matches": "http://www.google.com;"
     },
     {
@@ -6250,8 +6128,8 @@
         "id": 1916,
         "expression": "(((0[13578]|10|12)([/])(0[1-9]|[12][0-9]|3[01])([/])([1-2][0,9][0-9][0-9]))|((0[469]|11)([/])([0][1-9]|[12][0-9]|30)([/])([1-2][0,9][0-9][0-9]))|((02)([/])(0[1-9]|1[0-9]|2[0-8])([/])([1-2][0,9][0-9][0-9]))|((02)([/])(29)(\\.|-|\\/)([02468][048]00))|((02)([/])(29)([/])([13579][26]00))|((02)([/])(29)([/])([0-9][0-9][0][48]))|((02)([/])(29)([/])([0-9][0-9][2468][048]))|((02)([/])(29)([/])([0-9][0-9][13579][26])))",
         "description": "This is the USA Date Format. MM/DD/YYYY with checking leaf year",
-        "matches": "05/15/2008,02/29/2008",
-        "non_matches": "05-12-2008,02/29/2007"
+        "matches": "05/15/2008|02/29/2008",
+        "non_matches": "05-12-2008|02/29/2007"
     },
     {
         "id": 1921,
@@ -6271,8 +6149,8 @@
         "id": 1925,
         "expression": "^[:*:]",
         "description": "This checks whether the string is equals to \"*\" i.e., contains only \"*(Asterisk)\" or begins with Asterisk.",
-        "matches": "*, *Asdf",
-        "non_matches": "a*, asdf"
+        "matches": "* | *Asdf",
+        "non_matches": "a* | asdf"
     },
     {
         "id": 1927,
@@ -6287,13 +6165,6 @@
         "description": "This simple expression is used to validate fractions or UK odds.\nIt will match integers, allowing 10/1 to be entered as 10, and fractions.\nIt will not match negative numbers or fractions, spaces or any alphabetical characters.",
         "matches": "10 | 2/3 | 100/30",
         "non_matches": "-10 | -2/3 | text | 10 / 1 | 42/7eok"
-    },
-    {
-        "id": 1932,
-        "expression": "^[0-9]$|[1-9]+[0-9]$",
-        "description": ">=0 & <100????",
-        "matches": "0,56,99",
-        "non_matches": "-1,01,100"
     },
     {
         "id": 1933,
@@ -6320,7 +6191,7 @@
         "id": 1944,
         "expression": "http[s]?://[a-zA-Z0-9.-/]+",
         "description": "Checks to make sure that entry starts with http:// or https:// and that contents are limited to alphas . - /",
-        "matches": "http://www.google.com https://www.google.com http://localhost/",
+        "matches": "http://www.google.com | https://www.google.com | http://localhost/",
         "non_matches": "www.google.com"
     },
     {
@@ -6369,8 +6240,8 @@
         "id": 1960,
         "expression": "(((0*[1-9]|[12][0-9]|3[01])([-./])(0*[13578]|10|12)([-./])(\\d{4}))|((0*[1-9]|[12][0-9]|30)([-./])(0*[469]|11)([-./])(\\d{4}))|((0*[1-9]|1[0-9]|2[0-8])([-./])(02|2)([-./])(\\d{4}))|((29)(\\.|-|\\/)(02|2)([-./])([02468][048]00))|((29)([-./])(02|2)([-./])([13579][26]00))|((29)([-./])(02|2)([-./])([0-9][0-9][0][48]))|((29)([-./])(02|2)([-./])([0-9][0-9][2468][048]))|((29)([-./])(02|2)([-./])([0-9][0-9][13579][26])))",
         "description": "Date in DD/MM/YYYY or D/M/YYYY format.",
-        "matches": "01/06/2008,1/1/2008",
-        "non_matches": "32/13/2008,00/00/2005"
+        "matches": "01/06/2008|1/1/2008",
+        "non_matches": "32/13/2008|00/00/2005"
     },
     {
         "id": 1962,
@@ -6386,14 +6257,6 @@
         "matches": "0|0.00|50.25|100|100.00",
         "non_matches": "100.01|-1|5.005"
     },
-    {
-        "id": 1967,
-        "expression": "^[^ \\\\/:*?\"\"<>|]+([ ]+[^ \\\\/:*?\"\"<>|]+)*$",
-        "description": "This was written for C# and so you should just be able to drop it into your C# program.\nAlthough you can create files with leading and trailing spaces through non-GUI means, the Windows GUI itself eats those spaces if you try to rename the file. For this reason I made the decision to consider file names with leading and trailing spaces invalid.\nThis has been tested against large data sets.",
-        "matches": "bla, file.txt, !@#$",
-        "non_matches": "bla , file:txt, /\\*?"
-    },
-
     {
         "id": 1970,
         "expression": "<\\/*?(?![^>]*?\\b(?:a|img)\\b)[^>]*?>",
@@ -6419,8 +6282,8 @@
         "id": 1973,
         "expression": "^.*[_A-Za-z0-9]+[\\t ]+[\\*&]?[\\t ]*[_A-Za-z0-9](::)?[_A-Za-z0-9:]+[\\t ]*\\(( *[ \\[\\]\\*&A-Za-z0-9_]+ *,? *)*\\).*$",
         "description": "This (while not perfect) locates c++ function declarations. Useful for working with large source files",
-        "matches": "void helloworld(), FILE *MyClass::getFile(), int getFibbNum (int place)",
-        "non_matches": "getFibbNum(3), int MyNum;, for (int x=1 ... )"
+        "matches": "void helloworld()| FILE *MyClass::getFile()| int getFibbNum (int place)",
+        "non_matches": "getFibbNum(3)| int MyNum;| for (int x=1 ... )"
     },
     {
         "id": 1974,
@@ -6441,7 +6304,7 @@
         "expression": "(\\d{3}\\-\\d{2}\\-\\d{4})",
         "description": "pattern match for U.S. social security number",
         "matches": "111-22-3333",
-        "non_matches": "11-222-3333, 1111-22-333"
+        "non_matches": "11-222-3333| 1111-22-333"
     },
     {
         "id": 1979,
@@ -6468,8 +6331,8 @@
         "id": 1991,
         "expression": "^((\\(\\d{3}\\) ?)|(\\d{3}-)|(\\(\\d{2}\\) ?)|(\\d{2}-)|(\\(\\d{1}\\) ?)|(\\d{1}-))?\\d{3}-(\\d{3}|\\d{4})",
         "description": "Esta es la expresion regular adaptada por mi para validar telefonos fijos chilenos de cualquier compa\u00f1ia, espero sirva a alguien",
-        "matches": "(041)245-9848, (063)421-232",
-        "non_matches": "0412459848, 063421232"
+        "matches": "(041)245-9848| (063)421-232",
+        "non_matches": "0412459848| 063421232"
     },
     {
         "id": 2008,
@@ -6496,8 +6359,8 @@
         "id": 2013,
         "expression": "([.])([a-z,1-9]{3,4})(\\/)",
         "description": "Returns the TLD from a URL.",
-        "matches": ".com/ .net/ .biz/ .123/ .mobi/",
-        "non_matches": ".co.uk/ .org.uk/"
+        "matches": ".com/| .net/| .biz/ |.123/ |.mobi/",
+        "non_matches": ".co.uk/ |.org.uk/"
     },
     {
         "id": 2014,
@@ -6532,7 +6395,7 @@
         "expression": "\\b[1-9]\\d{3}\\ +[A-Z]{2}\\b",
         "description": "Dutch postal codes are ranged from \"1000 AA\" to \"9999 ZZ\".",
         "matches": "\"1484 EE\"",
-        "non_matches": "\"1484EE\", \"0111 AB\", \"1484 ee\", \"1234 ABC\""
+        "non_matches": "\"1484EE\"| \"0111 AB\"| \"1484 ee\"| \"1234 ABC\""
     },
     {
         "id": 2035,
@@ -6545,8 +6408,8 @@
         "id": 2037,
         "expression": "^[a-zA-Z0-9]+[\\s]*[a-zA-Z0-9.\\-\\,\\#]+[\\s]*[a-zA-Z0-9.\\-\\,\\#]+[a-zA-Z0-9\\s.\\-\\,\\#]*$",
         "description": "US Addresses validation having atleast 3 characters ignoring any spaces. Can have hash \"#\" comma \",\" dash \"-\" dot \".\" but cannot start with these.",
-        "matches": "123 E DRACHMAN TUCSON AZ 12345, St # 123, North AVE New York. NY 12345",
-        "non_matches": "-1 AVE,1, Aa,#1 Street ,. 20 North,,1 AVE"
+        "matches": "123 E DRACHMAN TUCSON AZ 12345| St # 123, North AVE New York. NY 12345",
+        "non_matches": "-1 AVE,1, Aa|#1 Street ,. 20 North,,1 AVE"
     },
     {
         "id": 2040,
@@ -6594,10 +6457,9 @@
         "id": 2059,
         "expression": "^[a-zA-Z]\\:\\\\.*|^\\\\\\\\.*",
         "description": "Useful for determining whether a string constitutes a valid local or UNC path.",
-        "matches": "\\\\mypath\\mypath1\\myfile.aaa, C:\\mypath\\mypath\\mypath, \\\\otherpath\\otherpath, D:\\somepath\\somefile.file",
-        "non_matches": "http://www.mysite.com, \\\\\\badpath\\badpath, X::\\\\badpath"
+        "matches": "\\\\mypath\\mypath1\\myfile.aaa| C:\\mypath\\mypath\\mypath| \\\\otherpath\\otherpath| D:\\somepath\\somefile.file",
+        "non_matches": "http://www.mysite.com| \\\\\\badpath\\badpath| X::\\\\badpath"
     },
- 
     {
         "id": 2065,
         "expression": "^((((((0[1-9])|(1\\d)|(2[0-8]))\\.((0[123456789])|(1[0-2])))|(((29)|(30))\\.((0[13456789])|(1[0-2])))|((31)\\.((0[13578])|(1[02]))))\\.\\d{4})|((29)\\.(02)\\.\\d{2}(([02468][048])|([13579][26]))))(\\s((0\\d)|(1\\d)|(2[0-3]))\\:([0-5]\\d)\\:([0-5]\\d)\\.\\d{7})$",
@@ -6612,7 +6474,6 @@
         "matches": "SH | OF1234567890 | NP1234",
         "non_matches": "SH123 | SH12D | NI1234 | 1234"
     },
-
     {
         "id": 2072,
         "expression": "^(\\d|\\d{1,9}|1\\d{1,9}|20\\d{8}|213\\d{7}|2146\\d{6}|21473\\d{5}|214747\\d{4}|2147482\\d{3}|21474835\\d{2}|214748364[0-7])$",
@@ -6620,7 +6481,6 @@
         "matches": "0 | 352533 | 2147483647",
         "non_matches": "-1 | 2.4 | 2147483648"
     },
-
     {
         "id": 2080,
         "expression": "^(\\+?)(\\d{2,4})(\\s?)(\\-?)((\\(0\\))?)(\\s?)(\\d{2})(\\s?)(\\-?)(\\d{3})(\\s?)(\\-?)(\\d{2})(\\s?)(\\-?)(\\d{2})",
@@ -6667,7 +6527,7 @@
         "id": 2091,
         "expression": "^([0]\\d|[1][0-2]\\/([0-2]\\d|[3][0-1])\\/([2][0]\\d{2})\\s([0-1]\\d|[2][0-3])\\:[0-5]\\d\\:[0-5]\\d)?\\s(AM|am|aM|Am|PM|pm|pM|Pm)",
         "description": "Date Time with am/pm.",
-        "matches": "10/13/2008 12:00:00 AM, 10/13/2008 12:00:00 PM",
+        "matches": "10/13/2008 12:00:00 AM| 10/13/2008 12:00:00 PM",
         "non_matches": "10/13/2008 12:00:00"
     },
     {
@@ -6702,15 +6562,15 @@
         "id": 2113,
         "expression": "^([a-zA-Z1-9]*)\\.(((a|A)(s|S)(p|P)(x|X))|((h|H)(T|t)(m|M)(l|L))|((h|H)(t|T)(M|m))|((a|A)(s|S)(p|P)))",
         "description": "Validate HTM/HTML/ASP/ASPX\ne.g. PageName.html",
-        "matches": "pagename.html,pagename.aspx,pagename.asp,pagename.htm",
+        "matches": "pagename.html|pagename.aspx|pagename.asp|pagename.htm",
         "non_matches": "pagename.txt,"
     },
     {
         "id": 2114,
         "expression": "(((ht|f)tp(s?):\\/\\/)(www\\.[^ \\[\\]\\(\\)\\n\\r\\t]+)|(([012]?[0-9]{1,2}\\.){3}[012]?[0-9]{1,2})\\/)([^ \\[\\]\\(\\),;&quot;\\'&lt;&gt;\\n\\r\\t]+)([^\\. \\[\\]\\(\\),;&quot;\\'&lt;&gt;\\n\\r\\t])|(([012]?[0-9]{1,2}\\.){3}[012]?[0-9]{1,2})",
         "description": "Validate URL\ne.g.\nhttp://www.sample.com,\nhttp://61.61.67.123/test.html",
-        "matches": "http://www.sample.com,http://61.61.67.123/test.html",
-        "non_matches": "yahoo.com,www.yahoo.com,http://yahoo.com"
+        "matches": "http://www.sample.com|http://61.61.67.123/test.html",
+        "non_matches": "yahoo.com|www.yahoo.com|http://yahoo.com"
     },
     {
         "id": 2115,
@@ -6866,7 +6726,6 @@
         "matches": "// Comment here | /// Comment here | /* Cmment Here */ | /**** Comment Here ****/",
         "non_matches": "/ * Comment Here */ | /* Comment here * /"
     },
-
     {
         "id": 2157,
         "expression": "^(b|B)(f|F)(p|P)(o|O)(\\s*||\\s*C(/|)O\\s*)[0-9]{1,4}",
@@ -6902,8 +6761,6 @@
         "matches": "user@example.com|user+sub@example.com|\"user name\"@example.com|user@[192.0.2.4]",
         "non_matches": "no_at_sign|invalid...adjacent_dots@example.com|no quote@example.com|user@192.0.2.4"
     },
- 
-
     {
         "id": 2187,
         "expression": "^((5[1-5])([0-9]{2})((-|\\s)?[0-9]{4}){3})$",
@@ -6960,7 +6817,6 @@
         "matches": "+17034567890 | +17034567890x1234 | +912024553455 | +912024553455x12 | +441237761457",
         "non_matches": "x1234 | +1 | +123 | +x1234 | +12x12 | +1(703)4563245x1234"
     },
-
     {
         "id": 2206,
         "expression": "^([0][1-9]|[1][0-2]):[0-5][0-9] {1}(AM|PM|am|pm)$",
@@ -6968,7 +6824,6 @@
         "matches": "03:45 am | 10:24 PM | 01:03 pm",
         "non_matches": "8:15 am | 16:10 | 10:60 pm | 10:13"
     },
-
     {
         "id": 2213,
         "expression": "[\\(]{1,}[^)]*[)]{1,}",
@@ -6983,7 +6838,6 @@
         "matches": "/mnt/share/ | /home/.BASH | /mnt/share/pic.jpeg | /mnt/share/install.sh",
         "non_matches": "mnt/share | //mnt///share// | /mnt/share/install.installer | /home\\user"
     },
-
     {
         "id": 2218,
         "expression": "^([0-9]{2})(01|02|03|04|05|06|07|08|09|10|11|12|51|52|53|54|55|56|57|58|59|60|61|62)(([0]{1}[1-9]{1})|([1-2]{1}[0-9]{1})|([3]{1}[0-1]{1}))/([0-9]{3,4})$",
@@ -6991,7 +6845,6 @@
         "matches": "760612/5689 | 826020/5568 | 500101/256",
         "non_matches": "680645/256 | 707212/1258 | 260015/4598"
     },
-
     {
         "id": 2222,
         "expression": "^(((([\\*]{1}){1})|((\\*\\/){0,1}(([0-9]{1}){1}|(([1-5]{1}){1}([0-9]{1}){1}){1}))) ((([\\*]{1}){1})|((\\*\\/){0,1}(([0-9]{1}){1}|(([1]{1}){1}([0-9]{1}){1}){1}|([2]{1}){1}([0-3]{1}){1}))) ((([\\*]{1}){1})|((\\*\\/){0,1}(([1-9]{1}){1}|(([1-2]{1}){1}([0-9]{1}){1}){1}|([3]{1}){1}([0-1]{1}){1}))) ((([\\*]{1}){1})|((\\*\\/){0,1}(([1-9]{1}){1}|(([1-2]{1}){1}([0-9]{1}){1}){1}|([3]{1}){1}([0-1]{1}){1}))|(jan|feb|mar|apr|may|jun|jul|aug|sep|okt|nov|dec)) ((([\\*]{1}){1})|((\\*\\/){0,1}(([0-7]{1}){1}))|(sun|mon|tue|wed|thu|fri|sat)))$",
@@ -7020,7 +6873,6 @@
         "matches": "<title>Regular Expression Library</title>",
         "non_matches": "<td>Regular Expression Library</td>"
     },
-
     {
         "id": 2241,
         "expression": "^([1-9]{1}|[1-9]{1}[0-9]{1,3}|[1-5]{1}[0-9]{4}|6[0-4]{1}[0-9]{3}|65[0-4]{1}[0-9]{2}|655[0-2]{1}[0-9]{1}|6553[0-6]{1})$",
@@ -7190,13 +7042,6 @@
         "non_matches": "ram , shyam"
     },
     {
-        "id": 2300,
-        "expression": "[a-z\u00e0-\u00ef\u00f2-\u00f6\u00f9-\u00fc]+$",
-        "description": "This will match all LOWERCASE French Characters encoded in !!!UTF-8 ONLY!!!\nAdd /i to ignore lowercase and match all chars",
-        "matches": "\u00e9\u00e0\u00ef\u00ec\u00f4\u00e7",
-        "non_matches": "\u00c7\u00c0\u00c8"
-    },
-    {
         "id": 2301,
         "expression": "^(\\$?)((\\d{1,20})|(\\d{1,2}((,?\\d{3}){0,6}))|(\\d{3}((,?\\d{3}){0,5})))$",
         "description": "This expression will allow whole dollar amounts (along with $ and ,) which are 20 digit wide. So the maximum amount will be $99,999,999,999,999,999,999. Note: This regular expression allows skipped commas, but will not allow multiple or commas at the wrong location. This can be used for all languages that have comma before the 3rd, 6th, 9th... digit.",
@@ -7230,13 +7075,6 @@
         "description": "Pattern matches all file extensions from two(2) to five(5) characters in length (e.g. Adobe Illustrator [*.ai] or Extensible Hypertext Markup Language [*.xhtml]). Input can be an absolute path, relative path, URI, directory path, etc. If there are get variables in a URI input, they are ignored.",
         "matches": "http://regexlib.com/Add.aspx | /path/to/filename.txt | TheSpanishInquisition.mpeg | 42.ai | Dont Panic.xhtml | http://localhost/webPage/index.php?variable=value",
         "non_matches": "Non-extentionFileName | FilenameWithOneCharacterExtension.q | FIlenameWithSixOrMoreCharactersExtension.invalid"
-    },
-    {
-        "id": 2308,
-        "expression": "(\\d\\d\\d\\d)-?(\\d\\d)-?(\\d\\d)T?(\\d\\d):?(\\d\\d)(?::?(\\d\\d)(\\.\\d+)*?)?(Z|[+-])(?:(\\d\\d):?(\\d\\d))?",
-        "description": "This regular expression will parse an ISO8601 date into it's individual parts.",
-        "matches": "2009-06-18T18:50:57-06:00, 2009-06-18T18:30:01.123478-06:00, 2009-06-18T18:30:45Z, 2009-06-18T18:39Z",
-        "non_matches": "January 5, 1995, or other non ISO8601 dates."
     },
     {
         "id": 2316,
@@ -7294,7 +7132,6 @@
         "matches": "12:12:12.223546\"N|12:12:12.2246N|15:17:6\"S|12\u00b030'23.256547\"S",
         "non_matches": "12.2225|15.25.257S|AA:BB:CC.DDS"
     },
-    
     {
         "id": 2339,
         "expression": "^(\\d){8}$",
@@ -7366,20 +7203,6 @@
         "non_matches": "366d23h45m | 90d24h5m | 90d6h60m"
     },
     {
-        "id": 2361,
-        "expression": "((\\(?\\d{2,5}\\)?)?(\\d|-| )?(15((\\d|-| ){6,13})))",
-        "description": "This regex will match cellphones from Argentina, which have a 15 prefix. It takes into account optional parenthesis and various digit groupings",
-        "matches": "0342-156 310 761 (03404)-154 734 841 11 156 310 761 (011) 154 734 841",
-        "non_matches": "0342-6 310 761 (03404)-4 734 841 11 310 761 (011) 4 734 841"
-    },
-    {
-        "id": 2365,
-        "expression": "(\\d{1,2})\\W+(\\d{1,2})\\W*(\\d{2,4})?|(\\d{4})\\W(\\d{1,2})\\W(\\d{1,2})|([a-zA-Z]+)\\W*(\\d{1,2})\\W+(\\d{2,4})|(\\d{4})\\W*([a-zA-Z]+)\\W*(\\d{1,2})|(\\d{1,2})\\W*([a-zA-Z]+)\\W*(\\d{2,4})|(\\d{1,2})\\W*([a-zA-Z]+)|([a-zA-Z]+)\\W*(\\d{1,2})|(\\d{2})(\\d{2})(\\d{2,4})?",
-        "description": "This will return the 3 parts of a date for you. Splice out the empty array portions and use the 3 parts to build/verify the date.",
-        "matches": "05.20.1990, 05201990, 0520, may 5 1990, 5-may-1990",
-        "non_matches": "520"
-    },
-    {
         "id": 2370,
         "expression": "^(0?[1-9]|1[012])/([012][0-9]|[1-9]|3[01])/([12][0-9]{3})$",
         "description": "In month/day/year format. Matches valid months (1-12) and valid days (1-31) and a valid 4 digit year (from 1000-2999). $1 = month, $2 = day, $3 = year. Sadly, it doesn't check to make sure that months have a valid number of days (no Feb 30th checks, etc).",
@@ -7443,13 +7266,6 @@
         "non_matches": "nomatchcom"
     },
     {
-        "id": 2390,
-        "expression": "^[a-zA-Z]{4}[a-zA-Z]{2}[a-zA-Z0-9]{2}[XXX0-9]{0,3}",
-        "description": "This is the regex for the bank Swift Number",
-        "matches": "NEDSZAJJ, NEDSZAJJXXX, NEDSZAJJ100",
-        "non_matches": "NEDS ZA JJ, NEDS ZA JJ XXX, NEDS ZA JJ 100"
-    },
-    {
         "id": 2393,
         "expression": "((\\+44\\s?\\(0\\)\\s?\\d{2,4})|(\\+44\\s?(01|02|03|07|08)\\d{2,3})|(\\+44\\s?(1|2|3|7|8)\\d{2,3})|(\\(\\+44\\)\\s?\\d{3,4})|(\\(\\d{5}\\))|((01|02|03|07|08)\\d{2,3})|(\\d{5}))(\\s|-|.)(((\\d{3,4})(\\s|-)(\\d{3,4}))|((\\d{6,7})))",
         "description": "Matches over 18 different combinations for UK phone numbers that I could find. If there are any errors please get in touch.",
@@ -7502,8 +7318,8 @@
         "id": 2404,
         "expression": "(\\b(1|2|3|4|5|6|7|8|9)?[0-9]\\b)",
         "description": "Match the numbers 1 to 99",
-        "matches": "1 to 99",
-        "non_matches": "100, 200, 500"
+        "matches": "1 | 2 | 99 | 10",
+        "non_matches": "100|  200| 500 | 0"
     },
     {
         "id": 2405,
@@ -7540,7 +7356,6 @@
         "matches": "/index.htm | / | /default.aspx",
         "non_matches": "google.com | hi everybody | \\myFile.txt"
     },
-
     {
         "id": 2420,
         "expression": "\\d{4}\\s\\d{4}\\s\\d{4}\\s\\d{4}$",
@@ -7819,7 +7634,7 @@
         "expression": "^((\\+){1}91){1}[1-9]{1}[0-9]{9}$",
         "description": "In this Pattern +91 will be the prefix in the Mobile number(of 10 digits).",
         "matches": "+919123456789",
-        "non_matches": "+91 9123456789,+91-9123456789.. like this"
+        "non_matches": "+91 9123456789| +91-9123456789"
     },
     {
         "id": 2531,
@@ -7902,8 +7717,8 @@
         "id": 2555,
         "expression": "\\b([A-CEGHJ-PR-TW-Z]{1}[A-CEGHJ-NPR-TW-Z]{1}(?<!BG|GB|NK|KN|TN|NT|ZZ))[0-9]{6}[A-DFM]{1}\\b",
         "description": "First letter cannot be: D, F, I, Q, U, or V\nSecond letter cannot be: D, F, I, O, Q, U, or V\nThe first two character combinations BG, GB, NK, KN, TN, NT, and ZZ are not used.\nFollowed by 6 digits (0-9)\nFinished by a suffix: A, B, C, D, F, or M",
-        "matches": "JG103759A AP019283D AB103455B SS345603D",
-        "non_matches": "CK945723N BG103442A NT834238A ZZ834758A"
+        "matches": "JG103759A | AP019283D | AB103455B| SS345603D",
+        "non_matches": "CK945723N |BG103442A |NT834238A| ZZ834758A"
     },
     {
         "id": 2566,
@@ -7916,8 +7731,8 @@
         "id": 2567,
         "expression": "[NS] \\d{1,}(\\:[0-5]\\d){2}.{0,1}\\d{0,},[EW] \\d{1,}(\\:[0-5]\\d){2}.{0,1}\\d{0,}",
         "description": "Latitude and longitude coordinates separated by a comma in the form:\nN 0:59:59.99,E 0:59:59.99 No restriction on degrees. Use split on comma to separate Latitude and Longitude then on colon and space for parts to convert into a decimal value.",
-        "matches": "N 50:54:44.99,W 4:59:11.0; N 38:55:02.90,W 76:59:31.19; N 22:16:42,E 114:09:32",
-        "non_matches": "N 22:66:61,E 85:00:33; E 00:00:00.00,N 00:00:00.00; N00:00:00.00, E00:00:00.00"
+        "matches": "N 50:54:44.99,W 4:59:11.0| N 38:55:02.90,W 76:59:31.19| N 22:16:42,E 114:09:32",
+        "non_matches": "N 22:66:61,E 85:00:33| E 00:00:00.00,N 00:00:00.00| N00:00:00.00, E00:00:00.00"
     },
     {
         "id": 2568,
@@ -7933,7 +7748,6 @@
         "matches": "1 | 8 | 10",
         "non_matches": "0 | 11 | 99"
     },
-
     {
         "id": 2572,
         "expression": "^[A-Za-z]$",
@@ -7945,7 +7759,7 @@
         "id": 2573,
         "expression": "http://(www\\.)?([^\\.]+)\\.com",
         "description": "This regex matches 'http://' optionally followed by 'www.' then starts a group and matches one or more of any character that is not a full stop/period (.) closes the group then matches '.com'.",
-        "matches": "http://www.yahoo.com ; http://yahoo.com",
+        "matches": "http://www.yahoo.com | http://yahoo.com",
         "non_matches": "yahoo.com"
     },
     {
@@ -7973,10 +7787,9 @@
         "id": 2581,
         "expression": "(\"(?:(?:(?:\\\\.)|[^\"\\\\\\r\\n])*)\"|'(?:(?:(?:\\\\.)|[^'\\\\\\r\\n])*)'|`(?:(?:(?:\\\\.)|[^`\\\\\\r\\n])*)`)|((?:-- .*)|(?:#.*)|(?:/\\*(?:(?:[^*]|\\*(?!/))*)\\*/))",
         "description": "Isolates MySQL Query strings and comments. Lines that look like comments inside strings are not falsely recognised as comments. To strip comments from a MySQL Query, simply replace all matches with group 1",
-        "matches": "-- insurance, # renaming some primary keys, /**/, \"hello -- this is not a comment\"",
+        "matches": "-- insurance| # renaming some primary keys| /**/| \"hello -- this is not a comment\"",
         "non_matches": "ALTER TABLE table_insurance_covered"
     },
-
     {
         "id": 2586,
         "expression": "^(?=.*[!@#$%^&*()\\-_=+`~\\[\\]{}?|])(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9]).{8,20}$",
@@ -8002,15 +7815,8 @@
         "id": 2593,
         "expression": "^(?!0{1})\\d{6}",
         "description": "Indian Postal has siz digit of length and does not start with zero",
-        "matches": "362265 , 1254215, 256201",
+        "matches": "362265 | 1254215 | 256201",
         "non_matches": "021545"
-    },
-    {
-        "id": 2594,
-        "expression": "(https:[/][/]|http:[/][/]|www.)[a-zA-Z0-9\\-\\.]+\\.[a-zA-Z]{2,3}(:[a-zA-Z0-9]*)?/?([a-zA-Z0-9\\-\\._\\?\\,\\'/\\\\\\+&amp;%\\$#\\=~])*$",
-        "description": "Regular Expression matches any internet URLs. Used with the replace method it comes in very handy.",
-        "matches": "https://yahoo.com http://www.yahoo.com/ http://www.google.com/search?q=good+url+regex https://ajay.com?query https://google.com http://kdsir.co.in http://qa.re.com/no_session.jsp www.yahoo.co.in",
-        "non_matches": "https://yahoo yahoo.com/ kushagra.co.in ht://google.com htp://google.co"
     },
     {
         "id": 2596,
@@ -8054,7 +7860,6 @@
         "matches": "12345awertasfggr",
         "non_matches": "12345qwertasfggr"
     },
-
     {
         "id": 2620,
         "expression": "^((.){1,}(\\d){1,}(.){0,})$",
@@ -8125,13 +7930,12 @@
         "matches": "5,000 | - 10 | .1",
         "non_matches": "7.000.000 | 5,0000 | 1.000,000"
     },
-
     {
         "id": 2662,
         "expression": "^([9]{1})([234789]{1})([0-9]{8})$",
         "description": "Its 10 digits Indian Mobile Number validation.",
         "matches": "9829373514",
-        "non_matches": "919829373514, 09829373514"
+        "non_matches": "919829373514| 09829373514"
     },
     {
         "id": 2663,
@@ -8145,7 +7949,7 @@
         "expression": "([0-9][0-9])((0[1-9])|(1[0-2]))((0[1-9])|([1-2][0-9])|(3[0-1]))\\-([0-9][0-9])\\-([0-9][0-9][0-9][0-9])",
         "description": "Simple Malaysian New IC Number Validation.\nLength: 8 characters.\nFormat: YYMMDD-99-9999",
         "matches": "900120-01-5567",
-        "non_matches": "909020-01-5567;900120-0A-5567;900120-01-55"
+        "non_matches": "909020-01-5567|900120-0A-5567|900120-01-55"
     },
     {
         "id": 2665,
@@ -8224,7 +8028,6 @@
         "matches": "jquery-1.4.2.min.js",
         "non_matches": "jquery.js, jquery-1.3.2.js"
     },
-
     {
         "id": 2694,
         "expression": "(http|ftp|https):\\/\\/(\\w[\\w\\-_\\.]*\\.)?([_\\-\\w]+)(:[0-9]+)?([\\/[\\w_\\.-]+]*)\\/(\\.?\\w[\\w._-]*[\\w_-])?(#\\w+)?([\\w\\-\\.,@?^=%&amp;:\\~\\+#]*[\\w\\-\\@?^=%&amp;\\/\\~\\+#])?",
@@ -8264,8 +8067,8 @@
         "id": 2703,
         "expression": "[0](\\d{9})|([0](\\d{2})( |-|)((\\d{3}))( |-|)(\\d{4}))|[0](\\d{2})( |-|)(\\d{7})|(\\+|00|09)(\\d{2}|\\d{3})( |-|)(\\d{2})( |-|)((\\d{3}))( |-|)(\\d{4})",
         "description": "allows validation of phone numbers in different formats, including local dialing code (eg 033 or 076) or international dialing code in the formats +12 or 0012 or 0912.",
-        "matches": "073-386-2612 , 0443862612 , 076 858 7777 , +27 76 858 7777 , 0027 765877777 , 0956 33 8881234",
-        "non_matches": "invalid numbers"
+        "matches": "073-386-2612 | 0443862612 | 076 858 7777 | +27 76 858 7777 | 0027 765877777 | 0956 33 8881234",
+        "non_matches": "qdsq11123"
     },
     {
         "id": 2707,
@@ -8435,7 +8238,6 @@
         "matches": "222-22-22-222 | 222-222-22-22 | 222 22 22 222 | 222 222 22 22",
         "non_matches": "2222222222 | XXXXXXXXXX"
     },
-
     {
         "id": 2788,
         "expression": "^[1]?[-\\.\\s]?(\\(\\d{3}\\)|\\d{3}){1}[-\\.\\s]?\\d{3}[-\\.\\s]?\\d{4}(\\s+|\\s*[-\\.x]{1}\\d{1,6})?$",
@@ -8457,7 +8259,6 @@
         "matches": "01:23:45:67:89:AB",
         "non_matches": "01:23:45:67:89:X9"
     },
-
     {
         "id": 2799,
         "expression": "^[+]?((\\d*[1-9]+\\d*\\.?\\d*)|(\\d*\\.\\d*[1-9]+\\d*))$",
@@ -8612,8 +8413,6 @@
         "matches": "\\\\192.168.0.1\\folder\\file.pdf | \\\\192.168.0.1\\my folder\\folder.2\\file.gif | c:\\my folder\\abc abc.docx | c:\\my-folder\\another_folder\\abc.v2.docx",
         "non_matches": "\\\\192.168.0.1\\folder\\fi/le.pdf | \\\\192.168.0.1\\folder\\\\file.pdf | \\\\192.168.0.1\\my folder\\folder.2\\.gif | c:\\my folder\\another_folder\\.docx | c:\\my folder\\\\another_folder\\abc.docx | c:\\my folder\\another_folder\\ab*c.v2.docx | c:\\my?folder\\another_folder\\abc.v2.docx | file.xls"
     },
-
-
     {
         "id": 2877,
         "expression": "^(?:-([0-9]{1,2})|([0-9]{4}))?(?:-?(?:([0-9]{2})?(?:-?([0-9]{2}))?|W([0-9]{2})(?:-?([1-7]))?|([0-9]{3})))?(?:T([0-9]{2})(?::?([0-9]{2})(?::?([0-9]{2}))?)?(?:[,\\.]([0-9]+))?(?:(Z)|([+-])([0-9]{2})(?::?([0-9]{2}))?)?)?$",
@@ -8628,7 +8427,6 @@
         "matches": "John|Bob|Smith|Jones",
         "non_matches": "aa|aaa|Smiiith"
     },
-
     {
         "id": 2882,
         "expression": "^(((0|((\\+)?91(\\-)?))|((\\((\\+)?91\\)(\\-)?)))?[7-9]\\d{9})?$",
@@ -8685,8 +8483,6 @@
         "matches": "http://domain-1.us | ftp://www.domain.co.uk | https://domain.info | https://subdomain.domain.info | http://subdomain.domain.info/\u0627\u0644\u062c\u0632\u0627\u0626\u0631.html",
         "non_matches": "http://domain.infor | http://domain_1.com"
     },
-
-
     {
         "id": 2913,
         "expression": "^((\\d{1,3}(,\\d{3})*)|(\\d{1,3}))$",
@@ -8819,13 +8615,6 @@
         "description": "To find ISBN-10 or ISBN-13 text",
         "matches": "ISBN-13 978-3-642-11746-6 SomeText | ISBN 978-3-642-11746-6 | ISBN-10 3-642-11746-5 SomeText | ISBN 3-642-11746-5 | ISBN: 978-3-642-11746-6",
         "non_matches": "ISBN : 978-3-642-11746-6 | ISBN-10 : 3-642-11746-5 | ISBN-13 : 978-3-642-11746-6"
-    },
-    {
-        "id": 2996,
-        "expression": "^(((((\\+)?(\\s)?(\\d{2,4}))(\\s)?((\\(0\\))?)(\\s)?|0)(\\s|\\-)?)(\\s|\\d{2})(\\s|\\-)?)?(\\d{3})(\\s|\\-)?(\\d{2})(\\s|\\-)?(\\d{2})",
-        "description": "This regex matchs nearly all forms off swiss phone numbers, not only the official form.",
-        "matches": "0521112233, 052 111 22 33, +41 (0)52 111 22 33, +41 52 111 22 33, 0041 52 111 22 33",
-        "non_matches": "0041 052 111 22 33, +41 11 22 33 44"
     },
     {
         "id": 3001,
@@ -8971,15 +8760,8 @@
         "id": 3049,
         "expression": "(?:\\b\\w*(\\w\\w?)\\1{2,}\\w*\\b)",
         "description": "Word deformed by repeating a character, or a pair of characters. Common in internet communication, can be useful for detecting emotions.",
-        "matches": "wooot, yeeeeah, lalalala, hahahaha",
-        "non_matches": "teepee, mississippi"
-    },
-    {
-        "id": 3050,
-        "expression": "(?:\\b(([0-2]\\d|3[01])|\\d)\\.[ ]?(?:jan|feb|mar|apr|m\u00e1j|j\u00fan|j\u00fal|aug|sep|okt|nov|dec|janu\u00e1r\\w{0,2}|febru\u00e1r\\w{0,2}|mar\\w{0,2}|apr\u00edl\\w{0,2}|m\u00e1j\\w{0,2}|j\u00fan\\w{0,2}|j\u00fal\\w{0,2}|august\\w{0,2}|septemb\\w{0,2}|okt\u00f3b\\w{0,2}|novemb\\w{0,2}|decemb\\w{0,2})[ ][12][0-9]\\d\\d\\b)",
-        "description": "Recognizes dates of format \"[d]d.<slovak name of month>.YYYY\". Months part can be either a 3-letter long abbreviation of a month, or full name (with a possible declination suffix).",
-        "matches": "\"3. febru\u00e1ra 1988\", \"23. feb 1988\"",
-        "non_matches": "\"33. feb 1988\", \"3. febru\u00e1rov\u00fd 1988\""
+        "matches": "wooot| yeeeeah| lalalala| hahahaha",
+        "non_matches": "teepee| mississippi"
     },
     {
         "id": 3058,
@@ -9045,13 +8827,6 @@
         "non_matches": "08 98989-9090 | 083 4251.1010 | 011 9898-90909"
     },
     {
-        "id": 3085,
-        "expression": "([Cc][Hh][Aa][Nn][Dd][Aa][Nn].*?)",
-        "description": "To find a match pattern in a string not matter where the position of the pattern in the string and even no matter what is the suffix and what will be the prefix.",
-        "matches": "Chandan Kumar, Kumar Chandan, Kumar Chandan Singh",
-        "non_matches": "Chanda Kumar, Kumar Chand"
-    },
-    {
         "id": 3097,
         "expression": "<a[\\s]+[^>]*?.*?>([^<]+|.*?)?<\\/a>",
         "description": "for cut links on PHP\n$text = preg_replace(\"/<a[\\s]+[^>]*?.*?>([^<]+|.*?)?<\\/a>/s\",\"\",$text);",
@@ -9070,7 +8845,7 @@
         "expression": "(\\w+([-+.']\\w+)*@(gmail.com))",
         "description": "This expression will fail if the host/domain does not end with @gmail.com",
         "matches": "tester@gmail.com",
-        "non_matches": "tester@gmail.net tester@bob.com"
+        "non_matches": "tester@gmail.net | tester@bob.com"
     },
     {
         "id": 3110,
@@ -9090,8 +8865,8 @@
         "id": 3112,
         "expression": "^((?!string).)*$",
         "description": "This expression will NOT match any string that contains the word \"string\". You can replace \"string\" with any list of characters you would like to prevent matching on.",
-        "matches": "strin, tring, 123tring, strin123",
-        "non_matches": "string, 123string, string123, anythingwithstringinit"
+        "matches": "strin| tring| 123tring| strin123",
+        "non_matches": "string| 123string| string123| anythingwithstringinit"
     },
     {
         "id": 3115,
@@ -9153,8 +8928,8 @@
         "id": 3154,
         "expression": "^-?[0-9]\\d{0,8}(\\.\\d{1,4})",
         "description": "Numeric with decimal values. Accepts negative and zeros. Upto 9 digits and upto 4 decimals allowed",
-        "matches": "123456789.1234, -123.123, 0.00, -123456789.1234",
-        "non_matches": "1234567890,0.12345"
+        "matches": "123456789.1234| -123.123| 0.00| -123456789.1234",
+        "non_matches": "1234567890|0.12345"
     },
     {
         "id": 3156,
@@ -9254,8 +9029,6 @@
         "matches": "+000-000-000-0000 | (+000) 000 000 0000 | (+000) (000) 000-0000 | (000) 000-0000 | +1-800-0000000 | +1-800-RLYCOOL",
         "non_matches": "1-800-0000000 | 1-800-RLYCOOL"
     },
-
-    
     {
         "id": 3197,
         "expression": "^-?(\\d+(,\\d{3})*(\\.\\d+)?|\\d?(\\.\\d+))$",
@@ -9291,7 +9064,6 @@
         "matches": "0034 91 12345678 | +39-2-1234567 | 9112345678",
         "non_matches": "0034 91 123-456-789 | (91)12345678 | 0034 (91)12345678"
     },
-
     {
         "id": 3209,
         "expression": "^([a-z0-9]+[.+-])*([a-z0-9]+)+@(([a-z0-9]+[.-])+([a-z]{2,})$|(([0-9]|[1-9][0-9]|1[0-9]{1,2}|2[0-4][0-9]|25[0-5])(\\.|$)){4})",
@@ -9334,7 +9106,6 @@
         "matches": "29/12/1434 | 01/02/1435 | 30/11/1434",
         "non_matches": "31/12/144 | 01/2/1435 | 5/5/1435"
     },
-
     {
         "id": 3228,
         "expression": "^(0|\\+33)[1-9]([-. ]?[0-9]{2}){4}$",
@@ -9382,7 +9153,7 @@
         "expression": "^L[a-zA-Z0-9]{26,33}$",
         "description": "Matches litecoin payment (public-key) address. Address must begin with a L and have 27-34 total alphanumeric characters. Will exclude bitcoin address since they begin with 1 or 3. Does NOT do a checksum.",
         "matches": "Lg6GPVfPsmPAbTWYuKBQXtdGnBuCWcxHcr",
-        "non_matches": "19RsSjVgob3JgU9cP9PPEiySftNpbU49Xm, qwerty, __**"
+        "non_matches": "19RsSjVgob3JgU9cP9PPEiySftNpbU49Xm | qwerty | __**"
     },
     {
         "id": 3253,
@@ -9395,8 +9166,8 @@
         "id": 3254,
         "expression": "http[s]?://(www.facebook|[a-zA-Z]{2}-[a-zA-Z]{2}.facebook|facebook)\\.com/(pages/[a-zA-Z0-9\\.-]+/[0-9]+|[a-zA-Z0-9\\.-]+)[/]?$",
         "description": "Validating facebook pages url with rules such as with \"www\" or without \"www\", include localization domain such as \"en-gb\"",
-        "matches": "https://www.facebook.com/PETRONASMOTORSPORTS http://www.facebook.com/PETRONASMOTORSPORTS https://facebook.com/PETRONASMOTORSPORTS http://facebook.com/PETRONASMOTORSPORTS https://www.facebook.com/pages/MotherKidzcommy/233933596702267 http://www.facebook.com/pages/MotherKidzcommy/233933596702267 http://www.facebook.com/233933596702267 https://www.facebook.com/233933596702267",
-        "non_matches": "https://facebook.com/pages/MotherKidzcommy/ http://facebook.com/pages/MotherKidzcommy/"
+        "matches": "https://www.facebook.com/PETRONASMOTORSPORTS | http://www.facebook.com/PETRONASMOTORSPORTS | https://facebook.com/PETRONASMOTORSPORTS | http://facebook.com/PETRONASMOTORSPORTS | https://www.facebook.com/pages/MotherKidzcommy/233933596702267 | http://www.facebook.com/pages/MotherKidzcommy/233933596702267  | http://www.facebook.com/233933596702267 | https://www.facebook.com/233933596702267",
+        "non_matches": "https://facebook.com/pages/MotherKidzcommy/ | http://facebook.com/pages/MotherKidzcommy/"
     },
     {
         "id": 3259,
@@ -9418,13 +9189,6 @@
         "description": "useful regex when we only need phone number from and for people inside the country",
         "matches": "025 546 58 78 | 025-546-58-78 | 025.546.58.78 | 0255465878",
         "non_matches": "0041 025 546 58 78 | +41 025 546 58 78 | +41 (0) 25 546 58 78"
-    },
-    {
-        "id": 3269,
-        "expression": "^\\S{2}\\d{7}$",
-        "description": "A DEA number is a number assigned to a health care provider (such as a medical practitioner, dentist, or veterinarian) by the U.S. Drug Enforcement Administration. This regex validates correct format",
-        "matches": "AB1234567",
-        "non_matches": "AB 1234567, AB12345678, 12345678"
     },
     {
         "id": 3270,
@@ -9453,13 +9217,6 @@
         "description": "The OGRN code is formed by: the state registration number has the status of the main one (1 number), two last numbers of the year when the record was made (2 numbers), the sequence number of a constituent entity of Russia according to the list of constituent entities of Russia (2 numbers), record number entered in the state register within a year (7 numbers), check digit (1 number)",
         "matches": "1234567891234",
         "non_matches": "-"
-    },
-    {
-        "id": 3279,
-        "expression": "\\b(?:19[5-9][0-9]|200[0-9]|201[0-4])([-,.])(?:0?[1-9]|1[12])\\1(?:0?[1-9]|[12][0-9]|3[01])\\b",
-        "description": "YYYY-MM-DD",
-        "matches": "1951-01-8, 2000-3-02, 2014-9-19",
-        "non_matches": "1949-13-26, 0000-08-01, 2015-12-44"
     },
     {
         "id": 3280,
@@ -9577,7 +9334,8 @@
         "id": 3325,
         "expression": "[0-9.\\-/+() ]{4,}",
         "description": "This regex supports international praefix, the national (0) and extension numbers.",
-        "matches": "+49 (0)40/529 567-31; 529 567-31",
+        "matches": "+49 (0)40/529 567-31 | 529 567-31",
+
         "non_matches": "529"
     },
     {
@@ -9605,8 +9363,8 @@
         "id": 3339,
         "expression": "(-?[1-9]*\\d*[02468])(?=\\D)",
         "description": "Match even integers, positive or negative, including zero.",
-        "matches": "-100,-10,-2,0,2,4,6,8,10,12,100,102",
-        "non_matches": "-101,-99,-11,-1,1,3,5,7,9,11,99,101"
+        "matches": "-100|-10|-2|0|2|4|6|8|10|12|100|102",
+        "non_matches": "-101|-99|-11|-1|1|3|5|7|9|11|99|101"
     },
     {
         "id": 3346,
@@ -9797,7 +9555,6 @@
         "matches": "(55) 1234-5678 x123456,123,12 | 5512345678 | +1 (510) 123-5678 x1234",
         "non_matches": "+1 510 (55 1234-5678 | 12345678 x123 | +1 (510) 1234-5678 x1234567"
     },
-
     {
         "id": 3408,
         "expression": "(?:#|0x)?(?:[0-9A-F]{2}){4}",
@@ -9805,21 +9562,12 @@
         "matches": "0xF0F73611",
         "non_matches": "#FF006C"
     },
-  
-  
     {
         "id": 3417,
         "expression": "[0-9]{4}[/.-](?:1[0-2]|0?[1-9])[/.-](?:3[01]|[12][0-9]|0?[1-9])",
         "description": "Date Year-Month-Day. From http://tools.twainscanning.com/getmyregex",
         "matches": "2015-08-31",
         "non_matches": "31/08/2015"
-    },
-    {
-        "id": 3419,
-        "expression": "[\\w!#$%&amp;&apos;*+./=?`{|}~^-]+@[\\d.A-Za-z-]+",
-        "description": "Email (your-name@example.com). From http://tools.twainscanning.com/getmyregex",
-        "matches": "hello.me_1@email.com | Jean+Francois@anydomain.museum",
-        "non_matches": "foo.bar#gmail.co.uk"
     },
     {
         "id": 3420,
@@ -9888,8 +9636,8 @@
         "id": 3443,
         "expression": "href(\\s*)=(\\s*)('|\")http:\\/\\/(.*)((\"|'))",
         "description": "The pulls the HTML link URLs.",
-        "matches": "href=\"http://yahoo.com\" href=\"google.com\"",
-        "non_matches": "src=\"http://domain.com/img.jpg\" href=\"tel:1234567897\"\""
+        "matches": "href=\"http://yahoo.com\" | href=\"google.com\"",
+        "non_matches": "src=\"http://domain.com/img.jpg\" | href=\"tel:1234567897\"\""
     },
     {
         "id": 3444,
@@ -10085,21 +9833,8 @@
         "expression": "^NL\\d{2}[A-Z]{4}0\\d{9}$",
         "description": "Validate an International Bank Account Number (IBAN) without formatting. The first two characters represent the country code, coded according ISO 3166-1.\nISO 3166-1",
         "matches": "NL91ABNA0417164300",
-        "non_matches": "91ABNA0417164300, NL91 ABNA 0417164300"
-    },
-    {
-        "id": 3541,
-        "expression": "^((01[0-9])\\d{9}$|(1[0-9])\\d{9}$|((00\\d{5,6}|\\+\\d{4,6}|\\+[(]\\d{1,3}[)]\\d{3}))(|[-\\/])\\d{8}$)",
-        "description": "I created my own RegEx for German/International, it includes Operators like + and / in the RegEx. The Prefix can be from 1 to 999.\nBe free to use it !",
-        "matches": "+(49)15732561545 | +4915732561545 | 004915732561545 | +(49)157/32561545 | +49157/32561545 | 0049157/32561545 | +(49)157-32561545 | +49157-32561545 | 0049157-32561545",
-        "non_matches": "+[49]15732561545 | +-4915732561545 | 0049-15732561545 | +[49]157*32561545 | +49157_32561545 | 0049157_32561545 | +(49)157_*32561545 | +49_157-32561545 | 0049157//32561545"
-    },
-    {
-        "id": 3542,
-        "expression": "^(\\d{5}([-\\/]|)\\d{0,9}$|((00\\d{5,6}|\\+\\d{4,6}|\\+[(]\\d{1,3}[)]))\\d{1,4}(|[-\\/])\\d{1,7}$)",
-        "description": "I created my own RegEx for German/International, it includes Operators like + and / in the RegEx. The Prefix can be from 1 to 999.\nBe free to use it !",
-        "matches": "+(49)70425159535 | +4970425159535 | 004970425159535 | +(49)7042/5159535 | +497042/5159535 | 00497042/5159535 | +(49)7042-5159535 | +497042-5159535 | 00497042-5159535",
-        "non_matches": "+[49]70455159535 | +-4970425159535 | 0049-70425159535 | +[49]7045*5159535 | +497045_5159535 | 00497045_5159535 | +(49)7045_*5159535 | +49_7045-5159535 | 00497045//5159535"
+        "non_matches": "91ABNA0417164300 | NL91 ABNA 0417164300"
+
     },
     {
         "id": 3543,
@@ -10128,13 +9863,6 @@
         "description": "Matches all types of time declaration with ':' separator.",
         "matches": "0:26:12 aM | 00:26:12 Pm | 0:26:12aM | 00:26:12Pm | Am 0:26:12 | pM 00:26:12 | Am0:26:12 | pM00:26:12 | 0:26 PM | 01:26 am | 0:26PM | 01:26am | Am 0:26 | pM 00:26 | Am0:26 | pM00:26 | 23:26:12 | 00:26:12 | 0:26:12 | 23:26 | 0:26",
         "non_matches": "n/a"
-    },
-    {
-        "id": 3553,
-        "expression": "^[0]$|^-?[1-9]\\d*$",
-        "description": "This match an whole number",
-        "matches": "0 | 100 | -100",
-        "non_matches": "000 | -0 | +10 | a1 | 1a"
     },
     {
         "id": 3556,
@@ -10172,13 +9900,6 @@
         "non_matches": "\"abc 123\""
     },
     {
-        "id": 3570,
-        "expression": "\\d{2}(1[012]|0[0-9])(3[01]|[012]\\d)\\d{6}",
-        "description": "To verify the Malaysia new I/C number.",
-        "matches": "980101026512 631222146325 550331026589",
-        "non_matches": "551330016598 442122668888 abcdefghijkl"
-    },
-    {
         "id": 3571,
         "expression": "[0-9]*[-| ][0-9]*[-| ][0-9]*[-| ][0-9]*[-| ][0-9]*",
         "description": "Pattern for ISBN 13",
@@ -10189,8 +9910,8 @@
         "id": 3572,
         "expression": "(http:\\/\\/|www\\.).+?(?=\\s|[[:punct:]]\\s)",
         "description": "Matches the instances I need. Needs to start with http:// or www.",
-        "matches": "http://www.website.com, http://www.website.com.br, www.website.com, www.website.com.br",
-        "non_matches": "website.com, website.net, website.com.br"
+        "matches": "http://www.website.com| http://www.website.com.br| www.website.com| www.website.com.br",
+        "non_matches": "website.com | website.net| website.com.br"
     },
     {
         "id": 3573,
@@ -10203,8 +9924,8 @@
         "id": 3577,
         "expression": "^(([a-zA-Z0-9_\\-\\.]+)@([a-zA-Z0-9_\\-\\.]+)\\.([a-zA-Z]{2,5}){1,25})+(\\s*[;.]\\s*(([a-zA-Z0-9_\\-\\.]+)@([a-zA-Z0-9_\\-\\.]+)\\.([a-zA-Z]{2,5}){1,25})+)*$",
         "description": "This is a minor change to the Regex found at http://regexlib.com/RETester.aspx?regexp_id=1007 to allow for spaces around the delimiters.",
-        "matches": "info@domain.com; contact@domain.com",
-        "non_matches": "info@domain.com, contact@domain.com"
+        "matches": "info@domain.com | contact@domain.com",
+        "non_matches": "info@domain.com | contact@domain.com"
     },
     {
         "id": 3601,
@@ -10238,8 +9959,8 @@
         "id": 3731,
         "expression": "((((0[1-9]|[12][0-9]|3[01])(0[13578]|10|12)(\\d{2}))|(([0][1-9]|[12][0-9]|30)(0[469]|11)(\\d{2}))|((0[1-9]|1[0-9]|2[0-8])(02)(\\d{2}))|((29)(02)(0(0|4|8)))|((29)(02)([2468][048]))|((29)(02)([13579][26])))[- ]?\\d{4})",
         "description": "Matches the format from www.cpr.dk and fixed to match 29th February for leap years",
-        "matches": "020955-2012 .020955-2012 241283-1234| 290204-1234 010111-1111",
-        "non_matches": "459434-1234 123456-1234"
+        "matches": "020955-2012 | 020955-2012 | 241283-1234| 290204-1234 | 010111-1111",
+        "non_matches": "459434-1234 | 123456-1234"
     },
     {
         "id": 3734,
@@ -10476,8 +10197,8 @@
         "id": 3981,
         "expression": "^01[0125]{1}[0-9]{8}",
         "description": "- first 2 digits are 01\n- second 1 digit is 0 for (Vodafone) or 1 for (Etisalat) or 2 for (orange) or 5 for (We)\n- third 8 digits are between 0 and 9",
-        "matches": "01022685544 - 01122685544 - 01222685544 - 01522685544",
-        "non_matches": "+0201622685544 - 01322685544 - 01422685544 - 01622685544 - 01722685544 - 01822685544 - 01922685544"
+        "matches": "01022685544 | 01122685544 | 01222685544 | 01522685544",
+        "non_matches": "+0201622685544 | 01322685544 | 01422685544 | 01622685544 | 01722685544 | 01822685544 | 01922685544"
     },
     {
         "id": 3983,
@@ -10505,7 +10226,7 @@
         "expression": "(?:\\s|^)(?P<day>(?P<threeone>31)|(?P<thirty>30)|(?P<twonine>29)|(?P<twoeight>2[0-8]|1[0-9]|0?[1-9]))(?P<sep>[/\\-\\.:])(?P<month>(?(threeone)(?:1[02]|0?[13578]))(?(thirty)(?:1[012]|0?[13456789]))(?(twonine)(?:1[012]|0?[13-9]|(?P<leap>0?2)))(?(twoeight)(?:1[012]|0?[1-9])))(?P=sep)(?P<year>(?:\\d\\d)?(?(leap)(?:(?:[02468][048])|(?:[13579][26]))|(?:\\d\\d)))(?:$|\\s)",
         "description": "This matches valid dates (including leap year dates of the following formats :\ndd/mm/yy\ndd/mm/yyyy\nd/m/yy\nd/m/yyyy\ndd-mm-yy\ndd-mm-yyyy\nd-m-yy\nd-m-yyyy\ndd.mm.yy\ndd.mm.yyyy\nd.m.yy\nd.m.yyyy\nuse the named groups day, month, year",
         "matches": "29/02/2096",
-        "non_matches": "29/02/2097, 31/04/2020"
+        "non_matches": "29/02/2097 | 31/04/2020"
     },
     {
         "id": 4014,
@@ -10518,8 +10239,8 @@
         "id": 4015,
         "expression": "(?:\\s|^)(?P<day>(?P<threeone>31)|(?P<thirty>30)|(?P<twonine>29)|(?P<twoeight>2[0-8]|1[0-9]|0?[1-9]))(?P<sep>[/\\-\\.:])(?P<month>(?(threeone)(?:jan|mar|may|jul|aug|oct|dec))(?(thirty)(?:jan|mar|apr|may|jun|jul|aug|sep|oct|nov|dec))(?(twonine)(?:jan|(?P<feb>feb)|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|))(?(twoeight)(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)))(?P=sep)(?P<year>(?:\\d\\d)?(?(twonine)(?(feb)(?:(?:[02468][048])|(?:[13579][26]))|(?:\\d\\d))|(?:\\d\\d)))(?:$|\\s)",
         "description": "Validates dates in the (d)d-MMM-(yy)yy format",
-        "matches": "29-feb-2020, 1-jan-01",
-        "non_matches": "29-feb-19, 31-sep-2010"
+        "matches": "29-feb-2020 | 1-jan-01",
+        "non_matches": "29-feb-19 | 31-sep-2010"
     },
     {
         "id": 4029,
