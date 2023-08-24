@@ -17,7 +17,7 @@ def sample2fixture(regex_sample):
 		    "fields": {
 		        "expression": regex_sample["expression"],
 		        "raw_prompt": regex_sample["description"],
-		        "refined_prompt": None
+		        "refined_prompt": ""
 	    }
 	}
 
