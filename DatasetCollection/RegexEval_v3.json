@@ -13,10 +13,7 @@
             "7",
             "8",
             "9",
-            "0",
-            "5",
-            "9",
-            "8"
+            "0"
         ],
         "non_matches": [
             "a",
@@ -42034,12 +42031,35 @@
     {
         "expression": "([A-Za-z]{3})([pchabgjlftPCHABGJLFT])([a-zA-Z])([0-9]{4})([A-Za-z]{1})",
         "raw_prompt": "1. 3 generic Alphabets\n2. 1 specific alphabet\n3. 1 generic alphabet\n4. 4 digits\n5. 1 generic alphabet\n(alphabets: small or capital)",
-        "refined_prompt": "It matches a string that with ten characters that has the following structure.\r\n- the first three characters are any letter from A to Z (uppercase or lowercase).\r\n- the 4th character is one of the following letters: P, C, H, A, B, G, J, L, F, or T (upper case or lower case). \r\n- the 5th character is any letter (uppercase or lowercase).\r\n- the 6th-9th characters are any number (0 to 9)\r\n- the 10th character is any letter from A to Z (uppercase or lowercase).\nMatch examples:\n- \"AABCL5045N\"\nNon-match examples:\n- \"AABXL5045N\"",
+        "refined_prompt": "It matches a string that with ten characters that has the following structure.\r\n- the first three characters are any letter from A to Z (uppercase or lowercase).\r\n- the 4th character is one of the following letters: P, C, H, A, B, G, J, L, F, or T (upper case or lower case). \r\n- the 5th character is any letter (uppercase or lowercase).\r\n- the 6th-9th characters are any number (0 to 9)\r\n- the 10th character is any letter from A to Z (uppercase or lowercase).\nMatch examples:\n- \"AABCL5045N\"\n- \"AACCL5045Z\"\n- \"BABCL4045N\"\nNon-match examples:\n- \"AABXL5045N\"\n- \"AABCL5045\"",
         "matches": [
-            "AABCL5045N"
+            "AABCL5045N",
+            "AACCL5045Z",
+            "BABCL4045N",
+            "ACBCL5149D",
+            "ADBFL5045O",
+            "aabcl5045n",
+            "AaBCL5045N",
+            "AABCL5045x",
+            "AABCr5045N",
+            "AABCL5945N",
+            "AABCL5045a",
+            "aABCL5045N",
+            "iABCL5045N"
         ],
         "non_matches": [
-            "AABXL5045N"
+            "AABXL5045N",
+            "AABCL5045",
+            "1ABCL5045N",
+            "AABRL5045N",
+            "AABCL504N",
+            "AABCL",
+            "abc",
+            "123",
+            "9100",
+            "AABCL-5045N",
+            "AAB-C-L-5045-N",
+            "AABCLN"
         ],
         "stress_tests": []
     }
