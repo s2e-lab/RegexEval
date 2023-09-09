@@ -50356,7 +50356,97 @@
         "stress_tests": [],
         "id": 1372,
         "problematic": [],
-        "gpt3.5_output": "OpenAI_Error"
+        "gpt3.5_output": {
+            "choices": [
+              {
+                "finish_reason": "stop",
+                "index": 0,
+                "message": {
+                  "content": "^[A-Z]{2}$",
+                  "role": "assistant"
+                }
+              },
+              {
+                "finish_reason": "stop",
+                "index": 1,
+                "message": {
+                  "content": "^[A-Za-z]{2}$",
+                  "role": "assistant"
+                }
+              },
+              {
+                "finish_reason": "stop",
+                "index": 2,
+                "message": {
+                  "content": "\\b[A-Z]{2}\\b",
+                  "role": "assistant"
+                }
+              },
+              {
+                "finish_reason": "stop",
+                "index": 3,
+                "message": {
+                  "content": "\\b[A-Za-z]{2}\\b",
+                  "role": "assistant"
+                }
+              },
+              {
+                "finish_reason": "stop",
+                "index": 4,
+                "message": {
+                  "content": "^[A-Z]{2}$",
+                  "role": "assistant"
+                }
+              },{
+                "finish_reason": "stop",
+                "index": 5,
+                "message": {
+                  "content": "\\b[A-Za-z]{2}\\b",
+                  "role": "assistant"
+                }
+              },
+              {
+                "finish_reason": "stop",
+                "index": 6,
+                "message": {
+                  "content": "^[A-Za-z]{2}$",
+                  "role": "assistant"
+                }
+              },
+              {
+                "finish_reason": "stop",
+                "index": 7,
+                "message": {
+                  "content": "\\b[A-Z]{2}\\b",
+                  "role": "assistant"
+                }
+              },
+              {
+                "finish_reason": "stop",
+                "index": 8,
+                "message": {
+                  "content": "\\b[A-Z]{2}\\b",
+                  "role": "assistant"
+                }
+              },
+              {
+                "finish_reason": "stop",
+                "index": 9,
+                "message": { "content": "\\b[A-Z]{2}\\b",
+                "role": "assistant"
+              }
+            }
+          ],
+          "created": 1694278044,
+          "id": "chatcmpl-7wvPA1feo1lStQ2R2N8Ki9xaNY1Qf",
+          "model": "gpt-3.5-turbo-0613",
+          "object": "chat.completion",
+          "usage": {
+            "completion_tokens": 70,
+            "prompt_tokens": 57,
+            "total_tokens": 127
+          }
+        }
     },
     {
         "expression": "(?:(?:(?:04|06|09|11)\\/(?:(?:[012][0-9])|30))|(?:(?:(?:0[135789])|(?:1[02]))\\/(?:(?:[012][0-9])|30|31))|(?:02\\/(?:[012][0-9])))\\/(?:19|20|21)[0-9][0-9]",
