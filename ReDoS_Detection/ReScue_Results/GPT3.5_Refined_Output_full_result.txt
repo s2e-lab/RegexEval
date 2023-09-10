@@ -2217,7 +2217,7 @@
 2217 : failed : failed : 0.136445289 (s) : ^-?
 2218 : failed : failed : 2.878488421 (s) : ^[-+]?\\d*\\.\\d+$|^[-+]?\\d+\\.\\d*$|^[-+]?\\d*\\.\\d+$|^$
 2219 : failed : failed : 0.225765618 (s) : ^(-?(\\d*\\.)?\\d+)?$\n```\nExplanati
-2220 failed : unparsable : 0 (s) : Please check your regex.
+2220 : failed : unparsable : 0 (s) : Please check your regex.
 2221 : failed : failed : 0.142068824 (s) : ^(?!0+$)\\d+$
 2222 : failed : failed : 0.209042848 (s) : ^(?!0+$)\\d+$
 2223 : failed : failed : 0.157573616 (s) : ^[1-9][0-9]*$
@@ -2550,7 +2550,7 @@
 2550 : failed : failed : 0.173020491 (s) : ^\\((0[1-9])\\)\\d{8}$
 2551 : failed : error init : 0.087996073 (s) : ^
 2552 : failed : failed : 0.22121033 (s) : ^(0?\\.\\d+|\\d+(\\.\\d+)?|1\\.0*)$
-2553 failed : unparsable : 0 (s) : Please check your regex.
+2553 : failed : unparsable : 0 (s) : Please check your regex.
 2554 : unparsable : unparsable : 0.085462997 (s) : ^(0
 2555 : failed : failed : 0.280627785 (s) : ^(\\d{0,2}(\\.\\d{1,2})?|0?\\.\\d{1,2})$
 2556 : failed : failed : 0.156327196 (s) : ^(0(\\.\\d{1,2})?|1(\\.0{1,2})?)$
@@ -3510,7 +3510,7 @@
 3510 : failed : failed : 0.123224066 (s) : ^\\d{1,3}
 3511 : unparsable : unparsable : 0.085784659 (s) : ^(\\/\\/.*|#[^\\r\\n]*|\\/\\*
 3512 : failed : pumping failed : 11.65050464 (s) : ^\\/\\/.*$|^\\#.*$|^\\/\\*.*\\*\\/$
-3513 failed : unparsable : 0 (s) : Please check your regex.
+3513 : failed : unparsable : 0 (s) : Please check your regex.
 3514 : failed : pumping failed : 12.456469981 (s) : ^(\\/\\/.*|\\#.*|\\/\\*.*\\*\\/)$
 3515 : failed : pumping failed : 14.911179049 (s) : ^(\\/\\/.*|#.*|\\/\\*.*\\*\\/)$
 3516 : failed : pumping failed : 11.239000551 (s) : ^(\\/\\/.*|\\/\\*.*\\*\\/|#.*)$
@@ -3631,7 +3631,7 @@
 3631 : failed : failed : 0.170883434 (s) : ^\\d{4}-\\d{2}-\\d{2}
 3632 : failed : error init : 0.107959804 (s) : ^
 3633 : failed : failed : 0.135459415 (s) : ^\\d{4}
-3634 failed : unparsable : 0 (s) : Please check your regex.
+3634 : failed : unparsable : 0 (s) : Please check your regex.
 3635 : unparsable : unparsable : 0.069215235 (s) : ^(\\d{4})[-\\/]?(\\d{2})[-\\/]?(\\d{2})\\s?(\\d{2}
 3636 : failed : failed : 0.131157891 (s) : ^(\\d{4})
 3637 : failed : error init : 0.116120864 (s) : ^
@@ -4892,7 +4892,7 @@
 4892 : unparsable : unparsable : 0.066954488 (s) : ^[a-zA-
 4893 : unparsable : unparsable : 0.086481131 (s) : ^[a-zA
 4894 : unparsable : unparsable : 0.061964197 (s) : ^[a-zA-
-4895 failed : unparsable : 0 (s) : Please check your regex.
+4895 : failed : unparsable : 0 (s) : Please check your regex.
 4896 : unparsable : unparsable : 0.102684901 (s) : ^[A-Za-
 4897 : unparsable : unparsable : 0.071707435 (s) : ^[a-zA-
 4898 : unparsable : unparsable : 0.062530255 (s) : ^[a-zA-Z]|^_[a-zA-Z0-9
@@ -5045,7 +5045,7 @@
 5045 : failed : failed : 0.372314109 (s) : The regex pattern that matches spaces except when they are within a quote-delimited set of characters can be written 
 5046 : failed : failed : 3.42212789 (s) : (?<!\")\\s(?!\")
 5047 : unparsable : unparsable : 0.072056628 (s) : (?<=\\()(\\s+)(?=\\))
-5048 failed : unparsable : 0 (s) : Please check your regex.
+5048 : failed : unparsable : 0 (s) : Please check your regex.
 5049 : failed : failed : 4.533308721 (s) : (?<!\")\\s(?!\")
 5050 : failed : failed : 4.15712143 (s) : (?<=\")[^\"]*
 5051 : unparsable : unparsable : 0.067860311 (s) : ^<DT><A\\sHREF=\".*?\"\\sADD_DATE=\"\\d+\"\\sLAST_MODIFIED=\"\\d+\"\\sICON_URI=\".*?\"\\sICON=\"(
@@ -6371,7 +6371,7 @@
 6371 : failed : error init : 0.13567611 (s) : ^
 6372 : failed : failed : 25.314305632 (s) : ^&[a-zA-Z]+;$|&#[0-9]+;$
 6373 : failed : failed : 17.874869709 (s) : ^&[a-zA-Z]+;$|^&#[0-9]+;$
-6374 failed : unparsable : 0 (s) : Please check your regex.
+6374 : failed : unparsable : 0 (s) : Please check your regex.
 6375 : failed : failed : 1.126191901 (s) : &(reg|nbsp|#\\d+);
 6376 : failed : error init : 0.107100507 (s) : ^
 6377 : failed : failed : 0.80203426 (s) : &(reg|nbsp|\\#\\d{2});
