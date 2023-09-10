@@ -1,0 +1,8 @@
+Attack Summary
+First Success: 86
+Real Success: 21
+Failed: 6719
+	Pumping: 65; Timeout: 3; Normal: 5559; Init: 1092; Cross: 0; Select: 0
+Unparsable: 880
+Total: 7620
+Node Coverage: init/ga/total 86851/88384/105236
