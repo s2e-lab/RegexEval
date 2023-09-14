@@ -33,7 +33,7 @@ def openai_response(prompt):
 
 
 # %%
-with open('./RegexEval_v4.json') as f:
+with open('../DatasetCollection/RegexEval.json') as f:
     data = json.loads(f.read())
 
 len(data)

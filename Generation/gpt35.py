@@ -3,7 +3,6 @@ import json
 import openai
 
 
-
 # %%
 with open("./config.json") as f:
     config_data = json.loads(f.read())
@@ -45,7 +44,7 @@ def gpt35_response(prompt):
 
 
 # %%
-with open('./RegexEval_v4.json') as f:
+with open('../DatasetCollection/RegexEval.json') as f:
     data = json.loads(f.read())
 
 len(data)
@@ -59,5 +58,5 @@ for item in data:
 
 
 # %%
-with open('./GPT3.5_Output.json', "w") as f:
+with open('./GPT3.5_Refined_Output.json', "w") as f:
    json.dump(new_data, f, indent=4)
