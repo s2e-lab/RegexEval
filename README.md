@@ -14,8 +14,7 @@ by the language models. We proposed Re(gEx|DoS)Eval which includes a dataset wit
 with examples, and a robust set of tests. We introduced pass@k and
 vulnerable@k metrics to evaluate the generated RegEx based on
 the functional correctness and ReDoS vulnerability. In this short
-paper, we demonstrated the Re(gEx|DoS)Eval with language mod-
-els i.e., T5, Phi-1.5, and GPT-3, and described the plan for the future
+paper, we demonstrated the Re(gEx|DoS)Eval with language models i.e., T5, Phi-1.5, and GPT-3, and described the plan for the future
 extension of this infrastructure.
 
 ## Project Structure
@@ -42,14 +41,14 @@ There are four python files for four models.
 For GPT35.py and Text_DaVinci.py, you need to install the following packages:
 - openai
 
-You will also need a OpenAI API key and create a **config.json** file as the **example.json** file. Update your API key in the **config.json** file.
+You will also need a OpenAI API key and have to create a **config.json** file as the **example.json** file. Update your API key in the **config.json** file.
 
 For T5_RegexGen.py and Phi_RegexGen.py, you need to install the following packages:
 - transformers 
 - torch
 - tqdm
 
-You have to run the each code twice: once for raw and once for refined prompts. These codes will generate {Model_name}_{Prompt_type}_Output.json files except for the Phi_RegexGen.py which will generate {Model_name}_{Prompt_type}_Output_Original.json files. You have to run **Phi_data_filter.ipynb** on them.
+You have to run the each code twice: once for raw and once for refined prompts. These codes will generate {Model_name}_{Prompt_type}_Output.json files except for the Phi_RegexGen.py which will generate {Model_name}_{Prompt_type}_Output_Original.json files. You have to run Phi_data_filter.ipynb on them.
 
 ### Evaluation
 You need to install the following packages:
