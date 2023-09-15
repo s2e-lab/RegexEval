@@ -22,7 +22,8 @@ def gpt35_response(prompt):
             messages=[
                 {
                     "role": "user",
-                    "content": "Generate a RegEx for this description:\n"+prompt["refined_prompt"]+ "\n\n",
+                    "content": prompt["refined_prompt"]
+                    + "\nGenerate a RegEx for this description:\n\n",
                 }
             ],
             temperature=0.8,
@@ -43,7 +44,7 @@ def gpt35_response(prompt):
 
 
 # %%
-with open('../DatasetCollection/RegexEval.json') as f:
+with open('./DatasetCollection/RegexEval.json') as f:
     data = json.loads(f.read())
 
 len(data)

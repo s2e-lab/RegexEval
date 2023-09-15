@@ -17,7 +17,8 @@ print(OPENAI_KEY)
 def openai_response(prompt):
     response = openai.Completion.create(
         model="text-davinci-003",
-        prompt="Generate a RegEx for this description:\n"+prompt["refined_prompt"]+ "\n\n",
+        prompt=prompt["refined_prompt"]
+        + "\nGenerate a RegEx for this description:\n\n",
         temperature=0.8,
         max_tokens=128,
         top_p=1,
