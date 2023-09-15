@@ -13,7 +13,7 @@ tokenizer = AutoTokenizer.from_pretrained("microsoft/phi-1_5", trust_remote_code
 
 # %%
 def phi_response(prompt, tokenizer,model):
-    prompt_text = prompt["refined_prompt"]+ "\nGenerate a RegEx for this description.\n Answer:"
+    prompt_text = "Generate a RegEx for this description:\n"+prompt["refined_prompt"]+ "\nAnswer:"
     inputs = tokenizer(prompt_text, return_tensors="pt")
     x = inputs['input_ids']
     x = x.expand(10, -1)

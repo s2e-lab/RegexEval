@@ -22,8 +22,7 @@ def gpt35_response(prompt):
             messages=[
                 {
                     "role": "user",
-                    "content": prompt["refined_prompt"]
-                    + "\nGenerate a RegEx for this description:\n\n",
+                    "content": "Generate a RegEx for this description:\n"+prompt["refined_prompt"]+ "\n\n",
                 }
             ],
             temperature=0.8,
