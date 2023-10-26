@@ -48,7 +48,7 @@ for item in tqdm.tqdm(data):
 
 
 # %%
-with open('./Phi_Refined_Output_Original.json', 'w') as f:
+with open('./Output/Phi_Refined_Output_Original.json', 'w') as f:
     json.dump(new_data, f, indent=4)
 
 

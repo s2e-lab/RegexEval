@@ -47,7 +47,7 @@ for item in data:
 
 
 # %%
-with open("./Text_DaVinci_Output.json", "w") as f:
+with open("./Output/Text_DaVinci_Output.json", "w") as f:
     json.dump(new_data, f, indent=4)
 
 

@@ -33,7 +33,7 @@ for item in tqdm.tqdm(data):
 
 
 # %%
-with open('./T5_Refined_Output.json', 'w') as f:
+with open('./Output/T5_Refined_Output.json', 'w') as f:
     json.dump(new_data, f, indent=4)
 
 
