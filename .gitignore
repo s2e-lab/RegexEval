@@ -1,1 +1,22 @@
 Generation/config.json
+.DS_Store
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python generated files
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# weird Icon\r that gets created on mac os
+Icon?
