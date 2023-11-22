@@ -87,7 +87,7 @@ for i in range(len(item['text_davinci_003_output']['choices])):
 If you use this code, please cite the following paper:
 ```
 @inproceedings{siddiq2024regexeval,
-  author={Siddiq, Mohammed Latif and Zhang, Jiahao and Roney, Lindsay and Santos, Joanna C. S. },
+  author={Siddiq, Mohammed Latif and Zhang, Jiahao and Roney, Lindsay and Santos, Joanna C. S.},
   booktitle={Proceedings of the 46th International Conference on Software Engineering, NIER Track (ICSE-NIER '24)}, 
   title={Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks}, 
   year={2024}
