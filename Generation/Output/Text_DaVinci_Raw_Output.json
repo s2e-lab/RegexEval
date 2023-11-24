@@ -29,9 +29,7 @@
             "the car",
             "lorem ipsum"
         ],
-        "stress_tests": [
-            "eeeeeeeeeeeeyyyyyyyyhhyhuy"
-        ],
+
         "id": 1,
         "problematic": [],
         "text_davinci_003_output": {
@@ -142,7 +140,7 @@
             "potrewjdsg",
             "h345gf43"
         ],
-        "stress_tests": [],
+        
         "id": 2,
         "problematic": [],
         "text_davinci_003_output": {
@@ -251,7 +249,7 @@
             "adfa2",
             "23457-4332w2"
         ],
-        "stress_tests": [],
+        
         "id": 3,
         "problematic": [],
         "text_davinci_003_output": {
@@ -361,7 +359,7 @@
             "wtre-0n",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 4,
         "problematic": [],
         "text_davinci_003_output": {
@@ -471,7 +469,7 @@
             "dfg",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 5,
         "problematic": [],
         "text_davinci_003_output": {
@@ -582,7 +580,7 @@
             "34d2vdw",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 6,
         "problematic": [],
         "text_davinci_003_output": {
@@ -693,7 +691,7 @@
             "JFLSKJ FSDOIJ",
             "GOOD friend"
         ],
-        "stress_tests": [],
+        
         "id": 7,
         "problematic": [],
         "text_davinci_003_output": {
@@ -804,7 +802,7 @@
             "sdf324 abc...",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 8,
         "problematic": [],
         "text_davinci_003_output": {
@@ -934,7 +932,7 @@
             "34.31",
             "8h98009hu"
         ],
-        "stress_tests": [],
+        
         "id": 9,
         "problematic": [],
         "text_davinci_003_output": {
@@ -1045,7 +1043,7 @@
             "+4.5",
             "-99.99"
         ],
-        "stress_tests": [],
+        
         "id": 10,
         "problematic": [],
         "text_davinci_003_output": {
@@ -1156,7 +1154,7 @@
             "longlonglonglonglong",
             "hello12345hello12345"
         ],
-        "stress_tests": [],
+        
         "id": 11,
         "problematic": [],
         "text_davinci_003_output": {
@@ -1266,7 +1264,7 @@
             "apple@banana",
             "test@test.test"
         ],
-        "stress_tests": [],
+        
         "id": 12,
         "problematic": [],
         "text_davinci_003_output": {
@@ -1377,7 +1375,7 @@
             "qwerty",
             "2020/2/2"
         ],
-        "stress_tests": [],
+        
         "id": 13,
         "problematic": [],
         "text_davinci_003_output": {
@@ -1480,7 +1478,7 @@
             "-1",
             "000"
         ],
-        "stress_tests": [],
+        
         "id": 15,
         "problematic": [],
         "text_davinci_003_output": {
@@ -1583,7 +1581,7 @@
             "dfg",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 16,
         "problematic": [],
         "text_davinci_003_output": {
@@ -1694,7 +1692,7 @@
             "222-222-22222",
             "123-456-7890"
         ],
-        "stress_tests": [],
+        
         "id": 18,
         "problematic": [],
         "text_davinci_003_output": {
@@ -1805,7 +1803,7 @@
             "@#$.com",
             "abcabc.abc"
         ],
-        "stress_tests": [],
+        
         "id": 20,
         "problematic": [],
         "text_davinci_003_output": {
@@ -1916,7 +1914,7 @@
             "abc111def",
             "8a8"
         ],
-        "stress_tests": [],
+        
         "id": 25,
         "problematic": [],
         "text_davinci_003_output": {
@@ -2027,7 +2025,7 @@
             "BbBbBbBb2222",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 26,
         "problematic": [],
         "text_davinci_003_output": {
@@ -2138,7 +2136,7 @@
             "g3.g543.g45",
             "0988.74534.5464"
         ],
-        "stress_tests": [],
+        
         "id": 27,
         "problematic": [],
         "text_davinci_003_output": {
@@ -2249,7 +2247,7 @@
             "sda sad",
             "@sdaf@sdf123"
         ],
-        "stress_tests": [],
+        
         "id": 34,
         "problematic": [],
         "text_davinci_003_output": {
@@ -2360,7 +2358,7 @@
             "$345.605",
             "\u00a5423.34"
         ],
-        "stress_tests": [],
+        
         "id": 36,
         "problematic": [],
         "text_davinci_003_output": {
@@ -2471,7 +2469,7 @@
             "fdsf@@@fsdf",
             "gsfdoji@FDS"
         ],
-        "stress_tests": [],
+        
         "id": 41,
         "problematic": [],
         "text_davinci_003_output": {
@@ -2582,7 +2580,7 @@
             "2fe2vf",
             "2efr245"
         ],
-        "stress_tests": [],
+        
         "id": 42,
         "problematic": [],
         "text_davinci_003_output": {
@@ -2693,7 +2691,7 @@
             "nu5624t3v",
             "j2v"
         ],
-        "stress_tests": [],
+        
         "id": 45,
         "problematic": [],
         "text_davinci_003_output": {
@@ -2804,7 +2802,7 @@
             "gwerb",
             "32vt"
         ],
-        "stress_tests": [],
+        
         "id": 46,
         "problematic": [],
         "text_davinci_003_output": {
@@ -2915,7 +2913,7 @@
             "44-6234",
             "+24-234.345"
         ],
-        "stress_tests": [],
+        
         "id": 47,
         "problematic": [],
         "text_davinci_003_output": {
@@ -3026,7 +3024,7 @@
             "-652.63264",
             "3yb43yb5"
         ],
-        "stress_tests": [],
+        
         "id": 48,
         "problematic": [],
         "text_davinci_003_output": {
@@ -3137,7 +3135,7 @@
             "654",
             "4351.1345"
         ],
-        "stress_tests": [],
+        
         "id": 53,
         "problematic": [],
         "text_davinci_003_output": {
@@ -3248,7 +3246,7 @@
             "4pm",
             "253@#RFE"
         ],
-        "stress_tests": [],
+        
         "id": 54,
         "problematic": [],
         "text_davinci_003_output": {
@@ -3359,7 +3357,7 @@
             "34.31",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 57,
         "problematic": [],
         "text_davinci_003_output": {
@@ -3470,7 +3468,7 @@
             "3415-34564",
             "3461-436643"
         ],
-        "stress_tests": [],
+        
         "id": 68,
         "problematic": [],
         "text_davinci_003_output": {
@@ -3581,7 +3579,7 @@
             "5334.435",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 69,
         "problematic": [],
         "text_davinci_003_output": {
@@ -3692,7 +3690,7 @@
             "2398ufsd",
             "893420980)U(X"
         ],
-        "stress_tests": [],
+        
         "id": 73,
         "problematic": [],
         "text_davinci_003_output": {
@@ -3841,7 +3839,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 74,
         "problematic": [],
         "text_davinci_003_output": {
@@ -3952,7 +3950,7 @@
             "542.423",
             "534.342435"
         ],
-        "stress_tests": [],
+        
         "id": 75,
         "problematic": [],
         "text_davinci_003_output": {
@@ -4063,7 +4061,7 @@
             "f34-f43rv",
             "5345-43534"
         ],
-        "stress_tests": [],
+        
         "id": 80,
         "problematic": [],
         "text_davinci_003_output": {
@@ -4174,7 +4172,7 @@
             "AFDS23",
             "DVS2"
         ],
-        "stress_tests": [],
+        
         "id": 84,
         "problematic": [],
         "text_davinci_003_output": {
@@ -4285,7 +4283,7 @@
             "2000-100-01 60:00:00",
             "2000-01-100 60:00:00"
         ],
-        "stress_tests": [],
+        
         "id": 86,
         "problematic": [],
         "text_davinci_003_output": {
@@ -4396,7 +4394,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 87,
         "problematic": [],
         "text_davinci_003_output": {
@@ -4507,7 +4505,7 @@
             "4fc34f",
             "---1--1--12-3-4"
         ],
-        "stress_tests": [],
+        
         "id": 89,
         "problematic": [],
         "text_davinci_003_output": {
@@ -4618,7 +4616,7 @@
             "C:\\DyAGT\\DSAG42.md",
             "ADSF@FADSFXLS"
         ],
-        "stress_tests": [],
+        
         "id": 92,
         "problematic": [],
         "text_davinci_003_output": {
@@ -4729,7 +4727,7 @@
             "6872",
             "16578"
         ],
-        "stress_tests": [],
+        
         "id": 94,
         "problematic": [],
         "text_davinci_003_output": {
@@ -4840,7 +4838,7 @@
             "45/15673",
             "486/465123"
         ],
-        "stress_tests": [],
+        
         "id": 95,
         "problematic": [],
         "text_davinci_003_output": {
@@ -4951,7 +4949,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 96,
         "problematic": [],
         "text_davinci_003_output": {
@@ -5062,7 +5060,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 97,
         "problematic": [],
         "text_davinci_003_output": {
@@ -5173,7 +5171,7 @@
             "132F4132F.12F143F2",
             "54B35G3.53G5G3"
         ],
-        "stress_tests": [],
+        
         "id": 98,
         "problematic": [],
         "text_davinci_003_output": {
@@ -5284,7 +5282,7 @@
             "31/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 99,
         "problematic": [],
         "text_davinci_003_output": {
@@ -5395,7 +5393,7 @@
             "9/99/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 100,
         "problematic": [],
         "text_davinci_003_output": {
@@ -5506,7 +5504,7 @@
             "9/9/97777",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 103,
         "problematic": [],
         "text_davinci_003_output": {
@@ -5617,7 +5615,7 @@
             "34.31sd",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 108,
         "problematic": [],
         "text_davinci_003_output": {
@@ -5728,7 +5726,7 @@
             "9/9/9",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 110,
         "problematic": [],
         "text_davinci_003_output": {
@@ -5839,7 +5837,7 @@
             "789798",
             "789798-8798"
         ],
-        "stress_tests": [],
+        
         "id": 113,
         "problematic": [],
         "text_davinci_003_output": {
@@ -5950,7 +5948,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 114,
         "problematic": [],
         "text_davinci_003_output": {
@@ -6061,7 +6059,7 @@
             "34.31",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 117,
         "problematic": [],
         "text_davinci_003_output": {
@@ -6172,7 +6170,7 @@
             "9/9/9",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 118,
         "problematic": [],
         "text_davinci_003_output": {
@@ -6283,7 +6281,7 @@
             "234.432",
             "222.333"
         ],
-        "stress_tests": [],
+        
         "id": 119,
         "problematic": [],
         "text_davinci_003_output": {
@@ -6394,7 +6392,7 @@
             "9/9/9",
             "92/90"
         ],
-        "stress_tests": [],
+        
         "id": 120,
         "problematic": [],
         "text_davinci_003_output": {
@@ -6505,7 +6503,7 @@
             "23=4234-98324",
             "24302348-23489(13)"
         ],
-        "stress_tests": [],
+        
         "id": 123,
         "problematic": [],
         "text_davinci_003_output": {
@@ -6616,7 +6614,7 @@
             "fsda.twe",
             "rwe.ter"
         ],
-        "stress_tests": [],
+        
         "id": 125,
         "problematic": [],
         "text_davinci_003_output": {
@@ -6727,7 +6725,7 @@
             "notredame.github",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 126,
         "problematic": [],
         "text_davinci_003_output": {
@@ -6838,7 +6836,7 @@
             "34.31ee",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 127,
         "problematic": [],
         "text_davinci_003_output": {
@@ -6949,7 +6947,7 @@
             "999:999:999",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 132,
         "problematic": [],
         "text_davinci_003_output": {
@@ -7060,7 +7058,7 @@
             "*%&$*($#`",
             "$~#@$$"
         ],
-        "stress_tests": [],
+        
         "id": 133,
         "problematic": [],
         "text_davinci_003_output": {
@@ -7171,7 +7169,7 @@
             "34.31141",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 139,
         "problematic": [],
         "text_davinci_003_output": {
@@ -7282,7 +7280,7 @@
             "2434:542:523:2345",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 141,
         "problematic": [],
         "text_davinci_003_output": {
@@ -7393,7 +7391,7 @@
             "534,534,6345,,35",
             "54,3534"
         ],
-        "stress_tests": [],
+        
         "id": 142,
         "problematic": [],
         "text_davinci_003_output": {
@@ -7504,7 +7502,7 @@
             "9/9/95341",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 143,
         "problematic": [],
         "text_davinci_003_output": {
@@ -7615,7 +7613,7 @@
             "(0xx12) 62509",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 145,
         "problematic": [],
         "text_davinci_003_output": {
@@ -7726,7 +7724,7 @@
             "DFJSL'98DF'FSDIO",
             "JSDLKF'SDF''FDS''FS"
         ],
-        "stress_tests": [],
+        
         "id": 146,
         "problematic": [],
         "text_davinci_003_output": {
@@ -7837,7 +7835,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 147,
         "problematic": [],
         "text_davinci_003_output": {
@@ -7948,7 +7946,7 @@
             "34.31",
             "534534.94534"
         ],
-        "stress_tests": [],
+        
         "id": 149,
         "problematic": [],
         "text_davinci_003_output": {
@@ -8059,7 +8057,7 @@
             "17/06/54 89:9:6",
             "29/2/28 22:98:4"
         ],
-        "stress_tests": [],
+        
         "id": 153,
         "problematic": [],
         "text_davinci_003_output": {
@@ -8170,7 +8168,7 @@
             "34.315412",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 156,
         "problematic": [],
         "text_davinci_003_output": {
@@ -8281,7 +8279,7 @@
             "@)IJKNOVDF@",
             "@JIOFKDJOI@"
         ],
-        "stress_tests": [],
+        
         "id": 158,
         "problematic": [],
         "text_davinci_003_output": {
@@ -8392,7 +8390,7 @@
             "abc111def",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 161,
         "problematic": [],
         "text_davinci_003_output": {
@@ -8503,7 +8501,7 @@
             "9/9/9",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 162,
         "problematic": [],
         "text_davinci_003_output": {
@@ -8614,7 +8612,7 @@
             "9/9/956123",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 169,
         "problematic": [],
         "text_davinci_003_output": {
@@ -8725,7 +8723,7 @@
             "255.141.207.1488",
             "165.207.2049.253"
         ],
-        "stress_tests": [],
+        
         "id": 170,
         "problematic": [],
         "text_davinci_003_output": {
@@ -8836,7 +8834,7 @@
             "$Y*(UHIJKN",
             "$Jioklmfds"
         ],
-        "stress_tests": [],
+        
         "id": 172,
         "problematic": [],
         "text_davinci_003_output": {
@@ -8947,7 +8945,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 173,
         "problematic": [],
         "text_davinci_003_output": {
@@ -9058,7 +9056,7 @@
             "0u9ioj5dr",
             "6tfy"
         ],
-        "stress_tests": [],
+        
         "id": 174,
         "problematic": [],
         "text_davinci_003_output": {
@@ -9169,7 +9167,7 @@
             "FSG- FD3 D. F3D",
             "F33 E"
         ],
-        "stress_tests": [],
+        
         "id": 176,
         "problematic": [],
         "text_davinci_003_output": {
@@ -9280,7 +9278,7 @@
             "<imadsfadsf",
             "<iab\" />df"
         ],
-        "stress_tests": [],
+        
         "id": 183,
         "problematic": [],
         "text_davinci_003_output": {
@@ -9391,7 +9389,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 184,
         "problematic": [],
         "text_davinci_003_output": {
@@ -9502,7 +9500,7 @@
             "9/9/9",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 185,
         "problematic": [],
         "text_davinci_003_output": {
@@ -9613,7 +9611,7 @@
             "(0xx12) 62509",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 187,
         "problematic": [],
         "text_davinci_003_output": {
@@ -9724,7 +9722,7 @@
             "abc111def",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 191,
         "problematic": [],
         "text_davinci_003_output": {
@@ -9835,7 +9833,7 @@
             "<h3>HIUJKNfsgFSDfsd</h3>",
             "<h3>HIUsd</h3>"
         ],
-        "stress_tests": [],
+        
         "id": 192,
         "problematic": [],
         "text_davinci_003_output": {
@@ -9946,7 +9944,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 197,
         "problematic": [],
         "text_davinci_003_output": {
@@ -10057,7 +10055,7 @@
             "AB123456b",
             "AB123456c"
         ],
-        "stress_tests": [],
+        
         "id": 202,
         "problematic": [],
         "text_davinci_003_output": {
@@ -10168,7 +10166,7 @@
             "9/9/2009 22:35:64",
             "12/132/90 22:35:00"
         ],
-        "stress_tests": [],
+        
         "id": 204,
         "problematic": [],
         "text_davinci_003_output": {
@@ -10279,7 +10277,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 209,
         "problematic": [],
         "text_davinci_003_output": {
@@ -10390,7 +10388,7 @@
             "12:022",
             "342"
         ],
-        "stress_tests": [],
+        
         "id": 211,
         "problematic": [],
         "text_davinci_003_output": {
@@ -10501,7 +10499,7 @@
             "2:2 AAMM",
             "23:23:23 PM"
         ],
-        "stress_tests": [],
+        
         "id": 212,
         "problematic": [],
         "text_davinci_003_output": {
@@ -10612,7 +10610,7 @@
             "j9IFDS",
             "9jiFOD"
         ],
-        "stress_tests": [],
+        
         "id": 217,
         "problematic": [],
         "text_davinci_003_output": {
@@ -10723,7 +10721,7 @@
             "21:84:58",
             "14:29:97"
         ],
-        "stress_tests": [],
+        
         "id": 222,
         "problematic": [],
         "text_davinci_003_output": {
@@ -10834,7 +10832,7 @@
             "10.62 Pm",
             "21.33"
         ],
-        "stress_tests": [],
+        
         "id": 223,
         "problematic": [],
         "text_davinci_003_output": {
@@ -10926,7 +10924,7 @@
             "0.0",
             ".0"
         ],
-        "stress_tests": [],
+        
         "id": 226,
         "problematic": [],
         "text_davinci_003_output": {
@@ -11037,7 +11035,7 @@
             "abc111def",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 228,
         "problematic": [],
         "text_davinci_003_output": {
@@ -11148,7 +11146,7 @@
             "34.31",
             "32542.456"
         ],
-        "stress_tests": [],
+        
         "id": 231,
         "problematic": [],
         "text_davinci_003_output": {
@@ -11259,7 +11257,7 @@
             "FDSD79",
             "998F FD7329"
         ],
-        "stress_tests": [],
+        
         "id": 234,
         "problematic": [],
         "text_davinci_003_output": {
@@ -11370,7 +11368,7 @@
             "54:84",
             "0943:423"
         ],
-        "stress_tests": [],
+        
         "id": 235,
         "problematic": [],
         "text_davinci_003_output": {
@@ -11481,7 +11479,7 @@
             "87/67",
             "85/83"
         ],
-        "stress_tests": [],
+        
         "id": 236,
         "problematic": [],
         "text_davinci_003_output": {
@@ -11592,7 +11590,7 @@
             "34.31",
             "423:4561"
         ],
-        "stress_tests": [],
+        
         "id": 244,
         "problematic": [],
         "text_davinci_003_output": {
@@ -11703,7 +11701,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 249,
         "problematic": [],
         "text_davinci_003_output": {
@@ -11814,7 +11812,7 @@
             "fg4d851",
             "g98456gf"
         ],
-        "stress_tests": [],
+        
         "id": 251,
         "problematic": [],
         "text_davinci_003_output": {
@@ -11925,7 +11923,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 255,
         "problematic": [],
         "text_davinci_003_output": {
@@ -12036,7 +12034,7 @@
             "sda sad",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 262,
         "problematic": [],
         "text_davinci_003_output": {
@@ -12147,7 +12145,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 263,
         "problematic": [],
         "text_davinci_003_output": {
@@ -12258,7 +12256,7 @@
             "9/9/9",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 271,
         "problematic": [],
         "text_davinci_003_output": {
@@ -12369,7 +12367,7 @@
             "956195-9516",
             "9561-56"
         ],
-        "stress_tests": [],
+        
         "id": 273,
         "problematic": [],
         "text_davinci_003_output": {
@@ -12480,7 +12478,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 278,
         "problematic": [],
         "text_davinci_003_output": {
@@ -12591,7 +12589,7 @@
             "9/9/9",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 282,
         "problematic": [],
         "text_davinci_003_output": {
@@ -12702,7 +12700,7 @@
             "4561fd",
             "84561fs"
         ],
-        "stress_tests": [],
+        
         "id": 285,
         "problematic": [],
         "text_davinci_003_output": {
@@ -12813,7 +12811,7 @@
             "(0xx12) 62509@",
             "99999@gmail@@"
         ],
-        "stress_tests": [],
+        
         "id": 287,
         "problematic": [],
         "text_davinci_003_output": {
@@ -12924,7 +12922,7 @@
             "34.31afd",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 288,
         "problematic": [],
         "text_davinci_003_output": {
@@ -13035,7 +13033,7 @@
             "34.31451",
             "32542gdf"
         ],
-        "stress_tests": [],
+        
         "id": 289,
         "problematic": [],
         "text_davinci_003_output": {
@@ -13146,7 +13144,7 @@
             "Rwer.wer.Fds",
             "gfdgf.WERfdg.FDS"
         ],
-        "stress_tests": [],
+        
         "id": 294,
         "problematic": [],
         "text_davinci_003_output": {
@@ -13257,7 +13255,7 @@
             "jifdj8j 8sdf j",
             "notre dame"
         ],
-        "stress_tests": [],
+        
         "id": 295,
         "problematic": [],
         "text_davinci_003_output": {
@@ -13368,7 +13366,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 299,
         "problematic": [],
         "text_davinci_003_output": {
@@ -13479,7 +13477,7 @@
             "(0xx12) 62509",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 300,
         "problematic": [],
         "text_davinci_003_output": {
@@ -13590,7 +13588,7 @@
             "gy8ibhjg8yuhbjguibjkujk",
             "giftygjn8guijbhiojkhijnk"
         ],
-        "stress_tests": [],
+        
         "id": 308,
         "problematic": [],
         "text_davinci_003_output": {
@@ -13701,7 +13699,7 @@
             "c:\\sda sad",
             "c:\\99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 312,
         "problematic": [],
         "text_davinci_003_output": {
@@ -13812,7 +13810,7 @@
             "9/9/9",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 315,
         "problematic": [],
         "text_davinci_003_output": {
@@ -13923,7 +13921,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 317,
         "problematic": [],
         "text_davinci_003_output": {
@@ -14034,7 +14032,7 @@
             "51",
             "9786"
         ],
-        "stress_tests": [],
+        
         "id": 318,
         "problematic": [],
         "text_davinci_003_output": {
@@ -14145,7 +14143,7 @@
             "sda sad",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 320,
         "problematic": [],
         "text_davinci_003_output": {
@@ -14256,7 +14254,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 321,
         "problematic": [],
         "text_davinci_003_output": {
@@ -14367,7 +14365,7 @@
             "9/9/9 12 AM",
             "12/132/90 1:12"
         ],
-        "stress_tests": [],
+        
         "id": 322,
         "problematic": [],
         "text_davinci_003_output": {
@@ -14478,7 +14476,7 @@
             "34.31",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 323,
         "problematic": [],
         "text_davinci_003_output": {
@@ -14589,7 +14587,7 @@
             "abc111def",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 325,
         "problematic": [],
         "text_davinci_003_output": {
@@ -14700,7 +14698,7 @@
             "9/9/91341",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 327,
         "problematic": [],
         "text_davinci_003_output": {
@@ -14811,7 +14809,7 @@
             "abc111def",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 332,
         "problematic": [],
         "text_davinci_003_output": {
@@ -14922,7 +14920,7 @@
             "abc111def",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 333,
         "problematic": [],
         "text_davinci_003_output": {
@@ -15033,7 +15031,7 @@
             "sadday",
             "notredameday"
         ],
-        "stress_tests": [],
+        
         "id": 338,
         "problematic": [],
         "text_davinci_003_output": {
@@ -15144,7 +15142,7 @@
             "&^YGU",
             "$%ERTYU"
         ],
-        "stress_tests": [],
+        
         "id": 342,
         "problematic": [],
         "text_davinci_003_output": {
@@ -15255,7 +15253,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 343,
         "problematic": [],
         "text_davinci_003_output": {
@@ -15366,7 +15364,7 @@
             "SDF",
             "DD"
         ],
-        "stress_tests": [],
+        
         "id": 346,
         "problematic": [],
         "text_davinci_003_output": {
@@ -15477,7 +15475,7 @@
             "8451-95614-956",
             "48561-49516-51"
         ],
-        "stress_tests": [],
+        
         "id": 347,
         "problematic": [],
         "text_davinci_003_output": {
@@ -15588,7 +15586,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 348,
         "problematic": [],
         "text_davinci_003_output": {
@@ -15699,7 +15697,7 @@
             "45.87",
             "65.541"
         ],
-        "stress_tests": [],
+        
         "id": 349,
         "problematic": [],
         "text_davinci_003_output": {
@@ -15810,7 +15808,7 @@
             "JULY 414 1941",
             "DEC 2434"
         ],
-        "stress_tests": [],
+        
         "id": 350,
         "problematic": [],
         "text_davinci_003_output": {
@@ -15921,7 +15919,7 @@
             "3V3FDCV",
             "V3FDFVR"
         ],
-        "stress_tests": [],
+        
         "id": 351,
         "problematic": [],
         "text_davinci_003_output": {
@@ -16032,7 +16030,7 @@
             "iobiou",
             "bui"
         ],
-        "stress_tests": [],
+        
         "id": 353,
         "problematic": [],
         "text_davinci_003_output": {
@@ -16143,7 +16141,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 354,
         "problematic": [],
         "text_davinci_003_output": {
@@ -16254,7 +16252,7 @@
             "July 942384239",
             "Augu 4325"
         ],
-        "stress_tests": [],
+        
         "id": 355,
         "problematic": [],
         "text_davinci_003_output": {
@@ -16364,7 +16362,7 @@
             "apr",
             "abc"
         ],
-        "stress_tests": [],
+        
         "id": 356,
         "problematic": [],
         "text_davinci_003_output": {
@@ -16475,7 +16473,7 @@
             "010",
             "10101010101"
         ],
-        "stress_tests": [],
+        
         "id": 358,
         "problematic": [],
         "text_davinci_003_output": {
@@ -16586,7 +16584,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 359,
         "problematic": [],
         "text_davinci_003_output": {
@@ -16697,7 +16695,7 @@
             "9/9/9",
             "32542 //"
         ],
-        "stress_tests": [],
+        
         "id": 360,
         "problematic": [],
         "text_davinci_003_output": {
@@ -16808,7 +16806,7 @@
             "9/9/9",
             "32542.456234"
         ],
-        "stress_tests": [],
+        
         "id": 361,
         "problematic": [],
         "text_davinci_003_output": {
@@ -16919,7 +16917,7 @@
             "98g'RF$E",
             "$#EFg98g98g*&U\"''"
         ],
-        "stress_tests": [],
+        
         "id": 362,
         "problematic": [],
         "text_davinci_003_output": {
@@ -17030,7 +17028,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 363,
         "problematic": [],
         "text_davinci_003_output": {
@@ -17141,7 +17139,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 364,
         "problematic": [],
         "text_davinci_003_output": {
@@ -17252,7 +17250,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 366,
         "problematic": [],
         "text_davinci_003_output": {
@@ -17363,7 +17361,7 @@
             "abc111def",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 367,
         "problematic": [],
         "text_davinci_003_output": {
@@ -17474,7 +17472,7 @@
             "(0xx12) 62509",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 369,
         "problematic": [],
         "text_davinci_003_output": {
@@ -17577,7 +17575,7 @@
             "4234",
             "56465"
         ],
-        "stress_tests": [],
+        
         "id": 370,
         "problematic": [],
         "text_davinci_003_output": {
@@ -17685,7 +17683,7 @@
             "Y",
             "X"
         ],
-        "stress_tests": [],
+        
         "id": 371,
         "problematic": [],
         "text_davinci_003_output": {
@@ -17796,7 +17794,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 374,
         "problematic": [],
         "text_davinci_003_output": {
@@ -17907,7 +17905,7 @@
             "<MHJK",
             "K<HJM"
         ],
-        "stress_tests": [],
+        
         "id": 381,
         "problematic": [],
         "text_davinci_003_output": {
@@ -18018,7 +18016,7 @@
             "hiufs89y",
             "fs+5644f"
         ],
-        "stress_tests": [],
+        
         "id": 382,
         "problematic": [],
         "text_davinci_003_output": {
@@ -18129,7 +18127,7 @@
             "768afds",
             "8787fy"
         ],
-        "stress_tests": [],
+        
         "id": 386,
         "problematic": [],
         "text_davinci_003_output": {
@@ -18240,7 +18238,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 392,
         "problematic": [],
         "text_davinci_003_output": {
@@ -18351,7 +18349,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 395,
         "problematic": [],
         "text_davinci_003_output": {
@@ -18462,7 +18460,7 @@
             "(0xx12) 62509",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 401,
         "problematic": [],
         "text_davinci_003_output": {
@@ -18573,7 +18571,7 @@
             "Bob sdfjio White",
             "SDFisojsfdsd"
         ],
-        "stress_tests": [],
+        
         "id": 402,
         "problematic": [],
         "text_davinci_003_output": {
@@ -18684,7 +18682,7 @@
             "hu",
             "fy"
         ],
-        "stress_tests": [],
+        
         "id": 405,
         "problematic": [],
         "text_davinci_003_output": {
@@ -18795,7 +18793,7 @@
             "(0xx12) 62509",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 407,
         "problematic": [],
         "text_davinci_003_output": {
@@ -18906,7 +18904,7 @@
             "9/9/9",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 412,
         "problematic": [],
         "text_davinci_003_output": {
@@ -19017,7 +19015,7 @@
             "9/9/9",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 421,
         "problematic": [],
         "text_davinci_003_output": {
@@ -19128,7 +19126,7 @@
             "9(*HIU",
             "(HIO"
         ],
-        "stress_tests": [],
+        
         "id": 429,
         "problematic": [],
         "text_davinci_003_output": {
@@ -19239,7 +19237,7 @@
             "34.31%%",
             "32542 //"
         ],
-        "stress_tests": [],
+        
         "id": 431,
         "problematic": [],
         "text_davinci_003_output": {
@@ -19350,7 +19348,7 @@
             "9/9/9",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 433,
         "problematic": [],
         "text_davinci_003_output": {
@@ -19461,7 +19459,7 @@
             "(0xx12) 62509",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 435,
         "problematic": [],
         "text_davinci_003_output": {
@@ -19572,7 +19570,7 @@
             "$%DRTF(I",
             "%^RTYIO"
         ],
-        "stress_tests": [],
+        
         "id": 440,
         "problematic": [],
         "text_davinci_003_output": {
@@ -19683,7 +19681,7 @@
             "9/9/9",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 444,
         "problematic": [],
         "text_davinci_003_output": {
@@ -19794,7 +19792,7 @@
             "gf8f",
             "98f7r97t9ut"
         ],
-        "stress_tests": [],
+        
         "id": 452,
         "problematic": [],
         "text_davinci_003_output": {
@@ -19905,7 +19903,7 @@
             "9/9/9",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 458,
         "problematic": [],
         "text_davinci_003_output": {
@@ -20016,7 +20014,7 @@
             "7897",
             "c979c7"
         ],
-        "stress_tests": [],
+        
         "id": 464,
         "problematic": [],
         "text_davinci_003_output": {
@@ -20127,7 +20125,7 @@
             "34.31",
             "32542 //"
         ],
-        "stress_tests": [],
+        
         "id": 465,
         "problematic": [],
         "text_davinci_003_output": {
@@ -20238,7 +20236,7 @@
             "u9g8vg89",
             "v98v"
         ],
-        "stress_tests": [],
+        
         "id": 473,
         "problematic": [],
         "text_davinci_003_output": {
@@ -20349,7 +20347,7 @@
             "h",
             "98gu9"
         ],
-        "stress_tests": [],
+        
         "id": 478,
         "problematic": [],
         "text_davinci_003_output": {
@@ -20460,7 +20458,7 @@
             "September 13.",
             "afds8923idfs"
         ],
-        "stress_tests": [],
+        
         "id": 490,
         "problematic": [],
         "text_davinci_003_output": {
@@ -20571,7 +20569,7 @@
             "324.2f32.23",
             "d32,32..23d"
         ],
-        "stress_tests": [],
+        
         "id": 492,
         "problematic": [],
         "text_davinci_003_output": {
@@ -20682,7 +20680,7 @@
             "(0xx12) 62509",
             "32542 //"
         ],
-        "stress_tests": [],
+        
         "id": 495,
         "problematic": [],
         "text_davinci_003_output": {
@@ -20793,7 +20791,7 @@
             "34.31bb",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 496,
         "problematic": [],
         "text_davinci_003_output": {
@@ -20904,7 +20902,7 @@
             ".4324.234.23",
             "432.423.423.423,234234"
         ],
-        "stress_tests": [],
+        
         "id": 498,
         "problematic": [],
         "text_davinci_003_output": {
@@ -21015,7 +21013,7 @@
             "34.31",
             "32542 //"
         ],
-        "stress_tests": [],
+        
         "id": 500,
         "problematic": [],
         "text_davinci_003_output": {
@@ -21126,7 +21124,7 @@
             "59",
             "985"
         ],
-        "stress_tests": [],
+        
         "id": 501,
         "problematic": [],
         "text_davinci_003_output": {
@@ -21237,7 +21235,7 @@
             "9guhisdfYFGD",
             "239472-3489"
         ],
-        "stress_tests": [],
+        
         "id": 507,
         "problematic": [],
         "text_davinci_003_output": {
@@ -21348,7 +21346,7 @@
             "78.897894",
             "*&HUSIDN"
         ],
-        "stress_tests": [],
+        
         "id": 512,
         "problematic": [],
         "text_davinci_003_output": {
@@ -21459,7 +21457,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 519,
         "problematic": [],
         "text_davinci_003_output": {
@@ -21570,7 +21568,7 @@
             "#FUBHDSf sdhufisdh 23rHUDSA",
             "f$RFT fsdjifsd dsfhu3 #F D"
         ],
-        "stress_tests": [],
+        
         "id": 523,
         "problematic": [],
         "text_davinci_003_output": {
@@ -21681,7 +21679,7 @@
             "abc111def",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 525,
         "problematic": [],
         "text_davinci_003_output": {
@@ -21792,7 +21790,7 @@
             "abc111def",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 526,
         "problematic": [],
         "text_davinci_003_output": {
@@ -21903,7 +21901,7 @@
             "684646",
             "465sdf"
         ],
-        "stress_tests": [],
+        
         "id": 527,
         "problematic": [],
         "text_davinci_003_output": {
@@ -22014,7 +22012,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 529,
         "problematic": [],
         "text_davinci_003_output": {
@@ -22125,7 +22123,7 @@
             "abc111def",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 531,
         "problematic": [],
         "text_davinci_003_output": {
@@ -22236,7 +22234,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 537,
         "problematic": [],
         "text_davinci_003_output": {
@@ -22347,7 +22345,7 @@
             "4836.4689",
             "486354653"
         ],
-        "stress_tests": [],
+        
         "id": 538,
         "problematic": [],
         "text_davinci_003_output": {
@@ -22458,7 +22456,7 @@
             "%342.23",
             "%332.42423"
         ],
-        "stress_tests": [],
+        
         "id": 547,
         "problematic": [],
         "text_davinci_003_output": {
@@ -22569,7 +22567,7 @@
             "6fty",
             "6fty"
         ],
-        "stress_tests": [],
+        
         "id": 550,
         "problematic": [],
         "text_davinci_003_output": {
@@ -22680,7 +22678,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 571,
         "problematic": [],
         "text_davinci_003_output": {
@@ -22791,7 +22789,7 @@
             "y",
             "p"
         ],
-        "stress_tests": [],
+        
         "id": 578,
         "problematic": [],
         "text_davinci_003_output": {
@@ -22902,7 +22900,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 583,
         "problematic": [],
         "text_davinci_003_output": {
@@ -23013,7 +23011,7 @@
             "abc111def",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 590,
         "problematic": [],
         "text_davinci_003_output": {
@@ -23124,7 +23122,7 @@
             "34.31",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 607,
         "problematic": [],
         "text_davinci_003_output": {
@@ -23235,7 +23233,7 @@
             "69:87",
             "21:97"
         ],
-        "stress_tests": [],
+        
         "id": 610,
         "problematic": [],
         "text_davinci_003_output": {
@@ -23346,7 +23344,7 @@
             "(0xx12) 62509",
             "489-485-41565"
         ],
-        "stress_tests": [],
+        
         "id": 619,
         "problematic": [],
         "text_davinci_003_output": {
@@ -23457,7 +23455,7 @@
             "sda sad",
             "8h98009hu"
         ],
-        "stress_tests": [],
+        
         "id": 623,
         "problematic": [],
         "text_davinci_003_output": {
@@ -23568,7 +23566,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 626,
         "problematic": [],
         "text_davinci_003_output": {
@@ -23679,7 +23677,7 @@
             "9/9/9",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 627,
         "problematic": [],
         "text_davinci_003_output": {
@@ -23790,7 +23788,7 @@
             "-1144",
             "-4"
         ],
-        "stress_tests": [],
+        
         "id": 634,
         "problematic": [],
         "text_davinci_003_output": {
@@ -23901,7 +23899,7 @@
             "34.31",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 635,
         "problematic": [],
         "text_davinci_003_output": {
@@ -24012,7 +24010,7 @@
             "abc111def",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 637,
         "problematic": [],
         "text_davinci_003_output": {
@@ -24123,7 +24121,7 @@
             "849/815",
             "/48/9984"
         ],
-        "stress_tests": [],
+        
         "id": 639,
         "problematic": [],
         "text_davinci_003_output": {
@@ -24234,7 +24232,7 @@
             "79:79",
             "31:84"
         ],
-        "stress_tests": [],
+        
         "id": 640,
         "problematic": [],
         "text_davinci_003_output": {
@@ -24345,7 +24343,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 641,
         "problematic": [],
         "text_davinci_003_output": {
@@ -24456,7 +24454,7 @@
             "abc111def",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 645,
         "problematic": [],
         "text_davinci_003_output": {
@@ -24567,7 +24565,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 647,
         "problematic": [],
         "text_davinci_003_output": {
@@ -24678,7 +24676,7 @@
             "76fyrt",
             "76fytuhi324"
         ],
-        "stress_tests": [],
+        
         "id": 652,
         "problematic": [],
         "text_davinci_003_output": {
@@ -24789,7 +24787,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 654,
         "problematic": [],
         "text_davinci_003_output": {
@@ -24900,7 +24898,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 655,
         "problematic": [],
         "text_davinci_003_output": {
@@ -25011,7 +25009,7 @@
             "DTRD54DR",
             "65ETYDF"
         ],
-        "stress_tests": [],
+        
         "id": 656,
         "problematic": [],
         "text_davinci_003_output": {
@@ -25122,7 +25120,7 @@
             "iu fo qw oe rq",
             "hu hf qw fi as qw we"
         ],
-        "stress_tests": [],
+        
         "id": 660,
         "problematic": [],
         "text_davinci_003_output": {
@@ -25233,7 +25231,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 673,
         "problematic": [],
         "text_davinci_003_output": {
@@ -25344,7 +25342,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 676,
         "problematic": [],
         "text_davinci_003_output": {
@@ -25455,7 +25453,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 678,
         "problematic": [],
         "text_davinci_003_output": {
@@ -25566,7 +25564,7 @@
             "i9",
             "u8"
         ],
-        "stress_tests": [],
+        
         "id": 684,
         "problematic": [],
         "text_davinci_003_output": {
@@ -25677,7 +25675,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 688,
         "problematic": [],
         "text_davinci_003_output": {
@@ -25788,7 +25786,7 @@
             "(0xx12) 62509@",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 689,
         "problematic": [],
         "text_davinci_003_output": {
@@ -25899,7 +25897,7 @@
             "ft7ft67y",
             "f6tyg"
         ],
-        "stress_tests": [],
+        
         "id": 693,
         "problematic": [],
         "text_davinci_003_output": {
@@ -26010,7 +26008,7 @@
             "6D7TFUYGUHIG7F6TY",
             "F76TYUGIHOJ"
         ],
-        "stress_tests": [],
+        
         "id": 697,
         "problematic": [],
         "text_davinci_003_output": {
@@ -26121,7 +26119,7 @@
             "89456123",
             "1"
         ],
-        "stress_tests": [],
+        
         "id": 703,
         "problematic": [],
         "text_davinci_003_output": {
@@ -26232,7 +26230,7 @@
             "(0xx12) 62509 14:25:59",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 704,
         "problematic": [],
         "text_davinci_003_output": {
@@ -26343,7 +26341,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 708,
         "problematic": [],
         "text_davinci_003_output": {
@@ -26454,7 +26452,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 709,
         "problematic": [],
         "text_davinci_003_output": {
@@ -26565,7 +26563,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 711,
         "problematic": [],
         "text_davinci_003_output": {
@@ -26676,7 +26674,7 @@
             "dfg",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 727,
         "problematic": [],
         "text_davinci_003_output": {
@@ -26787,7 +26785,7 @@
             "4984'646'86'486",
             "164'879'54"
         ],
-        "stress_tests": [],
+        
         "id": 729,
         "problematic": [],
         "text_davinci_003_output": {
@@ -26898,7 +26896,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 730,
         "problematic": [],
         "text_davinci_003_output": {
@@ -27009,7 +27007,7 @@
             "abc111def",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 731,
         "problematic": [],
         "text_davinci_003_output": {
@@ -27120,7 +27118,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 735,
         "problematic": [],
         "text_davinci_003_output": {
@@ -27231,7 +27229,7 @@
             "abc111def",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 738,
         "problematic": [],
         "text_davinci_003_output": {
@@ -27342,7 +27340,7 @@
             "1596.15",
             "54.321"
         ],
-        "stress_tests": [],
+        
         "id": 739,
         "problematic": [],
         "text_davinci_003_output": {
@@ -27453,7 +27451,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 742,
         "problematic": [],
         "text_davinci_003_output": {
@@ -27564,7 +27562,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 743,
         "problematic": [],
         "text_davinci_003_output": {
@@ -27675,7 +27673,7 @@
             "67tgyu",
             "t6gy"
         ],
-        "stress_tests": [],
+        
         "id": 747,
         "problematic": [],
         "text_davinci_003_output": {
@@ -27786,7 +27784,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 749,
         "problematic": [],
         "text_davinci_003_output": {
@@ -27897,7 +27895,7 @@
             "(0xx12) 6250*9",
             "//12/132/*90"
         ],
-        "stress_tests": [],
+        
         "id": 751,
         "problematic": [],
         "text_davinci_003_output": {
@@ -28008,7 +28006,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 754,
         "problematic": [],
         "text_davinci_003_output": {
@@ -28119,7 +28117,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 755,
         "problematic": [],
         "text_davinci_003_output": {
@@ -28230,7 +28228,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 766,
         "problematic": [],
         "text_davinci_003_output": {
@@ -28341,7 +28339,7 @@
             "5613.12",
             "1523"
         ],
-        "stress_tests": [],
+        
         "id": 772,
         "problematic": [],
         "text_davinci_003_output": {
@@ -28452,7 +28450,7 @@
             "54RFTGVNKJML",
             "&GYH"
         ],
-        "stress_tests": [],
+        
         "id": 775,
         "problematic": [],
         "text_davinci_003_output": {
@@ -28563,7 +28561,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 778,
         "problematic": [],
         "text_davinci_003_output": {
@@ -28674,7 +28672,7 @@
             "67ycu",
             "67cytu"
         ],
-        "stress_tests": [],
+        
         "id": 782,
         "problematic": [],
         "text_davinci_003_output": {
@@ -28785,7 +28783,7 @@
             "TV&",
             "vYT&"
         ],
-        "stress_tests": [],
+        
         "id": 783,
         "problematic": [],
         "text_davinci_003_output": {
@@ -28896,7 +28894,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 787,
         "problematic": [],
         "text_davinci_003_output": {
@@ -29007,7 +29005,7 @@
             "abc111def",
             "aa"
         ],
-        "stress_tests": [],
+        
         "id": 797,
         "problematic": [],
         "text_davinci_003_output": {
@@ -29118,7 +29116,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 799,
         "problematic": [],
         "text_davinci_003_output": {
@@ -29229,7 +29227,7 @@
             "fe23",
             "5r6f"
         ],
-        "stress_tests": [],
+        
         "id": 801,
         "problematic": [],
         "text_davinci_003_output": {
@@ -29340,7 +29338,7 @@
             "5dRT",
             "%$DRT"
         ],
-        "stress_tests": [],
+        
         "id": 803,
         "problematic": [],
         "text_davinci_003_output": {
@@ -29451,7 +29449,7 @@
             "(0xx12) 62509",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 804,
         "problematic": [],
         "text_davinci_003_output": {
@@ -29562,7 +29560,7 @@
             "(0xx12) 62509",
             "32542 am"
         ],
-        "stress_tests": [],
+        
         "id": 805,
         "problematic": [],
         "text_davinci_003_output": {
@@ -29692,7 +29690,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 814,
         "problematic": [],
         "text_davinci_003_output": {
@@ -29803,7 +29801,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 815,
         "problematic": [],
         "text_davinci_003_output": {
@@ -29914,7 +29912,7 @@
             "98465-8456",
             "8945623-984561"
         ],
-        "stress_tests": [],
+        
         "id": 817,
         "problematic": [],
         "text_davinci_003_output": {
@@ -30025,7 +30023,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 822,
         "problematic": [],
         "text_davinci_003_output": {
@@ -30136,7 +30134,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 823,
         "problematic": [],
         "text_davinci_003_output": {
@@ -30247,7 +30245,7 @@
             "abc111def",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 827,
         "problematic": [],
         "text_davinci_003_output": {
@@ -30358,7 +30356,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 831,
         "problematic": [],
         "text_davinci_003_output": {
@@ -30469,7 +30467,7 @@
             "(0xx12) 62509",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 833,
         "problematic": [],
         "text_davinci_003_output": {
@@ -30580,7 +30578,7 @@
             "-456-456",
             "9456-45961"
         ],
-        "stress_tests": [],
+        
         "id": 836,
         "problematic": [],
         "text_davinci_003_output": {
@@ -30691,7 +30689,7 @@
             "48156",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 837,
         "problematic": [],
         "text_davinci_003_output": {
@@ -30802,7 +30800,7 @@
             "(0xx12) 62509",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 838,
         "problematic": [],
         "text_davinci_003_output": {
@@ -30913,7 +30911,7 @@
             "abc111def",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 844,
         "problematic": [],
         "text_davinci_003_output": {
@@ -31024,7 +31022,7 @@
             "34.31",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 848,
         "problematic": [],
         "text_davinci_003_output": {
@@ -31135,7 +31133,7 @@
             "abc111def",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 851,
         "problematic": [],
         "text_davinci_003_output": {
@@ -31246,7 +31244,7 @@
             "546.215",
             "215.5432"
         ],
-        "stress_tests": [],
+        
         "id": 859,
         "problematic": [],
         "text_davinci_003_output": {
@@ -31357,7 +31355,7 @@
             "abc111def",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 861,
         "problematic": [],
         "text_davinci_003_output": {
@@ -31468,7 +31466,7 @@
             "2015205120",
             "020"
         ],
-        "stress_tests": [],
+        
         "id": 862,
         "problematic": [],
         "text_davinci_003_output": {
@@ -31579,7 +31577,7 @@
             "7ft6ddtr65erd6tf7yg",
             "ft6r6ft"
         ],
-        "stress_tests": [],
+        
         "id": 865,
         "problematic": [],
         "text_davinci_003_output": {
@@ -31690,7 +31688,7 @@
             "abc111def",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 869,
         "problematic": [],
         "text_davinci_003_output": {
@@ -31801,7 +31799,7 @@
             "41621541245456",
             "461520"
         ],
-        "stress_tests": [],
+        
         "id": 870,
         "problematic": [],
         "text_davinci_003_output": {
@@ -31911,7 +31909,7 @@
             "456",
             "48"
         ],
-        "stress_tests": [],
+        
         "id": 876,
         "problematic": [],
         "text_davinci_003_output": {
@@ -32022,7 +32020,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 877,
         "problematic": [],
         "text_davinci_003_output": {
@@ -32133,7 +32131,7 @@
             "dfg",
             "8h98009hu"
         ],
-        "stress_tests": [],
+        
         "id": 879,
         "problematic": [],
         "text_davinci_003_output": {
@@ -32244,7 +32242,7 @@
             "epfl$EDR",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 880,
         "problematic": [],
         "text_davinci_003_output": {
@@ -32355,7 +32353,7 @@
             "6fty8uhi",
             "uhi"
         ],
-        "stress_tests": [],
+        
         "id": 881,
         "problematic": [],
         "text_davinci_003_output": {
@@ -32466,7 +32464,7 @@
             "abc111def",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 882,
         "problematic": [],
         "text_davinci_003_output": {
@@ -32577,7 +32575,7 @@
             "(0xx12) ::625::09",
             "12::/132/9::0"
         ],
-        "stress_tests": [],
+        
         "id": 885,
         "problematic": [],
         "text_davinci_003_output": {
@@ -32688,7 +32686,7 @@
             "9/9/9",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 890,
         "problematic": [],
         "text_davinci_003_output": {
@@ -32790,7 +32788,7 @@
             "fisjd",
             "fU*(DHIF"
         ],
-        "stress_tests": [],
+        
         "id": 891,
         "problematic": [],
         "text_davinci_003_output": {
@@ -32901,7 +32899,7 @@
             "(0xx12) 62509",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 894,
         "problematic": [],
         "text_davinci_003_output": {
@@ -33012,7 +33010,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 895,
         "problematic": [],
         "text_davinci_003_output": {
@@ -33123,7 +33121,7 @@
             "@#EF",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 898,
         "problematic": [],
         "text_davinci_003_output": {
@@ -33234,7 +33232,7 @@
             "9/9/9",
             "32542 //"
         ],
-        "stress_tests": [],
+        
         "id": 901,
         "problematic": [],
         "text_davinci_003_output": {
@@ -33345,7 +33343,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 909,
         "problematic": [],
         "text_davinci_003_output": {
@@ -33456,7 +33454,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 911,
         "problematic": [],
         "text_davinci_003_output": {
@@ -33567,7 +33565,7 @@
             "94848798",
             "51354987"
         ],
-        "stress_tests": [],
+        
         "id": 913,
         "problematic": [],
         "text_davinci_003_output": {
@@ -33678,7 +33676,7 @@
             "842613",
             "971397"
         ],
-        "stress_tests": [],
+        
         "id": 914,
         "problematic": [],
         "text_davinci_003_output": {
@@ -33789,7 +33787,7 @@
             "984657",
             "954768"
         ],
-        "stress_tests": [],
+        
         "id": 915,
         "problematic": [],
         "text_davinci_003_output": {
@@ -33900,7 +33898,7 @@
             "-645.0125",
             "-56.2464"
         ],
-        "stress_tests": [],
+        
         "id": 916,
         "problematic": [],
         "text_davinci_003_output": {
@@ -34011,7 +34009,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 918,
         "problematic": [],
         "text_davinci_003_output": {
@@ -34122,7 +34120,7 @@
             "462,561.,516,4",
             "156.2462451,165,"
         ],
-        "stress_tests": [],
+        
         "id": 919,
         "problematic": [],
         "text_davinci_003_output": {
@@ -34232,7 +34230,7 @@
             "f",
             "d"
         ],
-        "stress_tests": [],
+        
         "id": 923,
         "problematic": [],
         "text_davinci_003_output": {
@@ -34343,7 +34341,7 @@
             "-5+62-9+65/8956",
             "6++23"
         ],
-        "stress_tests": [],
+        
         "id": 926,
         "problematic": [],
         "text_davinci_003_output": {
@@ -34454,7 +34452,7 @@
             "bkmksg76tart",
             "67hvbkmkstart"
         ],
-        "stress_tests": [],
+        
         "id": 933,
         "problematic": [],
         "text_davinci_003_output": {
@@ -34565,7 +34563,7 @@
             "abc11\"1def",
             "0j0jweB\"BBB"
         ],
-        "stress_tests": [],
+        
         "id": 936,
         "problematic": [],
         "text_davinci_003_output": {
@@ -34676,7 +34674,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 937,
         "problematic": [],
         "text_davinci_003_output": {
@@ -34787,7 +34785,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 940,
         "problematic": [],
         "text_davinci_003_output": {
@@ -34898,7 +34896,7 @@
             "(0xx12). 62509",
             ".gm.ail"
         ],
-        "stress_tests": [],
+        
         "id": 946,
         "problematic": [],
         "text_davinci_003_output": {
@@ -35009,7 +35007,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 947,
         "problematic": [],
         "text_davinci_003_output": {
@@ -35120,7 +35118,7 @@
             "jpggifjpg",
             "jpgif"
         ],
-        "stress_tests": [],
+        
         "id": 949,
         "problematic": [],
         "text_davinci_003_output": {
@@ -35231,7 +35229,7 @@
             "(0xx12) 62509$",
             "$12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 952,
         "problematic": [],
         "text_davinci_003_output": {
@@ -35342,7 +35340,7 @@
             "159-F9W5E84F-98F5",
             "8914-FWE1598-195FW"
         ],
-        "stress_tests": [],
+        
         "id": 954,
         "problematic": [],
         "text_davinci_003_output": {
@@ -35453,7 +35451,7 @@
             "&amp;(0xx12) 62509",
             "9&amp;9999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 957,
         "problematic": [],
         "text_davinci_003_output": {
@@ -35564,7 +35562,7 @@
             "34.31",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 965,
         "problematic": [],
         "text_davinci_003_output": {
@@ -35675,7 +35673,7 @@
             "48953.519",
             "87"
         ],
-        "stress_tests": [],
+        
         "id": 971,
         "problematic": [],
         "text_davinci_003_output": {
@@ -35786,7 +35784,7 @@
             "(0xx12) 62509",
             "99999@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 972,
         "problematic": [],
         "text_davinci_003_output": {
@@ -35897,7 +35895,7 @@
             "*/(0xx12) 62509",
             "12/13*/2/90"
         ],
-        "stress_tests": [],
+        
         "id": 977,
         "problematic": [],
         "text_davinci_003_output": {
@@ -36008,7 +36006,7 @@
             "6f7y-89456",
             "-95616"
         ],
-        "stress_tests": [],
+        
         "id": 984,
         "problematic": [],
         "text_davinci_003_output": {
@@ -36119,7 +36117,7 @@
             "(0xx12) 62509",
             "278257"
         ],
-        "stress_tests": [],
+        
         "id": 985,
         "problematic": [],
         "text_davinci_003_output": {
@@ -36230,7 +36228,7 @@
             "251625",
             "12975"
         ],
-        "stress_tests": [],
+        
         "id": 986,
         "problematic": [],
         "text_davinci_003_output": {
@@ -36341,7 +36339,7 @@
             "87645",
             "5915u"
         ],
-        "stress_tests": [],
+        
         "id": 987,
         "problematic": [],
         "text_davinci_003_output": {
@@ -36452,7 +36450,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 988,
         "problematic": [],
         "text_davinci_003_output": {
@@ -36563,7 +36561,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 991,
         "problematic": [],
         "text_davinci_003_output": {
@@ -36674,7 +36672,7 @@
             "//8uibjhfw2",
             "//y8huibj"
         ],
-        "stress_tests": [],
+        
         "id": 996,
         "problematic": [],
         "text_davinci_003_output": {
@@ -36785,7 +36783,7 @@
             "4EGRDFGRE34G34",
             "G45H6768KG"
         ],
-        "stress_tests": [],
+        
         "id": 998,
         "problematic": [],
         "text_davinci_003_output": {
@@ -36896,7 +36894,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 1000,
         "problematic": [],
         "text_davinci_003_output": {
@@ -37007,7 +37005,7 @@
             "J75670f6t7yg8ub8K9OBM86KN7J56",
             "sd6f7g8h9j04478M66f6t7yg8ub"
         ],
-        "stress_tests": [],
+        
         "id": 1001,
         "problematic": [],
         "text_davinci_003_output": {
@@ -37118,7 +37116,7 @@
             "abc111def",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 1003,
         "problematic": [],
         "text_davinci_003_output": {
@@ -37229,7 +37227,7 @@
             "78huij",
             "f67gyhu8"
         ],
-        "stress_tests": [],
+        
         "id": 1008,
         "problematic": [],
         "text_davinci_003_output": {
@@ -37340,7 +37338,7 @@
             "bfg",
             "nh"
         ],
-        "stress_tests": [],
+        
         "id": 1009,
         "problematic": [],
         "text_davinci_003_output": {
@@ -37451,7 +37449,7 @@
             "j98",
             "76v"
         ],
-        "stress_tests": [],
+        
         "id": 1010,
         "problematic": [],
         "text_davinci_003_output": {
@@ -37562,7 +37560,7 @@
             "rt34567",
             "87huinj"
         ],
-        "stress_tests": [],
+        
         "id": 1011,
         "problematic": [],
         "text_davinci_003_output": {
@@ -37673,7 +37671,7 @@
             "(0xx12) 62509{",
             "12/132/{90"
         ],
-        "stress_tests": [],
+        
         "id": 1012,
         "problematic": [],
         "text_davinci_003_output": {
@@ -37784,7 +37782,7 @@
             "4516",
             "25561251623516"
         ],
-        "stress_tests": [],
+        
         "id": 1062,
         "problematic": [],
         "text_davinci_003_output": {
@@ -37895,7 +37893,7 @@
             "48561.451",
             "51.84"
         ],
-        "stress_tests": [],
+        
         "id": 1094,
         "problematic": [],
         "text_davinci_003_output": {
@@ -38006,7 +38004,7 @@
             "(0xx12) 62509@",
             "$12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 1103,
         "problematic": [],
         "text_davinci_003_output": {
@@ -38117,7 +38115,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1104,
         "problematic": [],
         "text_davinci_003_output": {
@@ -38227,7 +38225,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1105,
         "problematic": [],
         "text_davinci_003_output": {
@@ -38338,7 +38336,7 @@
             "47",
             "83"
         ],
-        "stress_tests": [],
+        
         "id": 1107,
         "problematic": [],
         "text_davinci_003_output": {
@@ -38449,7 +38447,7 @@
             "5758",
             "4637"
         ],
-        "stress_tests": [],
+        
         "id": 1109,
         "problematic": [],
         "text_davinci_003_output": {
@@ -38560,7 +38558,7 @@
             "=f34r=evg=3rg=",
             "f3erv=3==rv"
         ],
-        "stress_tests": [],
+        
         "id": 1121,
         "problematic": [],
         "text_davinci_003_output": {
@@ -38671,7 +38669,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1124,
         "problematic": [],
         "text_davinci_003_output": {
@@ -38782,7 +38780,7 @@
             "&*GH&*&*G&*G",
             "76g78"
         ],
-        "stress_tests": [],
+        
         "id": 1134,
         "problematic": [],
         "text_davinci_003_output": {
@@ -38893,7 +38891,7 @@
             "9/9/9",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1135,
         "problematic": [],
         "text_davinci_003_output": {
@@ -39004,7 +39002,7 @@
             "/* 34.31",
             "/* $12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 1139,
         "problematic": [],
         "text_davinci_003_output": {
@@ -39115,7 +39113,7 @@
             "65hk",
             "7y6t"
         ],
-        "stress_tests": [],
+        
         "id": 1145,
         "problematic": [],
         "text_davinci_003_output": {
@@ -39226,7 +39224,7 @@
             "V8YVY",
             "87YV78V"
         ],
-        "stress_tests": [],
+        
         "id": 1146,
         "problematic": [],
         "text_davinci_003_output": {
@@ -39337,7 +39335,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1148,
         "problematic": [],
         "text_davinci_003_output": {
@@ -39448,7 +39446,7 @@
             "NL(0xx12) 62509@",
             "NL++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 1164,
         "problematic": [],
         "text_davinci_003_output": {
@@ -39559,7 +39557,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1165,
         "problematic": [],
         "text_davinci_003_output": {
@@ -39670,7 +39668,7 @@
             "653752",
             "555413"
         ],
-        "stress_tests": [],
+        
         "id": 1177,
         "problematic": [],
         "text_davinci_003_output": {
@@ -39781,7 +39779,7 @@
             "78h",
             "8yv7gt48h9urief8f74hru8gre45regreg4re"
         ],
-        "stress_tests": [],
+        
         "id": 1189,
         "problematic": [],
         "text_davinci_003_output": {
@@ -39892,7 +39890,7 @@
             "hj98",
             "ju89h78"
         ],
-        "stress_tests": [],
+        
         "id": 1199,
         "problematic": [],
         "text_davinci_003_output": {
@@ -40003,7 +40001,7 @@
             "9/9/9",
             "32542 //"
         ],
-        "stress_tests": [],
+        
         "id": 1209,
         "problematic": [],
         "text_davinci_003_output": {
@@ -40114,7 +40112,7 @@
             "<\\?xml(0xx12) 62509@",
             "<\\?xml3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1212,
         "problematic": [],
         "text_davinci_003_output": {
@@ -40225,7 +40223,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1213,
         "problematic": [],
         "text_davinci_003_output": {
@@ -40336,7 +40334,7 @@
             "2021-09-06T25:30",
             "2021-09-06T12:60:45"
         ],
-        "stress_tests": [],
+        
         "id": 1221,
         "problematic": [],
         "text_davinci_003_output": {
@@ -40447,7 +40445,7 @@
             "(0xx12) 62509@",
             "32542 //"
         ],
-        "stress_tests": [],
+        
         "id": 1224,
         "problematic": [],
         "text_davinci_003_output": {
@@ -40558,7 +40556,7 @@
             ".f3",
             "t43t.543"
         ],
-        "stress_tests": [],
+        
         "id": 1230,
         "problematic": [],
         "text_davinci_003_output": {
@@ -40669,7 +40667,7 @@
             "45T6GY78UG7U8",
             "GV9UG9UGD98U3GF9"
         ],
-        "stress_tests": [],
+        
         "id": 1239,
         "problematic": [],
         "text_davinci_003_output": {
@@ -40780,7 +40778,7 @@
             "575957",
             "F6Y78YF"
         ],
-        "stress_tests": [],
+        
         "id": 1242,
         "problematic": [],
         "text_davinci_003_output": {
@@ -40891,7 +40889,7 @@
             "(0xx12) 62509@",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 1244,
         "problematic": [],
         "text_davinci_003_output": {
@@ -41002,7 +41000,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1246,
         "problematic": [],
         "text_davinci_003_output": {
@@ -41113,7 +41111,7 @@
             "G8Y",
             "V8IUG7B"
         ],
-        "stress_tests": [],
+        
         "id": 1251,
         "problematic": [],
         "text_davinci_003_output": {
@@ -41224,7 +41222,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1254,
         "problematic": [],
         "text_davinci_003_output": {
@@ -41335,7 +41333,7 @@
             "Text without Tags",
             "<h3>No Closing Tag"
         ],
-        "stress_tests": [],
+        
         "id": 1257,
         "problematic": [],
         "text_davinci_003_output": {
@@ -41446,7 +41444,7 @@
             "9/9/9",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1260,
         "problematic": [],
         "text_davinci_003_output": {
@@ -41557,7 +41555,7 @@
             "(0xx12) 62509@",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 1267,
         "problematic": [],
         "text_davinci_003_output": {
@@ -41668,7 +41666,7 @@
             "exe",
             "gif"
         ],
-        "stress_tests": [],
+        
         "id": 1268,
         "problematic": [],
         "text_davinci_003_output": {
@@ -41779,7 +41777,7 @@
             "bibuif5",
             "d55fd"
         ],
-        "stress_tests": [],
+        
         "id": 1278,
         "problematic": [],
         "text_davinci_003_output": {
@@ -41890,7 +41888,7 @@
             "5436.234",
             "423.24"
         ],
-        "stress_tests": [],
+        
         "id": 1284,
         "problematic": [],
         "text_davinci_003_output": {
@@ -42001,7 +41999,7 @@
             "f98h[]",
             "78h7g^&*&("
         ],
-        "stress_tests": [],
+        
         "id": 1313,
         "problematic": [],
         "text_davinci_003_output": {
@@ -42112,7 +42110,7 @@
             "9/9/9",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1314,
         "problematic": [],
         "text_davinci_003_output": {
@@ -42223,7 +42221,7 @@
             "(0xx12) 62509@",
             "0j0jweBBBB"
         ],
-        "stress_tests": [],
+        
         "id": 1317,
         "problematic": [],
         "text_davinci_003_output": {
@@ -42334,7 +42332,7 @@
             "34.31",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1326,
         "problematic": [],
         "text_davinci_003_output": {
@@ -42445,7 +42443,7 @@
             ",5347,.96,25,",
             "354,67.43634"
         ],
-        "stress_tests": [],
+        
         "id": 1333,
         "problematic": [],
         "text_davinci_003_output": {
@@ -42556,7 +42554,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1334,
         "problematic": [],
         "text_davinci_003_output": {
@@ -42667,7 +42665,7 @@
             "(0xx12) 62509@",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 1356,
         "problematic": [],
         "text_davinci_003_output": {
@@ -42778,7 +42776,7 @@
             "3:50 XM",
             "8h98009hu"
         ],
-        "stress_tests": [],
+        
         "id": 1357,
         "problematic": [],
         "text_davinci_003_output": {
@@ -42889,7 +42887,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1362,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43000,7 +42998,7 @@
             "dfg",
             "32542 //"
         ],
-        "stress_tests": [],
+        
         "id": 1372,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43111,7 +43109,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1388,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43222,7 +43220,7 @@
             "(0xx12) 62509@",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 1389,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43331,7 +43329,7 @@
             "354/243/542",
             "(0xx12) 62509@"
         ],
-        "stress_tests": [],
+        
         "id": 1410,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43442,7 +43440,7 @@
             "(0xx12) 62509@",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 1411,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43553,7 +43551,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1414,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43664,7 +43662,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1425,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43775,7 +43773,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1428,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43886,7 +43884,7 @@
             "6iy#@E",
             "#@EQW"
         ],
-        "stress_tests": [],
+        
         "id": 1439,
         "problematic": [],
         "text_davinci_003_output": {
@@ -43997,7 +43995,7 @@
             "354.56.56.8.",
             "45.4.67.4435"
         ],
-        "stress_tests": [],
+        
         "id": 1449,
         "problematic": [],
         "text_davinci_003_output": {
@@ -44108,7 +44106,7 @@
             "6f7ui7",
             "d67"
         ],
-        "stress_tests": [],
+        
         "id": 1457,
         "problematic": [],
         "text_davinci_003_output": {
@@ -44219,7 +44217,7 @@
             "abc111def",
             "8h98009hu"
         ],
-        "stress_tests": [],
+        
         "id": 1458,
         "problematic": [],
         "text_davinci_003_output": {
@@ -44330,7 +44328,7 @@
             "sda sad",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 1466,
         "problematic": [],
         "text_davinci_003_output": {
@@ -44441,7 +44439,7 @@
             "74:54",
             "86:34"
         ],
-        "stress_tests": [],
+        
         "id": 1468,
         "problematic": [],
         "text_davinci_003_output": {
@@ -44552,7 +44550,7 @@
             "34.31",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1484,
         "problematic": [],
         "text_davinci_003_output": {
@@ -44663,7 +44661,7 @@
             "(0xx12) 62*509@",
             "34*09fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1485,
         "problematic": [],
         "text_davinci_003_output": {
@@ -44774,7 +44772,7 @@
             "34.3125",
             "32542"
         ],
-        "stress_tests": [],
+        
         "id": 1489,
         "problematic": [],
         "text_davinci_003_output": {
@@ -44885,7 +44883,7 @@
             "9/9/9",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1492,
         "problematic": [],
         "text_davinci_003_output": {
@@ -44996,7 +44994,7 @@
             "(0xx12-) 62509@",
             "++6345-3.345"
         ],
-        "stress_tests": [],
+        
         "id": 1495,
         "problematic": [],
         "text_davinci_003_output": {
@@ -45107,7 +45105,7 @@
             "(0xx12) 62509@",
             "++63453.345"
         ],
-        "stress_tests": [],
+        
         "id": 1512,
         "problematic": [],
         "text_davinci_003_output": {
@@ -45218,7 +45216,7 @@
             "(0xx12) 62509@",
             "3409fjg43"
         ],
-        "stress_tests": [],
+        
         "id": 1515,
         "problematic": [],
         "text_davinci_003_output": {
@@ -45328,7 +45326,7 @@
             "5647",
             "43c"
         ],
-        "stress_tests": [],
+        
         "id": 1520,
         "problematic": [],
         "text_davinci_003_output": {
@@ -45439,7 +45437,7 @@
             "N(0xx12) 62509",
             "N12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 1539,
         "problematic": [],
         "text_davinci_003_output": {
@@ -45550,7 +45548,7 @@
             "(0xx12) 62509",
             "12/132/90"
         ],
-        "stress_tests": [],
+        
         "id": 1549,
         "problematic": [],
         "text_davinci_003_output": {
@@ -45661,7 +45659,7 @@
             "3r4efd",
             "2343ss"
         ],
-        "stress_tests": [],
+        
         "id": 1566,
         "problematic": [],
         "text_davinci_003_output": {
@@ -45772,7 +45770,7 @@
             "555.555",
             "1000"
         ],
-        "stress_tests": [],
+        
         "id": 1567,
         "problematic": [],
         "text_davinci_003_output": {
@@ -45883,7 +45881,7 @@
             "2023/08/03 12:34",
             "22:16:29 0420-05-05"
         ],
-        "stress_tests": [],
+        
         "id": 1570,
         "problematic": [],
         "text_davinci_003_output": {
@@ -45994,7 +45992,7 @@
             "+6.57",
             "0.000"
         ],
-        "stress_tests": [],
+        
         "id": 1579,
         "problematic": [],
         "text_davinci_003_output": {
@@ -46105,7 +46103,7 @@
             "<hello>@college.org",
             "*&^%@row.edu"
         ],
-        "stress_tests": [],
+        
         "id": 1585,
         "problematic": [],
         "text_davinci_003_output": {
@@ -46216,7 +46214,7 @@
             "'SwitchedFront\"",
             "''DoubleApostrophe''"
         ],
-        "stress_tests": [],
+        
         "id": 1587,
         "problematic": [],
         "text_davinci_003_output": {
@@ -46327,7 +46325,7 @@
             "1324",
             "1276"
         ],
-        "stress_tests": [],
+        
         "id": 1588,
         "problematic": [],
         "text_davinci_003_output": {
@@ -46438,7 +46436,7 @@
             "-+0.99",
             "-.00"
         ],
-        "stress_tests": [],
+        
         "id": 1592,
         "problematic": [],
         "text_davinci_003_output": {
@@ -46549,7 +46547,7 @@
             "www://KQDqJ8M76L9KHuQo2xaXj4xVViwuQyoTyFa1ZXJPyB0pqifFRFKJMtqw3nCUncSZzDIsR585vF3nsob1G5SsP7MTUNFAkF.zrtpk1O_wFf1cIrlbBi2z.com",
             "www://4Z.JbnQVEV."
         ],
-        "stress_tests": [],
+        
         "id": 1599,
         "problematic": [],
         "text_davinci_003_output": {
@@ -46660,7 +46658,7 @@
             "7671-07-20",
             "21-44"
         ],
-        "stress_tests": [],
+        
         "id": 1601,
         "problematic": [],
         "text_davinci_003_output": {
@@ -46771,7 +46769,7 @@
             "(007)0548217",
             "(177)0235914"
         ],
-        "stress_tests": [],
+        
         "id": 1606,
         "problematic": [],
         "text_davinci_003_output": {
@@ -46882,7 +46880,7 @@
             "+-+-1",
             "LOML"
         ],
-        "stress_tests": [],
+        
         "id": 1611,
         "problematic": [],
         "text_davinci_003_output": {
@@ -46993,7 +46991,7 @@
             "000000",
             "3.1415"
         ],
-        "stress_tests": [],
+        
         "id": 1618,
         "problematic": [],
         "text_davinci_003_output": {
@@ -47104,7 +47102,7 @@
             "??key=value",
             "?key?=value"
         ],
-        "stress_tests": [],
+        
         "id": 1621,
         "problematic": [],
         "text_davinci_003_output": {
@@ -47215,7 +47213,7 @@
             "variable_name",
             "{5}"
         ],
-        "stress_tests": [],
+        
         "id": 1625,
         "problematic": [],
         "text_davinci_003_output": {
@@ -47326,7 +47324,7 @@
             "192.168.0.90",
             "192.168.0.57"
         ],
-        "stress_tests": [],
+        
         "id": 1636,
         "problematic": [],
         "text_davinci_003_output": {
@@ -47437,7 +47435,7 @@
             "1,2.98",
             "600321"
         ],
-        "stress_tests": [],
+        
         "id": 1638,
         "problematic": [],
         "text_davinci_003_output": {
@@ -47548,7 +47546,7 @@
             "31/04/7372",
             "07/nov/8152"
         ],
-        "stress_tests": [],
+        
         "id": 1642,
         "problematic": [],
         "text_davinci_003_output": {
@@ -47659,7 +47657,7 @@
             "1783923266016891",
             "1813360266849221"
         ],
-        "stress_tests": [],
+        
         "id": 1643,
         "problematic": [],
         "text_davinci_003_output": {
@@ -47770,7 +47768,7 @@
             "{8c2A79cCAFedbB0aaE9ee27C56F3FCFc79c8BbB0bD7Aeba6d5c840Bd6Ad22bAddC6BC207D5A8BD}",
             "BeBb6a4EeEB8Ca7fd483dFE9f3cfbAfbBfEbebb3caFdC457}"
         ],
-        "stress_tests": [],
+        
         "id": 1644,
         "problematic": [],
         "text_davinci_003_output": {
@@ -47881,7 +47879,7 @@
             "34",
             "416-86 5000"
         ],
-        "stress_tests": [],
+        
         "id": 1653,
         "problematic": [],
         "text_davinci_003_output": {
@@ -47992,7 +47990,7 @@
             "30 Jun 1985",
             "31,Aug,7241"
         ],
-        "stress_tests": [],
+        
         "id": 1654,
         "problematic": [],
         "text_davinci_003_output": {
@@ -48103,7 +48101,7 @@
             "hello@school.22$",
             "h@@h.gov"
         ],
-        "stress_tests": [],
+        
         "id": 1656,
         "problematic": [],
         "text_davinci_003_output": {
@@ -48214,7 +48212,7 @@
             "---4uhfqlehA",
             "jfejlwerbjhewrj5874"
         ],
-        "stress_tests": [],
+        
         "id": 1657,
         "problematic": [],
         "text_davinci_003_output": {
@@ -48325,7 +48323,7 @@
             "bodye\u2003||\u2003\u2029V\u2003.^n\u000b\u2009&]t\u2005lb\u2008\u2000\ufeffXrg",
             "&!--iVpOCz]oik\u20071!\u2005rRGk3@Uwf7\\nNZ\ufeff6a"
         ],
-        "stress_tests": [],
+        
         "id": 1658,
         "problematic": [],
         "text_davinci_003_output": {
@@ -48436,7 +48434,7 @@
             "::::",
             "iu2r&43jh"
         ],
-        "stress_tests": [],
+        
         "id": 1660,
         "problematic": [],
         "text_davinci_003_output": {
@@ -48535,7 +48533,7 @@
             "<>",
             "0.000"
         ],
-        "stress_tests": [],
+        
         "id": 1662,
         "problematic": [],
         "text_davinci_003_output": {
@@ -48646,7 +48644,7 @@
             "$",
             "."
         ],
-        "stress_tests": [],
+        
         "id": 1663,
         "problematic": [],
         "text_davinci_003_output": {
@@ -48757,7 +48755,7 @@
             "uu-99",
             "hello"
         ],
-        "stress_tests": [],
+        
         "id": 1665,
         "problematic": [],
         "text_davinci_003_output": {
@@ -48868,7 +48866,7 @@
             "97",
             "\u00c6"
         ],
-        "stress_tests": [],
+        
         "id": 1668,
         "problematic": [],
         "text_davinci_003_output": {
@@ -48979,7 +48977,7 @@
             "Okay No so",
             "Five Four 3"
         ],
-        "stress_tests": [],
+        
         "id": 1683,
         "problematic": [],
         "text_davinci_003_output": {
@@ -49090,7 +49088,7 @@
             "3289384",
             "0"
         ],
-        "stress_tests": [],
+        
         "id": 1690,
         "problematic": [],
         "text_davinci_003_output": {
@@ -49201,7 +49199,7 @@
             "4567:23:29",
             "0"
         ],
-        "stress_tests": [],
+        
         "id": 1693,
         "problematic": [],
         "text_davinci_003_output": {
@@ -49312,7 +49310,7 @@
             "3.145",
             "900000"
         ],
-        "stress_tests": [],
+        
         "id": 1696,
         "problematic": [],
         "text_davinci_003_output": {
@@ -49423,7 +49421,7 @@
             "no...",
             "where Are you?"
         ],
-        "stress_tests": [],
+        
         "id": 1697,
         "problematic": [],
         "text_davinci_003_output": {
@@ -49534,7 +49532,7 @@
             "455586-8513.",
             "3.1415"
         ],
-        "stress_tests": [],
+        
         "id": 1698,
         "problematic": [],
         "text_davinci_003_output": {
@@ -49645,7 +49643,7 @@
             "3847923875293429,3",
             "2,34238472974"
         ],
-        "stress_tests": [],
+        
         "id": 1704,
         "problematic": [],
         "text_davinci_003_output": {
@@ -49756,7 +49754,7 @@
             "9034 ghY",
             "oerh 672"
         ],
-        "stress_tests": [],
+        
         "id": 1706,
         "problematic": [],
         "text_davinci_003_output": {
@@ -49855,7 +49853,7 @@
             "\\YYYY\\MM\\DD\\",
             "date"
         ],
-        "stress_tests": [],
+        
         "id": 1709,
         "problematic": [],
         "text_davinci_003_output": {
@@ -49966,7 +49964,7 @@
             "Thought",
             "$56"
         ],
-        "stress_tests": [],
+        
         "id": 1715,
         "problematic": [],
         "text_davinci_003_output": {
@@ -50077,7 +50075,7 @@
             "p[.gh",
             "@gmail.com"
         ],
-        "stress_tests": [],
+        
         "id": 1716,
         "problematic": [],
         "text_davinci_003_output": {
@@ -50188,7 +50186,7 @@
             "3 url=\"@XA';4b!iQ'Yx+|w@S3,kA|!QTVJMcH.g<rPOJAERlACY}^m}S1C!'7\"]j=<oeZXB#Q\\-*EG=w$HC da1,Ovh-nL:r,J5MFNsI|VK-/Z%(:!x4w[/a]",
             "3 url=\" 8+^Hx*xeNLz&y0|k\\WN\\t=M\\0rUBu F1|YB!d^!N+lQFJW^Myp0OKz\"]+Sj}\\wNP#)>YD+#F`rE<z_Z2vJkiS,\"d~lDT/c.$_sHcvw\"5oe\\M0rxanfO)w+=)B>DN1+DQ\\^=hNl66.QRJnT^~70V}5p)#p=[/a]"
         ],
-        "stress_tests": [],
+        
         "id": 1723,
         "problematic": [],
         "text_davinci_003_output": {
@@ -50299,7 +50297,7 @@
             "<b/>PouF;hu8d6]:wnPS]?v^s0;*0g3PQkk'4b!YY3 uBF\\DY_$y}\\eX6EGX\"A6PE%L3`y%u5pCG2?qWXBN#</b>",
             "<b>*3hI9?U?_yMh+hunK6)2G$+-.mlHn$xrM5GRS6]p;6</b/>"
         ],
-        "stress_tests": [],
+        
         "id": 1726,
         "problematic": [],
         "text_davinci_003_output": {
@@ -50410,7 +50408,7 @@
             "9+4",
             "=24"
         ],
-        "stress_tests": [],
+        
         "id": 1736,
         "problematic": [],
         "text_davinci_003_output": {
@@ -50521,7 +50519,7 @@
             "-",
             "<>"
         ],
-        "stress_tests": [],
+        
         "id": 1739,
         "problematic": [],
         "text_davinci_003_output": {
@@ -50632,7 +50630,7 @@
             "$dollar",
             "@gmail"
         ],
-        "stress_tests": [],
+        
         "id": 1740,
         "problematic": [],
         "text_davinci_003_output": {
@@ -50743,7 +50741,7 @@
             ".0",
             "|"
         ],
-        "stress_tests": [],
+        
         "id": 1742,
         "problematic": [],
         "text_davinci_003_output": {
@@ -50854,7 +50852,7 @@
             "23.34587.239.45",
             "092.472.21"
         ],
-        "stress_tests": [],
+        
         "id": 1744,
         "problematic": [],
         "text_davinci_003_output": {
@@ -50965,7 +50963,7 @@
             "0223/1073 20/31",
             "03/02/321823/20/20"
         ],
-        "stress_tests": [],
+        
         "id": 1751,
         "problematic": [],
         "text_davinci_003_output": {
@@ -51076,7 +51074,7 @@
             "2323:4rc",
             "frei:93hdfH"
         ],
-        "stress_tests": [],
+        
         "id": 1756,
         "problematic": [],
         "text_davinci_003_output": {
@@ -51187,7 +51185,7 @@
             "0239",
             "+9"
         ],
-        "stress_tests": [],
+        
         "id": 1762,
         "problematic": [],
         "text_davinci_003_output": {
@@ -51298,7 +51296,7 @@
             "#3242",
             "(605)"
         ],
-        "stress_tests": [],
+        
         "id": 1763,
         "problematic": [],
         "text_davinci_003_output": {
@@ -51409,7 +51407,7 @@
             "43 9473 89",
             "05-07-309"
         ],
-        "stress_tests": [],
+        
         "id": 1776,
         "problematic": [],
         "text_davinci_003_output": {
@@ -51520,7 +51518,7 @@
             "23:23:1907",
             "7-32-1900"
         ],
-        "stress_tests": [],
+        
         "id": 1777,
         "problematic": [],
         "text_davinci_003_output": {
@@ -51631,7 +51629,7 @@
             "0.0",
             "225.925.9113"
         ],
-        "stress_tests": [],
+        
         "id": 1780,
         "problematic": [],
         "text_davinci_003_output": {
@@ -51742,7 +51740,7 @@
             "/we'",
             "/349-34/"
         ],
-        "stress_tests": [],
+        
         "id": 1785,
         "problematic": [],
         "text_davinci_003_output": {
@@ -51853,7 +51851,7 @@
             "[brackets]",
             "\\.program.c"
         ],
-        "stress_tests": [],
+        
         "id": 1786,
         "problematic": [],
         "text_davinci_003_output": {
@@ -51970,7 +51968,7 @@
             "11000000",
             "abc"
         ],
-        "stress_tests": [],
+        
         "id": 1793,
         "problematic": [],
         "text_davinci_003_output": {
@@ -52081,7 +52079,7 @@
             "293(329)1938",
             "348923(2378)"
         ],
-        "stress_tests": [],
+        
         "id": 1799,
         "problematic": [],
         "text_davinci_003_output": {
@@ -52192,7 +52190,7 @@
             "4",
             "45%"
         ],
-        "stress_tests": [],
+        
         "id": 1800,
         "problematic": [],
         "text_davinci_003_output": {
@@ -52303,7 +52301,7 @@
             "1,000",
             "abcd"
         ],
-        "stress_tests": [],
+        
         "id": 1803,
         "problematic": [],
         "text_davinci_003_output": {
@@ -52414,7 +52412,7 @@
             "&24",
             "@4213423"
         ],
-        "stress_tests": [],
+        
         "id": 1808,
         "problematic": [],
         "text_davinci_003_output": {
@@ -52525,7 +52523,7 @@
             "00.3228",
             "23.."
         ],
-        "stress_tests": [],
+        
         "id": 1810,
         "problematic": [],
         "text_davinci_003_output": {
@@ -52636,7 +52634,7 @@
             "23334",
             "%525%"
         ],
-        "stress_tests": [],
+        
         "id": 1811,
         "problematic": [],
         "text_davinci_003_output": {
@@ -52747,7 +52745,7 @@
             "#there",
             "comment!&"
         ],
-        "stress_tests": [],
+        
         "id": 1813,
         "problematic": [],
         "text_davinci_003_output": {
@@ -52858,7 +52856,7 @@
             "year, year, year",
             "0.0"
         ],
-        "stress_tests": [],
+        
         "id": 1815,
         "problematic": [],
         "text_davinci_003_output": {
@@ -52969,7 +52967,7 @@
             "03 14 1999",
             "08-15-2002"
         ],
-        "stress_tests": [],
+        
         "id": 1819,
         "problematic": [],
         "text_davinci_003_output": {
@@ -53080,7 +53078,7 @@
             "05132007",
             "2000"
         ],
-        "stress_tests": [],
+        
         "id": 1820,
         "problematic": [],
         "text_davinci_003_output": {
@@ -53191,7 +53189,7 @@
             "http://",
             "url"
         ],
-        "stress_tests": [],
+        
         "id": 1827,
         "problematic": [],
         "text_davinci_003_output": {
@@ -53302,7 +53300,7 @@
             "//\\\\",
             "//.//."
         ],
-        "stress_tests": [],
+        
         "id": 1830,
         "problematic": [],
         "text_davinci_003_output": {
@@ -53410,7 +53408,7 @@
             "35",
             "987654"
         ],
-        "stress_tests": [],
+        
         "id": 1834,
         "problematic": [],
         "text_davinci_003_output": {
@@ -53521,7 +53519,7 @@
             "{}",
             "?#?"
         ],
-        "stress_tests": [],
+        
         "id": 1835,
         "problematic": [],
         "text_davinci_003_output": {
@@ -53632,7 +53630,7 @@
             "59-23",
             "3/4"
         ],
-        "stress_tests": [],
+        
         "id": 1842,
         "problematic": [],
         "text_davinci_003_output": {
@@ -53743,7 +53741,7 @@
             ":/url",
             "ftp:"
         ],
-        "stress_tests": [],
+        
         "id": 1848,
         "problematic": [],
         "text_davinci_003_output": {
@@ -53854,7 +53852,7 @@
             "AT",
             "ATu43232"
         ],
-        "stress_tests": [],
+        
         "id": 1850,
         "problematic": [],
         "text_davinci_003_output": {
@@ -53965,7 +53963,7 @@
             "$34",
             "1234"
         ],
-        "stress_tests": [],
+        
         "id": 1851,
         "problematic": [],
         "text_davinci_003_output": {
@@ -54076,7 +54074,7 @@
             "11/11/1111",
             "345678"
         ],
-        "stress_tests": [],
+        
         "id": 1855,
         "problematic": [],
         "text_davinci_003_output": {
@@ -54187,7 +54185,7 @@
             "132454",
             "efw\\ewcd\\ervds"
         ],
-        "stress_tests": [],
+        
         "id": 1856,
         "problematic": [],
         "text_davinci_003_output": {
@@ -54298,7 +54296,7 @@
             "3d=c",
             "oiuygf\\"
         ],
-        "stress_tests": [],
+        
         "id": 1866,
         "problematic": [],
         "text_davinci_003_output": {
@@ -54409,7 +54407,7 @@
             "\"edu\"",
             "eds\\dsac"
         ],
-        "stress_tests": [],
+        
         "id": 1867,
         "problematic": [],
         "text_davinci_003_output": {
@@ -54520,7 +54518,7 @@
             "poijhg=",
             "\"style=\""
         ],
-        "stress_tests": [],
+        
         "id": 1873,
         "problematic": [],
         "text_davinci_003_output": {
@@ -54631,7 +54629,7 @@
             "10--00/79",
             "06/8/ 1282"
         ],
-        "stress_tests": [],
+        
         "id": 1877,
         "problematic": [],
         "text_davinci_003_output": {
@@ -54742,7 +54740,7 @@
             "link",
             "https://ervd"
         ],
-        "stress_tests": [],
+        
         "id": 1881,
         "problematic": [],
         "text_davinci_003_output": {
@@ -54853,7 +54851,7 @@
             "com.yourdomain",
             "efjocdsj.fjv"
         ],
-        "stress_tests": [],
+        
         "id": 1884,
         "problematic": [],
         "text_davinci_003_output": {
@@ -54964,7 +54962,7 @@
             "12/24",
             "4321("
         ],
-        "stress_tests": [],
+        
         "id": 1886,
         "problematic": [],
         "text_davinci_003_output": {
@@ -55075,7 +55073,7 @@
             "12//30/06",
             "04/7/2008"
         ],
-        "stress_tests": [],
+        
         "id": 1894,
         "problematic": [],
         "text_davinci_003_output": {
@@ -55186,7 +55184,7 @@
             "43:43:43",
             "32"
         ],
-        "stress_tests": [],
+        
         "id": 1896,
         "problematic": [],
         "text_davinci_003_output": {
@@ -55297,7 +55295,7 @@
             "60:60:60",
             "4"
         ],
-        "stress_tests": [],
+        
         "id": 1897,
         "problematic": [],
         "text_davinci_003_output": {
@@ -55408,7 +55406,7 @@
             "1234",
             "12:12"
         ],
-        "stress_tests": [],
+        
         "id": 1898,
         "problematic": [],
         "text_davinci_003_output": {
@@ -55519,7 +55517,7 @@
             "Jan 1st",
             "December 24th"
         ],
-        "stress_tests": [],
+        
         "id": 1899,
         "problematic": [],
         "text_davinci_003_output": {
@@ -55630,7 +55628,7 @@
             "23, June, 2004",
             "Jan 1st"
         ],
-        "stress_tests": [],
+        
         "id": 1900,
         "problematic": [],
         "text_davinci_003_output": {
@@ -55741,7 +55739,7 @@
             "23, June, 2004",
             "23rd of May"
         ],
-        "stress_tests": [],
+        
         "id": 1901,
         "problematic": [],
         "text_davinci_003_output": {
@@ -55852,7 +55850,7 @@
             "23, June, 2004",
             "23rd of May"
         ],
-        "stress_tests": [],
+        
         "id": 1902,
         "problematic": [],
         "text_davinci_003_output": {
@@ -55953,7 +55951,7 @@
             "+=",
             "dswef*"
         ],
-        "stress_tests": [],
+        
         "id": 1906,
         "problematic": [],
         "text_davinci_003_output": {
@@ -56064,7 +56062,7 @@
             "ICON=---efrdcs",
             "ICON=....?"
         ],
-        "stress_tests": [],
+        
         "id": 1909,
         "problematic": [],
         "text_davinci_003_output": {
@@ -56175,7 +56173,7 @@
             "34-56",
             "3rffw"
         ],
-        "stress_tests": [],
+        
         "id": 1912,
         "problematic": [],
         "text_davinci_003_output": {
@@ -56286,7 +56284,7 @@
             "04:18:16",
             "11:36  am"
         ],
-        "stress_tests": [],
+        
         "id": 1913,
         "problematic": [],
         "text_davinci_003_output": {
@@ -56397,7 +56395,7 @@
             "<></>",
             "<3e3></>"
         ],
-        "stress_tests": [],
+        
         "id": 1914,
         "problematic": [],
         "text_davinci_003_output": {
@@ -56508,7 +56506,7 @@
             "0.0.0",
             "09876543"
         ],
-        "stress_tests": [],
+        
         "id": 1915,
         "problematic": [],
         "text_davinci_003_output": {
@@ -56619,7 +56617,7 @@
             "11071909",
             "02/249/2764"
         ],
-        "stress_tests": [],
+        
         "id": 1916,
         "problematic": [],
         "text_davinci_003_output": {
@@ -56730,7 +56728,7 @@
             "porefcds",
             "#comment"
         ],
-        "stress_tests": [],
+        
         "id": 1921,
         "problematic": [],
         "text_davinci_003_output": {
@@ -56841,7 +56839,7 @@
             "12:12",
             "AM"
         ],
-        "stress_tests": [],
+        
         "id": 1924,
         "problematic": [],
         "text_davinci_003_output": {
@@ -56940,7 +56938,7 @@
             "-",
             "+"
         ],
-        "stress_tests": [],
+        
         "id": 1925,
         "problematic": [],
         "text_davinci_003_output": {
@@ -57051,7 +57049,7 @@
             "00000003333348.0-",
             ".0"
         ],
-        "stress_tests": [],
+        
         "id": 1927,
         "problematic": [],
         "text_davinci_003_output": {
@@ -57162,7 +57160,7 @@
             "9993.",
             "22220.000"
         ],
-        "stress_tests": [],
+        
         "id": 1931,
         "problematic": [],
         "text_davinci_003_output": {
@@ -57273,7 +57271,7 @@
             "5%",
             "12/12"
         ],
-        "stress_tests": [],
+        
         "id": 1933,
         "problematic": [],
         "text_davinci_003_output": {
@@ -57384,7 +57382,7 @@
             "00000",
             "money"
         ],
-        "stress_tests": [],
+        
         "id": 1941,
         "problematic": [],
         "text_davinci_003_output": {
@@ -57495,7 +57493,7 @@
             "87565 box",
             "39823 p.o.b."
         ],
-        "stress_tests": [],
+        
         "id": 1943,
         "problematic": [],
         "text_davinci_003_output": {
@@ -57606,7 +57604,7 @@
             "jfhsdkjjh7",
             "?:///"
         ],
-        "stress_tests": [],
+        
         "id": 1944,
         "problematic": [],
         "text_davinci_003_output": {
@@ -57717,7 +57715,7 @@
             "g442",
             "245gerwf"
         ],
-        "stress_tests": [],
+        
         "id": 1950,
         "problematic": [],
         "text_davinci_003_output": {
@@ -57828,7 +57826,7 @@
             "544qsrg",
             "ewrg4"
         ],
-        "stress_tests": [],
+        
         "id": 1952,
         "problematic": [],
         "text_davinci_003_output": {
@@ -57939,7 +57937,7 @@
             "+0987",
             "-9876"
         ],
-        "stress_tests": [],
+        
         "id": 1954,
         "problematic": [],
         "text_davinci_003_output": {
@@ -58050,7 +58048,7 @@
             "$$$$",
             "&^%^&*("
         ],
-        "stress_tests": [],
+        
         "id": 1956,
         "problematic": [],
         "text_davinci_003_output": {
@@ -58161,7 +58159,7 @@
             "8328823",
             "82"
         ],
-        "stress_tests": [],
+        
         "id": 1958,
         "problematic": [],
         "text_davinci_003_output": {
@@ -58272,7 +58270,7 @@
             "2/2/2",
             "12/12"
         ],
-        "stress_tests": [],
+        
         "id": 1960,
         "problematic": [],
         "text_davinci_003_output": {
@@ -58383,7 +58381,7 @@
             "./",
             "''"
         ],
-        "stress_tests": [],
+        
         "id": 1962,
         "problematic": [],
         "text_davinci_003_output": {
@@ -58494,7 +58492,7 @@
             "5535",
             "0005"
         ],
-        "stress_tests": [],
+        
         "id": 1964,
         "problematic": [],
         "text_davinci_003_output": {
@@ -58605,7 +58603,7 @@
             "4321",
             "3456"
         ],
-        "stress_tests": [],
+        
         "id": 1972,
         "problematic": [],
         "text_davinci_003_output": {
@@ -58716,7 +58714,7 @@
             "######",
             "number"
         ],
-        "stress_tests": [],
+        
         "id": 1974,
         "problematic": [],
         "text_davinci_003_output": {
@@ -58827,7 +58825,7 @@
             "42jhfe",
             "jh####dsjh"
         ],
-        "stress_tests": [],
+        
         "id": 1977,
         "problematic": [],
         "text_davinci_003_output": {
@@ -58938,7 +58936,7 @@
             "00000",
             "43677634"
         ],
-        "stress_tests": [],
+        
         "id": 1978,
         "problematic": [],
         "text_davinci_003_output": {
@@ -59049,7 +59047,7 @@
             "###",
             "----"
         ],
-        "stress_tests": [],
+        
         "id": 1986,
         "problematic": [],
         "text_davinci_003_output": {
@@ -59160,7 +59158,7 @@
             "SEP983378hd",
             "SEP4598459549854rdsxjdmwef"
         ],
-        "stress_tests": [],
+        
         "id": 2008,
         "problematic": [],
         "text_davinci_003_output": {
@@ -59271,7 +59269,7 @@
             "74773",
             "----"
         ],
-        "stress_tests": [],
+        
         "id": 2011,
         "problematic": [],
         "text_davinci_003_output": {
@@ -59382,7 +59380,7 @@
             "https://efdcs",
             "https://efdcs.erdsww"
         ],
-        "stress_tests": [],
+        
         "id": 2013,
         "problematic": [],
         "text_davinci_003_output": {
@@ -59493,7 +59491,7 @@
             "09876556789876545678976545678956789",
             "323"
         ],
-        "stress_tests": [],
+        
         "id": 2014,
         "problematic": [],
         "text_davinci_003_output": {
@@ -59604,7 +59602,7 @@
             "000",
             "34321"
         ],
-        "stress_tests": [],
+        
         "id": 2023,
         "problematic": [],
         "text_davinci_003_output": {
@@ -59715,7 +59713,7 @@
             "0987654567-45342",
             "2384"
         ],
-        "stress_tests": [],
+        
         "id": 2025,
         "problematic": [],
         "text_davinci_003_output": {
@@ -59826,7 +59824,7 @@
             "-3402",
             "111!"
         ],
-        "stress_tests": [],
+        
         "id": 2031,
         "problematic": [],
         "text_davinci_003_output": {
@@ -59937,7 +59935,7 @@
             "rkvced...",
             ",,<,"
         ],
-        "stress_tests": [],
+        
         "id": 2040,
         "problematic": [],
         "text_davinci_003_output": {
@@ -60048,7 +60046,7 @@
             "{}",
             "&"
         ],
-        "stress_tests": [],
+        
         "id": 2041,
         "problematic": [],
         "text_davinci_003_output": {
@@ -60159,7 +60157,7 @@
             "4rfe87&",
             "#3"
         ],
-        "stress_tests": [],
+        
         "id": 2049,
         "problematic": [],
         "text_davinci_003_output": {
@@ -60252,7 +60250,7 @@
             "NI1234",
             "1234"
         ],
-        "stress_tests": [],
+        
         "id": 2069,
         "problematic": [],
         "text_davinci_003_output": {
@@ -60363,7 +60361,7 @@
             "12/37723",
             "46737"
         ],
-        "stress_tests": [],
+        
         "id": 2083,
         "problematic": [],
         "text_davinci_003_output": {
@@ -60474,7 +60472,7 @@
             "8765rfgh",
             "7373"
         ],
-        "stress_tests": [],
+        
         "id": 2086,
         "problematic": [],
         "text_davinci_003_output": {
@@ -60585,7 +60583,7 @@
             "$",
             "*"
         ],
-        "stress_tests": [],
+        
         "id": 2087,
         "problematic": [],
         "text_davinci_003_output": {
@@ -60696,7 +60694,7 @@
             "fg56hj7",
             "43re"
         ],
-        "stress_tests": [],
+        
         "id": 2090,
         "problematic": [],
         "text_davinci_003_output": {
@@ -60807,7 +60805,7 @@
             "45grfe",
             "money"
         ],
-        "stress_tests": [],
+        
         "id": 2095,
         "problematic": [],
         "text_davinci_003_output": {
@@ -60918,7 +60916,7 @@
             "23 june 1999",
             "july 14"
         ],
-        "stress_tests": [],
+        
         "id": 2103,
         "problematic": [],
         "text_davinci_003_output": {
@@ -61029,7 +61027,7 @@
             "fer23refd",
             "r0wrfk"
         ],
-        "stress_tests": [],
+        
         "id": 2116,
         "problematic": [],
         "text_davinci_003_output": {
@@ -61140,7 +61138,7 @@
             "frevto3",
             "098765"
         ],
-        "stress_tests": [],
+        
         "id": 2117,
         "problematic": [],
         "text_davinci_003_output": {
@@ -61251,7 +61249,7 @@
             "%^^^",
             "098765rfgbnjkl"
         ],
-        "stress_tests": [],
+        
         "id": 2118,
         "problematic": [],
         "text_davinci_003_output": {
@@ -61362,7 +61360,7 @@
             "43fredc",
             "&^%$#"
         ],
-        "stress_tests": [],
+        
         "id": 2123,
         "problematic": [],
         "text_davinci_003_output": {
@@ -61473,7 +61471,7 @@
             "*734as*",
             "*****8uerfb"
         ],
-        "stress_tests": [],
+        
         "id": 2130,
         "problematic": [],
         "text_davinci_003_output": {
@@ -61584,7 +61582,7 @@
             "<>",
             "(vev)"
         ],
-        "stress_tests": [],
+        
         "id": 2136,
         "problematic": [],
         "text_davinci_003_output": {
@@ -61695,7 +61693,7 @@
             "000-.00000",
             "#11.2"
         ],
-        "stress_tests": [],
+        
         "id": 2143,
         "problematic": [],
         "text_davinci_003_output": {
@@ -61806,7 +61804,7 @@
             "%%%",
             "/?"
         ],
-        "stress_tests": [],
+        
         "id": 2145,
         "problematic": [],
         "text_davinci_003_output": {
@@ -61917,7 +61915,7 @@
             "www.efds",
             "erfvds"
         ],
-        "stress_tests": [],
+        
         "id": 2149,
         "problematic": [],
         "text_davinci_003_output": {
@@ -62009,7 +62007,7 @@
             "Content-Type: text/plain",
             "Content-Type image/jpeg;"
         ],
-        "stress_tests": [],
+        
         "id": 2152,
         "problematic": [],
         "text_davinci_003_output": {
@@ -62120,7 +62118,7 @@
             "7922",
             "8205"
         ],
-        "stress_tests": [],
+        
         "id": 2153,
         "problematic": [],
         "text_davinci_003_output": {
@@ -62231,7 +62229,7 @@
             "'rejrjn",
             "-erfjkjkn"
         ],
-        "stress_tests": [],
+        
         "id": 2155,
         "problematic": [],
         "text_davinci_003_output": {
@@ -62342,7 +62340,7 @@
             "!!!",
             "0.0"
         ],
-        "stress_tests": [],
+        
         "id": 2157,
         "problematic": [],
         "text_davinci_003_output": {
@@ -62453,7 +62451,7 @@
             "jk2rjk2efrjkn",
             "KIDJK;"
         ],
-        "stress_tests": [],
+        
         "id": 2160,
         "problematic": [],
         "text_davinci_003_output": {
@@ -62564,7 +62562,7 @@
             "73:23",
             "234:433"
         ],
-        "stress_tests": [],
+        
         "id": 2161,
         "problematic": [],
         "text_davinci_003_output": {
@@ -62675,7 +62673,7 @@
             "4565hyetr",
             "frgthyj66754"
         ],
-        "stress_tests": [],
+        
         "id": 2190,
         "problematic": [],
         "text_davinci_003_output": {
@@ -62786,7 +62784,7 @@
             "###",
             "12%"
         ],
-        "stress_tests": [],
+        
         "id": 2201,
         "problematic": [],
         "text_davinci_003_output": {
@@ -62897,7 +62895,7 @@
             "34-43",
             "(603)"
         ],
-        "stress_tests": [],
+        
         "id": 2203,
         "problematic": [],
         "text_davinci_003_output": {
@@ -63008,7 +63006,7 @@
             "45%",
             "0.0"
         ],
-        "stress_tests": [],
+        
         "id": 2206,
         "problematic": [],
         "text_davinci_003_output": {
@@ -63119,7 +63117,7 @@
             "12/12",
             "==="
         ],
-        "stress_tests": [],
+        
         "id": 2213,
         "problematic": [],
         "text_davinci_003_output": {
@@ -63230,7 +63228,7 @@
             "/key=",
             "/key=value/"
         ],
-        "stress_tests": [],
+        
         "id": 2215,
         "problematic": [],
         "text_davinci_003_output": {
@@ -63341,7 +63339,7 @@
             "number",
             "PIN"
         ],
-        "stress_tests": [],
+        
         "id": 2218,
         "problematic": [],
         "text_davinci_003_output": {
@@ -63452,7 +63450,7 @@
             "34/34",
             "643*July"
         ],
-        "stress_tests": [],
+        
         "id": 2222,
         "problematic": [],
         "text_davinci_003_output": {
@@ -63563,7 +63561,7 @@
             ".0",
             "56%"
         ],
-        "stress_tests": [],
+        
         "id": 2223,
         "problematic": [],
         "text_davinci_003_output": {
@@ -63674,7 +63672,7 @@
             "4%",
             "234"
         ],
-        "stress_tests": [],
+        
         "id": 2224,
         "problematic": [],
         "text_davinci_003_output": {
@@ -63785,7 +63783,7 @@
             "65rf",
             "ou9y87t"
         ],
-        "stress_tests": [],
+        
         "id": 2241,
         "problematic": [],
         "text_davinci_003_output": {
@@ -63896,7 +63894,7 @@
             "344343",
             "328734"
         ],
-        "stress_tests": [],
+        
         "id": 2246,
         "problematic": [],
         "text_davinci_003_output": {
@@ -64007,7 +64005,7 @@
             "aug 3",
             "noon"
         ],
-        "stress_tests": [],
+        
         "id": 2259,
         "problematic": [],
         "text_davinci_003_output": {
@@ -64118,7 +64116,7 @@
             "123453.2343224.21433",
             "234."
         ],
-        "stress_tests": [],
+        
         "id": 2262,
         "problematic": [],
         "text_davinci_003_output": {
@@ -64229,7 +64227,7 @@
             "34f67",
             "45678"
         ],
-        "stress_tests": [],
+        
         "id": 2264,
         "problematic": [],
         "text_davinci_003_output": {
@@ -64340,7 +64338,7 @@
             "567uju6yt",
             "34efd"
         ],
-        "stress_tests": [],
+        
         "id": 2265,
         "problematic": [],
         "text_davinci_003_output": {
@@ -64451,7 +64449,7 @@
             "12/12",
             "july 3"
         ],
-        "stress_tests": [],
+        
         "id": 2273,
         "problematic": [],
         "text_davinci_003_output": {
@@ -64562,7 +64560,7 @@
             "1,000",
             "date"
         ],
-        "stress_tests": [],
+        
         "id": 2278,
         "problematic": [],
         "text_davinci_003_output": {
@@ -64673,7 +64671,7 @@
             "01b",
             "12/12"
         ],
-        "stress_tests": [],
+        
         "id": 2279,
         "problematic": [],
         "text_davinci_003_output": {
@@ -64784,7 +64782,7 @@
             "$45",
             "56783"
         ],
-        "stress_tests": [],
+        
         "id": 2281,
         "problematic": [],
         "text_davinci_003_output": {
@@ -64895,7 +64893,7 @@
             "$134",
             "int"
         ],
-        "stress_tests": [],
+        
         "id": 2282,
         "problematic": [],
         "text_davinci_003_output": {
@@ -65006,7 +65004,7 @@
             "345321345324",
             "00000"
         ],
-        "stress_tests": [],
+        
         "id": 2284,
         "problematic": [],
         "text_davinci_003_output": {
@@ -65117,7 +65115,7 @@
             "0",
             "$4"
         ],
-        "stress_tests": [],
+        
         "id": 2294,
         "problematic": [],
         "text_davinci_003_output": {
@@ -65228,7 +65226,7 @@
             "12,12,1212",
             "12"
         ],
-        "stress_tests": [],
+        
         "id": 2295,
         "problematic": [],
         "text_davinci_003_output": {
@@ -65339,7 +65337,7 @@
             "00-00-23 -> 4532",
             "23"
         ],
-        "stress_tests": [],
+        
         "id": 2296,
         "problematic": [],
         "text_davinci_003_output": {
@@ -65450,7 +65448,7 @@
             "!",
             "?"
         ],
-        "stress_tests": [],
+        
         "id": 2297,
         "problematic": [],
         "text_davinci_003_output": {
@@ -65561,7 +65559,7 @@
             "23es",
             "3kr"
         ],
-        "stress_tests": [],
+        
         "id": 2298,
         "problematic": [],
         "text_davinci_003_output": {
@@ -65672,7 +65670,7 @@
             "money",
             "--"
         ],
-        "stress_tests": [],
+        
         "id": 2301,
         "problematic": [],
         "text_davinci_003_output": {
@@ -65783,7 +65781,7 @@
             "12-12",
             "0.102"
         ],
-        "stress_tests": [],
+        
         "id": 2316,
         "problematic": [],
         "text_davinci_003_output": {
@@ -65894,7 +65892,7 @@
             "+++iuefwcd",
             "number"
         ],
-        "stress_tests": [],
+        
         "id": 2317,
         "problematic": [],
         "text_davinci_003_output": {
@@ -66005,7 +66003,7 @@
             "+8765",
             "$45"
         ],
-        "stress_tests": [],
+        
         "id": 2318,
         "problematic": [],
         "text_davinci_003_output": {
@@ -66116,7 +66114,7 @@
             "color",
             "$46"
         ],
-        "stress_tests": [],
+        
         "id": 2322,
         "problematic": [],
         "text_davinci_003_output": {
@@ -66227,7 +66225,7 @@
             "#4",
             "$5432"
         ],
-        "stress_tests": [],
+        
         "id": 2333,
         "problematic": [],
         "text_davinci_003_output": {
@@ -66338,7 +66336,7 @@
             "#3",
             "12/12"
         ],
-        "stress_tests": [],
+        
         "id": 2334,
         "problematic": [],
         "text_davinci_003_output": {
@@ -66449,7 +66447,7 @@
             "SDFG",
             "[]"
         ],
-        "stress_tests": [],
+        
         "id": 2335,
         "problematic": [],
         "text_davinci_003_output": {
@@ -66560,7 +66558,7 @@
             "3434",
             "1104"
         ],
-        "stress_tests": [],
+        
         "id": 2339,
         "problematic": [],
         "text_davinci_003_output": {
@@ -66671,7 +66669,7 @@
             "888",
             "1!"
         ],
-        "stress_tests": [],
+        
         "id": 2340,
         "problematic": [],
         "text_davinci_003_output": {
@@ -66782,7 +66780,7 @@
             "12 @#",
             "uer 4ir"
         ],
-        "stress_tests": [],
+        
         "id": 2341,
         "problematic": [],
         "text_davinci_003_output": {
@@ -66893,7 +66891,7 @@
             "####",
             "# 45"
         ],
-        "stress_tests": [],
+        
         "id": 2345,
         "problematic": [],
         "text_davinci_003_output": {
@@ -67004,7 +67002,7 @@
             "qqqqq",
             "pppwewdsddddd"
         ],
-        "stress_tests": [],
+        
         "id": 2348,
         "problematic": [],
         "text_davinci_003_output": {
@@ -67115,7 +67113,7 @@
             "We!",
             "Wepoiuy76tfrvgbhnjkm"
         ],
-        "stress_tests": [],
+        
         "id": 2352,
         "problematic": [],
         "text_davinci_003_output": {
@@ -67226,7 +67224,7 @@
             "wef w e e e e",
             "12 343 a"
         ],
-        "stress_tests": [],
+        
         "id": 2353,
         "problematic": [],
         "text_davinci_003_output": {
@@ -67337,7 +67335,7 @@
             ";;;;",
             "\"lkhg\""
         ],
-        "stress_tests": [],
+        
         "id": 2355,
         "problematic": [],
         "text_davinci_003_output": {
@@ -67448,7 +67446,7 @@
             "000000",
             "hour"
         ],
-        "stress_tests": [],
+        
         "id": 2360,
         "problematic": [],
         "text_davinci_003_output": {
@@ -67559,7 +67557,7 @@
             "#3",
             "12/12/12/12/12/12/12/12"
         ],
-        "stress_tests": [],
+        
         "id": 2370,
         "problematic": [],
         "text_davinci_003_output": {
@@ -67670,7 +67668,7 @@
             "noon",
             "aug 8th"
         ],
-        "stress_tests": [],
+        
         "id": 2376,
         "problematic": [],
         "text_davinci_003_output": {
@@ -67781,7 +67779,7 @@
             "picture",
             "jpEG"
         ],
-        "stress_tests": [],
+        
         "id": 2377,
         "problematic": [],
         "text_davinci_003_output": {
@@ -67892,7 +67890,7 @@
             "44rfe",
             "tgrfd"
         ],
-        "stress_tests": [],
+        
         "id": 2379,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68003,7 +68001,7 @@
             "24.",
             "-987654"
         ],
-        "stress_tests": [],
+        
         "id": 2383,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68114,7 +68112,7 @@
             "-43212",
             "-4565432"
         ],
-        "stress_tests": [],
+        
         "id": 2384,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68225,7 +68223,7 @@
             "&and",
             "/fjhvd"
         ],
-        "stress_tests": [],
+        
         "id": 2393,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68336,7 +68334,7 @@
             "-45",
             "$4"
         ],
-        "stress_tests": [],
+        
         "id": 2398,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68447,7 +68445,7 @@
             "@",
             "-8"
         ],
-        "stress_tests": [],
+        
         "id": 2399,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68558,7 +68556,7 @@
             "78",
             "3214234"
         ],
-        "stress_tests": [],
+        
         "id": 2405,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68669,7 +68667,7 @@
             "3453213.13",
             "03.03"
         ],
-        "stress_tests": [],
+        
         "id": 2406,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68780,7 +68778,7 @@
             "+098765",
             "number"
         ],
-        "stress_tests": [],
+        
         "id": 2425,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68874,7 +68872,7 @@
             "foo/Bar",
             "fooo.Bar"
         ],
-        "stress_tests": [],
+        
         "id": 2439,
         "problematic": [],
         "text_davinci_003_output": {
@@ -68985,7 +68983,7 @@
             "&&",
             "#3"
         ],
-        "stress_tests": [],
+        
         "id": 2440,
         "problematic": [],
         "text_davinci_003_output": {
@@ -69096,7 +69094,7 @@
             "wwwww",
             "1!"
         ],
-        "stress_tests": [],
+        
         "id": 2444,
         "problematic": [],
         "text_davinci_003_output": {
@@ -69207,7 +69205,7 @@
             "!!!",
             "$4"
         ],
-        "stress_tests": [],
+        
         "id": 2445,
         "problematic": [],
         "text_davinci_003_output": {
@@ -69318,7 +69316,7 @@
             "$45",
             "."
         ],
-        "stress_tests": [],
+        
         "id": 2446,
         "problematic": [],
         "text_davinci_003_output": {
@@ -69429,7 +69427,7 @@
             ",5",
             "efg"
         ],
-        "stress_tests": [],
+        
         "id": 2447,
         "problematic": [],
         "text_davinci_003_output": {
@@ -69530,7 +69528,7 @@
             "HUOj",
             "5hy5tr"
         ],
-        "stress_tests": [],
+        
         "id": 2449,
         "problematic": [],
         "text_davinci_003_output": {
@@ -69641,7 +69639,7 @@
             "*",
             "("
         ],
-        "stress_tests": [],
+        
         "id": 2467,
         "problematic": [],
         "text_davinci_003_output": {
@@ -69752,7 +69750,7 @@
             "53-932",
             "dfv"
         ],
-        "stress_tests": [],
+        
         "id": 2470,
         "problematic": [],
         "text_davinci_003_output": {
@@ -69863,7 +69861,7 @@
             "---",
             "pa@f"
         ],
-        "stress_tests": [],
+        
         "id": 2480,
         "problematic": [],
         "text_davinci_003_output": {
@@ -69974,7 +69972,7 @@
             "56%",
             "****"
         ],
-        "stress_tests": [],
+        
         "id": 2482,
         "problematic": [],
         "text_davinci_003_output": {
@@ -70085,7 +70083,7 @@
             "12/12",
             "#4"
         ],
-        "stress_tests": [],
+        
         "id": 2485,
         "problematic": [],
         "text_davinci_003_output": {
@@ -70196,7 +70194,7 @@
             "567 948 4829",
             "456-387 3828"
         ],
-        "stress_tests": [],
+        
         "id": 2486,
         "problematic": [],
         "text_davinci_003_output": {
@@ -70307,7 +70305,7 @@
             "122 563 3882",
             "2u34"
         ],
-        "stress_tests": [],
+        
         "id": 2487,
         "problematic": [],
         "text_davinci_003_output": {
@@ -70418,7 +70416,7 @@
             "###",
             "phone number"
         ],
-        "stress_tests": [],
+        
         "id": 2488,
         "problematic": [],
         "text_davinci_003_output": {
@@ -70529,7 +70527,7 @@
             "435",
             "ft534"
         ],
-        "stress_tests": [],
+        
         "id": 2492,
         "problematic": [],
         "text_davinci_003_output": {
@@ -70640,7 +70638,7 @@
             "g5t3hj78k",
             "24gj78k"
         ],
-        "stress_tests": [],
+        
         "id": 2494,
         "problematic": [],
         "text_davinci_003_output": {
@@ -70751,7 +70749,7 @@
             "#H7834BDW",
             "#ED73D"
         ],
-        "stress_tests": [],
+        
         "id": 2502,
         "problematic": [],
         "text_davinci_003_output": {
@@ -70862,7 +70860,7 @@
             "!",
             "&"
         ],
-        "stress_tests": [],
+        
         "id": 2507,
         "problematic": [],
         "text_davinci_003_output": {
@@ -70973,7 +70971,7 @@
             "8yg, yg",
             "6yghj,hgb,"
         ],
-        "stress_tests": [],
+        
         "id": 2512,
         "problematic": [],
         "text_davinci_003_output": {
@@ -71084,7 +71082,7 @@
             "5243491690",
             "+12345825418482"
         ],
-        "stress_tests": [],
+        
         "id": 2519,
         "problematic": [],
         "text_davinci_003_output": {
@@ -71195,7 +71193,7 @@
             "r43ey7wudhj",
             "87t"
         ],
-        "stress_tests": [],
+        
         "id": 2531,
         "problematic": [],
         "text_davinci_003_output": {
@@ -71306,7 +71304,7 @@
             "232332",
             "$43321143094334434"
         ],
-        "stress_tests": [],
+        
         "id": 2536,
         "problematic": [],
         "text_davinci_003_output": {
@@ -71417,7 +71415,7 @@
             "phone number",
             "##########"
         ],
-        "stress_tests": [],
+        
         "id": 2539,
         "problematic": [],
         "text_davinci_003_output": {
@@ -71528,7 +71526,7 @@
             "09876",
             "984384384399483493489348920"
         ],
-        "stress_tests": [],
+        
         "id": 2542,
         "problematic": [],
         "text_davinci_003_output": {
@@ -71639,7 +71637,7 @@
             "8383 492 3292",
             "53-321-434"
         ],
-        "stress_tests": [],
+        
         "id": 2547,
         "problematic": [],
         "text_davinci_003_output": {
@@ -71750,7 +71748,7 @@
             "6732",
             "3433"
         ],
-        "stress_tests": [],
+        
         "id": 2548,
         "problematic": [],
         "text_davinci_003_output": {
@@ -71861,7 +71859,7 @@
             "$4",
             "56%"
         ],
-        "stress_tests": [],
+        
         "id": 2549,
         "problematic": [],
         "text_davinci_003_output": {
@@ -71972,7 +71970,7 @@
             "num, num",
             "78898()"
         ],
-        "stress_tests": [],
+        
         "id": 2550,
         "problematic": [],
         "text_davinci_003_output": {
@@ -72083,7 +72081,7 @@
             "3828239.",
             "329832,238328,"
         ],
-        "stress_tests": [],
+        
         "id": 2553,
         "problematic": [],
         "text_davinci_003_output": {
@@ -72194,7 +72192,7 @@
             "34.34",
             "12.12"
         ],
-        "stress_tests": [],
+        
         "id": 2567,
         "problematic": [],
         "text_davinci_003_output": {
@@ -72302,7 +72300,7 @@
             "9000",
             "555555"
         ],
-        "stress_tests": [],
+        
         "id": 2570,
         "problematic": [],
         "text_davinci_003_output": {
@@ -72413,7 +72411,7 @@
             "dscvsvsd",
             "weufhefjd"
         ],
-        "stress_tests": [],
+        
         "id": 2572,
         "problematic": [],
         "text_davinci_003_output": {
@@ -72524,7 +72522,7 @@
             "wef\\]",
             "ef223r"
         ],
-        "stress_tests": [],
+        
         "id": 2581,
         "problematic": [],
         "text_davinci_003_output": {
@@ -72635,7 +72633,7 @@
             "qr3q4yfg#",
             "deweh#"
         ],
-        "stress_tests": [],
+        
         "id": 2588,
         "problematic": [],
         "text_davinci_003_output": {
@@ -72746,7 +72744,7 @@
             "yjef",
             "'''we'f'ef"
         ],
-        "stress_tests": [],
+        
         "id": 2591,
         "problematic": [],
         "text_davinci_003_output": {
@@ -72857,7 +72855,7 @@
             "\\few",
             "zip code"
         ],
-        "stress_tests": [],
+        
         "id": 2593,
         "problematic": [],
         "text_davinci_003_output": {
@@ -72968,7 +72966,7 @@
             "(345432)",
             "4+4"
         ],
-        "stress_tests": [],
+        
         "id": 2603,
         "problematic": [],
         "text_davinci_003_output": {
@@ -73079,7 +73077,7 @@
             "jefn94jb",
             "3frd"
         ],
-        "stress_tests": [],
+        
         "id": 2606,
         "problematic": [],
         "text_davinci_003_output": {
@@ -73190,7 +73188,7 @@
             "^",
             "<>"
         ],
-        "stress_tests": [],
+        
         "id": 2618,
         "problematic": [],
         "text_davinci_003_output": {
@@ -73301,7 +73299,7 @@
             "|",
             "~"
         ],
-        "stress_tests": [],
+        
         "id": 2620,
         "problematic": [],
         "text_davinci_003_output": {
@@ -73412,7 +73410,7 @@
             "wr34",
             "OPENOPEN"
         ],
-        "stress_tests": [],
+        
         "id": 2631,
         "problematic": [],
         "text_davinci_003_output": {
@@ -73523,7 +73521,7 @@
             "0",
             "aug 5th"
         ],
-        "stress_tests": [],
+        
         "id": 2634,
         "problematic": [],
         "text_davinci_003_output": {
@@ -73626,7 +73624,7 @@
             "<",
             ">"
         ],
-        "stress_tests": [],
+        
         "id": 2635,
         "problematic": [],
         "text_davinci_003_output": {
@@ -73737,7 +73735,7 @@
             "2nd of june",
             "234rfdsx"
         ],
-        "stress_tests": [],
+        
         "id": 2648,
         "problematic": [],
         "text_davinci_003_output": {
@@ -73848,7 +73846,7 @@
             "email",
             "32wd.dwe.w"
         ],
-        "stress_tests": [],
+        
         "id": 2649,
         "problematic": [],
         "text_davinci_003_output": {
@@ -73959,7 +73957,7 @@
             "<32>",
             "23242"
         ],
-        "stress_tests": [],
+        
         "id": 2654,
         "problematic": [],
         "text_davinci_003_output": {
@@ -74070,7 +74068,7 @@
             "number",
             "3+3"
         ],
-        "stress_tests": [],
+        
         "id": 2655,
         "problematic": [],
         "text_davinci_003_output": {
@@ -74181,7 +74179,7 @@
             "0869652040",
             "0216798576"
         ],
-        "stress_tests": [],
+        
         "id": 2662,
         "problematic": [],
         "text_davinci_003_output": {
@@ -74292,7 +74290,7 @@
             "Minne",
             "987ytgbj"
         ],
-        "stress_tests": [],
+        
         "id": 2663,
         "problematic": [],
         "text_davinci_003_output": {
@@ -74403,7 +74401,7 @@
             "12-12",
             "234565-23456785432"
         ],
-        "stress_tests": [],
+        
         "id": 2664,
         "problematic": [],
         "text_davinci_003_output": {
@@ -74514,7 +74512,7 @@
             "code",
             "e343343423"
         ],
-        "stress_tests": [],
+        
         "id": 2665,
         "problematic": [],
         "text_davinci_003_output": {
@@ -74625,7 +74623,7 @@
             "efwef3f3f43ff",
             "43fr321rfq3gfq"
         ],
-        "stress_tests": [],
+        
         "id": 2667,
         "problematic": [],
         "text_davinci_003_output": {
@@ -74736,7 +74734,7 @@
             "{user]",
             "(user&"
         ],
-        "stress_tests": [],
+        
         "id": 2671,
         "problematic": [],
         "text_davinci_003_output": {
@@ -74847,7 +74845,7 @@
             "sec",
             "min"
         ],
-        "stress_tests": [],
+        
         "id": 2674,
         "problematic": [],
         "text_davinci_003_output": {
@@ -74958,7 +74956,7 @@
             "543qfv",
             "653g45"
         ],
-        "stress_tests": [],
+        
         "id": 2684,
         "problematic": [],
         "text_davinci_003_output": {
@@ -75069,7 +75067,7 @@
             "7675r6fyt",
             "324565tr"
         ],
-        "stress_tests": [],
+        
         "id": 2699,
         "problematic": [],
         "text_davinci_003_output": {
@@ -75180,7 +75178,7 @@
             "34redc76",
             "3456y7hytrf"
         ],
-        "stress_tests": [],
+        
         "id": 2703,
         "problematic": [],
         "text_davinci_003_output": {
@@ -75291,7 +75289,7 @@
             "8765rf",
             "hgtfyr5"
         ],
-        "stress_tests": [],
+        
         "id": 2710,
         "problematic": [],
         "text_davinci_003_output": {
@@ -75402,7 +75400,7 @@
             "543rd",
             "gr5445"
         ],
-        "stress_tests": [],
+        
         "id": 2735,
         "problematic": [],
         "text_davinci_003_output": {
@@ -75513,7 +75511,7 @@
             "345trf",
             "654fe"
         ],
-        "stress_tests": [],
+        
         "id": 2740,
         "problematic": [],
         "text_davinci_003_output": {
@@ -75624,7 +75622,7 @@
             "irtfcgv",
             "34567yterf"
         ],
-        "stress_tests": [],
+        
         "id": 2742,
         "problematic": [],
         "text_davinci_003_output": {
@@ -75735,7 +75733,7 @@
             "34567543",
             "3456765432"
         ],
-        "stress_tests": [],
+        
         "id": 2753,
         "problematic": [],
         "text_davinci_003_output": {
@@ -75846,7 +75844,7 @@
             "987654erfg",
             "r45t6y7"
         ],
-        "stress_tests": [],
+        
         "id": 2754,
         "problematic": [],
         "text_davinci_003_output": {
@@ -75957,7 +75955,7 @@
             "9876tghj",
             "kljhGFGHJKO"
         ],
-        "stress_tests": [],
+        
         "id": 2755,
         "problematic": [],
         "text_davinci_003_output": {
@@ -76068,7 +76066,7 @@
             "9876543eds",
             "$%^&*()"
         ],
-        "stress_tests": [],
+        
         "id": 2761,
         "problematic": [],
         "text_davinci_003_output": {
@@ -76179,7 +76177,7 @@
             "IUY&T^%",
             "GFRTDE$%R^&T"
         ],
-        "stress_tests": [],
+        
         "id": 2762,
         "problematic": [],
         "text_davinci_003_output": {
@@ -76290,7 +76288,7 @@
             "i987654fgh",
             "324r56789"
         ],
-        "stress_tests": [],
+        
         "id": 2781,
         "problematic": [],
         "text_davinci_003_output": {
@@ -76401,7 +76399,7 @@
             "#(*&^FGHJ",
             "num"
         ],
-        "stress_tests": [],
+        
         "id": 2797,
         "problematic": [],
         "text_davinci_003_output": {
@@ -76512,7 +76510,7 @@
             "a",
             "#"
         ],
-        "stress_tests": [],
+        
         "id": 2799,
         "problematic": [],
         "text_davinci_003_output": {
@@ -76623,7 +76621,7 @@
             "ABC99808275m99sc",
             "ABCDE654321A98"
         ],
-        "stress_tests": [],
+        
         "id": 2803,
         "problematic": [],
         "text_davinci_003_output": {
@@ -76734,7 +76732,7 @@
             "54%",
             "12-12"
         ],
-        "stress_tests": [],
+        
         "id": 2809,
         "problematic": [],
         "text_davinci_003_output": {
@@ -76845,7 +76843,7 @@
             "1 pm",
             "00"
         ],
-        "stress_tests": [],
+        
         "id": 2812,
         "problematic": [],
         "text_davinci_003_output": {
@@ -76956,7 +76954,7 @@
             "$4",
             "45%"
         ],
-        "stress_tests": [],
+        
         "id": 2816,
         "problematic": [],
         "text_davinci_003_output": {
@@ -77067,7 +77065,7 @@
             "234567890",
             "$45"
         ],
-        "stress_tests": [],
+        
         "id": 2827,
         "problematic": [],
         "text_davinci_003_output": {
@@ -77178,7 +77176,7 @@
             "12",
             "sdfghjkl"
         ],
-        "stress_tests": [],
+        
         "id": 2844,
         "problematic": [],
         "text_davinci_003_output": {
@@ -77289,7 +77287,7 @@
             "12/12",
             "12-12"
         ],
-        "stress_tests": [],
+        
         "id": 3169,
         "problematic": [],
         "text_davinci_003_output": {
@@ -77400,7 +77398,7 @@
             "43eds",
             "54re3"
         ],
-        "stress_tests": [],
+        
         "id": 3207,
         "problematic": [],
         "text_davinci_003_output": {
@@ -77511,7 +77509,7 @@
             "august 5th",
             "76rdfg"
         ],
-        "stress_tests": [],
+        
         "id": 3219,
         "problematic": [],
         "text_davinci_003_output": {
@@ -77622,7 +77620,7 @@
             "4f3rec",
             "####"
         ],
-        "stress_tests": [],
+        
         "id": 3228,
         "problematic": [],
         "text_davinci_003_output": {
@@ -77733,7 +77731,7 @@
             "num",
             "876tr5dRTYU"
         ],
-        "stress_tests": [],
+        
         "id": 3234,
         "problematic": [],
         "text_davinci_003_output": {
@@ -77844,7 +77842,7 @@
             "date",
             "12.12"
         ],
-        "stress_tests": [],
+        
         "id": 3264,
         "problematic": [],
         "text_davinci_003_output": {
@@ -77955,7 +77953,7 @@
             "4342",
             "9876443456789098765456789"
         ],
-        "stress_tests": [],
+        
         "id": 3277,
         "problematic": [],
         "text_davinci_003_output": {
@@ -78066,7 +78064,7 @@
             "23213433253453451234242343214222",
             "34213241542t56769867956487594"
         ],
-        "stress_tests": [],
+        
         "id": 3278,
         "problematic": [],
         "text_davinci_003_output": {
@@ -78177,7 +78175,7 @@
             "12",
             "123456789"
         ],
-        "stress_tests": [],
+        
         "id": 3280,
         "problematic": [],
         "text_davinci_003_output": {
@@ -78288,7 +78286,7 @@
             "pincode",
             "######"
         ],
-        "stress_tests": [],
+        
         "id": 3347,
         "problematic": [],
         "text_davinci_003_output": {
@@ -78399,7 +78397,7 @@
             "date",
             "5%"
         ],
-        "stress_tests": [],
+        
         "id": 3349,
         "problematic": [],
         "text_davinci_003_output": {
@@ -78510,7 +78508,7 @@
             "UHU894fre",
             "HHHUH8989br"
         ],
-        "stress_tests": [],
+        
         "id": 3368,
         "problematic": [],
         "text_davinci_003_output": {
@@ -78621,7 +78619,7 @@
             "GYYgy87",
             "eufgduw"
         ],
-        "stress_tests": [],
+        
         "id": 3380,
         "problematic": [],
         "text_davinci_003_output": {
@@ -78732,7 +78730,7 @@
             "31223.432.2343.4213.234.2342",
             "5443.354.35"
         ],
-        "stress_tests": [],
+        
         "id": 3381,
         "problematic": [],
         "text_davinci_003_output": {
@@ -78843,7 +78841,7 @@
             "f4re^&ff",
             "$45"
         ],
-        "stress_tests": [],
+        
         "id": 3383,
         "problematic": [],
         "text_davinci_003_output": {
@@ -78954,7 +78952,7 @@
             "f34ewds7t8yi",
             "hy7t66"
         ],
-        "stress_tests": [],
+        
         "id": 3384,
         "problematic": [],
         "text_davinci_003_output": {
@@ -79065,7 +79063,7 @@
             "#",
             "$456789"
         ],
-        "stress_tests": [],
+        
         "id": 3385,
         "problematic": [],
         "text_davinci_003_output": {
@@ -79176,7 +79174,7 @@
             "54wrgrf",
             "43fec8d7uhjb"
         ],
-        "stress_tests": [],
+        
         "id": 3387,
         "problematic": [],
         "text_davinci_003_output": {
@@ -79287,7 +79285,7 @@
             "12",
             "$45"
         ],
-        "stress_tests": [],
+        
         "id": 3394,
         "problematic": [],
         "text_davinci_003_output": {
@@ -79398,7 +79396,7 @@
             "jehfef",
             "328472398472934"
         ],
-        "stress_tests": [],
+        
         "id": 3417,
         "problematic": [],
         "text_davinci_003_output": {
@@ -79499,7 +79497,7 @@
             "google",
             "w4jrgrd"
         ],
-        "stress_tests": [],
+        
         "id": 3420,
         "problematic": [],
         "text_davinci_003_output": {
@@ -79610,7 +79608,7 @@
             "op98yttygbh",
             "elcdoh"
         ],
-        "stress_tests": [],
+        
         "id": 3425,
         "problematic": [],
         "text_davinci_003_output": {
@@ -79721,7 +79719,7 @@
             "43434",
             "234565432"
         ],
-        "stress_tests": [],
+        
         "id": 3427,
         "problematic": [],
         "text_davinci_003_output": {
@@ -79832,7 +79830,7 @@
             "EFGRED",
             "ER5TRGY"
         ],
-        "stress_tests": [],
+        
         "id": 3448,
         "problematic": [],
         "text_davinci_003_output": {
@@ -79942,7 +79940,7 @@
             "493",
             "1,000"
         ],
-        "stress_tests": [],
+        
         "id": 3454,
         "problematic": [],
         "text_davinci_003_output": {
@@ -80053,7 +80051,7 @@
             "700250579",
             "820281690"
         ],
-        "stress_tests": [],
+        
         "id": 3457,
         "problematic": [],
         "text_davinci_003_output": {
@@ -80164,7 +80162,7 @@
             "aTF%Ffy",
             "43fre"
         ],
-        "stress_tests": [],
+        
         "id": 3459,
         "problematic": [],
         "text_davinci_003_output": {
@@ -80275,7 +80273,7 @@
             "59288318HP",
             "52153646mD"
         ],
-        "stress_tests": [],
+        
         "id": 3460,
         "problematic": [],
         "text_davinci_003_output": {
@@ -80386,7 +80384,7 @@
             "dejwnsU",
             "#####"
         ],
-        "stress_tests": [],
+        
         "id": 3467,
         "problematic": [],
         "text_davinci_003_output": {
@@ -80495,7 +80493,7 @@
             "V10",
             "T10"
         ],
-        "stress_tests": [],
+        
         "id": 3473,
         "problematic": [],
         "text_davinci_003_output": {
@@ -80606,7 +80604,7 @@
             "67545",
             "3453019"
         ],
-        "stress_tests": [],
+        
         "id": 3475,
         "problematic": [],
         "text_davinci_003_output": {
@@ -80717,7 +80715,7 @@
             "8976.",
             "3283.312."
         ],
-        "stress_tests": [],
+        
         "id": 3481,
         "problematic": [],
         "text_davinci_003_output": {
@@ -80839,7 +80837,7 @@
             "3r783y43hre",
             "4fbh3q"
         ],
-        "stress_tests": [],
+        
         "id": 3483,
         "problematic": [],
         "text_davinci_003_output": {
@@ -80950,7 +80948,7 @@
             "> jefejer <",
             "/// rtgfd"
         ],
-        "stress_tests": [],
+        
         "id": 3488,
         "problematic": [],
         "text_davinci_003_output": {
@@ -81061,7 +81059,7 @@
             "65%",
             "12-12"
         ],
-        "stress_tests": [],
+        
         "id": 3546,
         "problematic": [],
         "text_davinci_003_output": {
@@ -81180,7 +81178,7 @@
             "323423",
             "43234"
         ],
-        "stress_tests": [],
+        
         "id": 3549,
         "problematic": [],
         "text_davinci_003_output": {
@@ -81291,7 +81289,7 @@
             "00000000",
             "9348239"
         ],
-        "stress_tests": [],
+        
         "id": 3556,
         "problematic": [],
         "text_davinci_003_output": {
@@ -81402,7 +81400,7 @@
             "45%",
             "$67"
         ],
-        "stress_tests": [],
+        
         "id": 3561,
         "problematic": [],
         "text_davinci_003_output": {
@@ -81513,7 +81511,7 @@
             "August 6th",
             "23erfo"
         ],
-        "stress_tests": [],
+        
         "id": 3601,
         "problematic": [],
         "text_davinci_003_output": {
@@ -81624,7 +81622,7 @@
             "date",
             "$45"
         ],
-        "stress_tests": [],
+        
         "id": 3712,
         "problematic": [],
         "text_davinci_003_output": {
@@ -81735,7 +81733,7 @@
             "12-12",
             "$45"
         ],
-        "stress_tests": [],
+        
         "id": 3731,
         "problematic": [],
         "text_davinci_003_output": {
@@ -81846,7 +81844,7 @@
             "136765751",
             "162658046"
         ],
-        "stress_tests": [],
+        
         "id": 3753,
         "problematic": [],
         "text_davinci_003_output": {
@@ -81957,7 +81955,7 @@
             "5437",
             "465"
         ],
-        "stress_tests": [],
+        
         "id": 3772,
         "problematic": [],
         "text_davinci_003_output": {
@@ -82068,7 +82066,7 @@
             "3.12",
             "345546"
         ],
-        "stress_tests": [],
+        
         "id": 3791,
         "problematic": [],
         "text_davinci_003_output": {
@@ -82179,7 +82177,7 @@
             "49349fs",
             "4r89u34"
         ],
-        "stress_tests": [],
+        
         "id": 3803,
         "problematic": [],
         "text_davinci_003_output": {
@@ -82290,7 +82288,7 @@
             "$12",
             "12-12"
         ],
-        "stress_tests": [],
+        
         "id": 3811,
         "problematic": [],
         "text_davinci_003_output": {
@@ -82401,7 +82399,7 @@
             "4th of june",
             "Monday"
         ],
-        "stress_tests": [],
+        
         "id": 3909,
         "problematic": [],
         "text_davinci_003_output": {
@@ -82512,7 +82510,7 @@
             "323",
             "5432"
         ],
-        "stress_tests": [],
+        
         "id": 3910,
         "problematic": [],
         "text_davinci_003_output": {
@@ -82623,7 +82621,7 @@
             "e4fqt5g",
             "egde"
         ],
-        "stress_tests": [],
+        
         "id": 3912,
         "problematic": [],
         "text_davinci_003_output": {
@@ -82734,7 +82732,7 @@
             "ewfgtrf.efqw32r",
             "es.sss"
         ],
-        "stress_tests": [],
+        
         "id": 3915,
         "problematic": [],
         "text_davinci_003_output": {
@@ -82845,7 +82843,7 @@
             "----",
             "refdvc-"
         ],
-        "stress_tests": [],
+        
         "id": 3934,
         "problematic": [],
         "text_davinci_003_output": {
@@ -82956,7 +82954,7 @@
             "7113822627183",
             "2754694421115"
         ],
-        "stress_tests": [],
+        
         "id": 3936,
         "problematic": [],
         "text_davinci_003_output": {
@@ -83064,7 +83062,7 @@
             "jdsf",
             "wefjwe"
         ],
-        "stress_tests": [],
+        
         "id": 3951,
         "problematic": [],
         "text_davinci_003_output": {
@@ -83175,7 +83173,7 @@
             "345245636u37",
             "87654"
         ],
-        "stress_tests": [],
+        
         "id": 3981,
         "problematic": [],
         "text_davinci_003_output": {
@@ -83286,7 +83284,7 @@
             "+0.0",
             ".98765"
         ],
-        "stress_tests": [],
+        
         "id": 3983,
         "problematic": [],
         "text_davinci_003_output": {
@@ -83397,7 +83395,7 @@
             "56%",
             "234"
         ],
-        "stress_tests": [],
+        
         "id": 4010,
         "problematic": [],
         "text_davinci_003_output": {
@@ -83508,7 +83506,7 @@
             "423899",
             "435785"
         ],
-        "stress_tests": [],
+        
         "id": 4029,
         "problematic": [],
         "text_davinci_003_output": {
@@ -83619,7 +83617,7 @@
             "$45",
             "54%"
         ],
-        "stress_tests": [],
+        
         "id": 4041,
         "problematic": [],
         "text_davinci_003_output": {
@@ -83730,7 +83728,7 @@
             "ewuhpiru32p9swd",
             "rhfpier"
         ],
-        "stress_tests": [],
+        
         "id": 4043,
         "problematic": [],
         "text_davinci_003_output": {
@@ -83830,7 +83828,7 @@
             "threw",
             "cooler"
         ],
-        "stress_tests": [],
+        
         "id": 4044,
         "problematic": [],
         "text_davinci_003_output": {
@@ -83941,7 +83939,7 @@
             "DHDIE",
             "DDUEY72"
         ],
-        "stress_tests": [],
+        
         "id": 4051,
         "problematic": [],
         "text_davinci_003_output": {
@@ -84052,7 +84050,7 @@
             "#3",
             "3e2hr3f"
         ],
-        "stress_tests": [],
+        
         "id": 4067,
         "problematic": [],
         "text_davinci_003_output": {
@@ -84163,7 +84161,7 @@
             "july 4 2020",
             "#3"
         ],
-        "stress_tests": [],
+        
         "id": 4072,
         "problematic": [],
         "text_davinci_003_output": {
@@ -84274,7 +84272,7 @@
             "124&&&&",
             "<32"
         ],
-        "stress_tests": [],
+        
         "id": 4086,
         "problematic": [],
         "text_davinci_003_output": {
@@ -84385,7 +84383,7 @@
             "334jdfwe",
             "wjeirja"
         ],
-        "stress_tests": [],
+        
         "id": 4107,
         "problematic": [],
         "text_davinci_003_output": {
