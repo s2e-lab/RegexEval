@@ -26,33 +26,26 @@ The following figure shows the methodology and their linked artifacts of this pr
 
 In the following sections, we will describe the purpose of each folder and how to use them. 
 
+### Installation
+
+Run the following command to install the required packages:
+```
+pip install -r requirements.txt
+```
+
 ### DatasetCollection
 
-1. Pre-requisites (Environment we tested on)
-   - Python 3.9.4
-   - selenium 4.11.2
-   - beautifulsoup4 4.11.1
-2. Run the `Data_Collection.py` file to collect the data. Output: **RegexEval_Init.json**.
+1. Run the `Data_Collection.py` file to collect the data. Output: **RegexEval_Init.json**.
    ```
    python Data_Collection.py
    ```
-3. **RegexEval.json** contains the filtered data with the additional tests and will be used in the next steps. We crafted this file *manually* by adding refined prompts and tests.
+2. **RegexEval.json** contains the filtered data with the additional tests and will be used in the next steps. We crafted this file *manually* by adding refined prompts and tests.
 
 
 ### Generation
 There are four Python files for four models.
-For GPT35.py and Text_DaVinci.py, you need to install the following packages:
-- openai
 
-You will also need an OpenAI API key and have to create a **config.json** file as the **example.json** file. Update your API key in the **config.json** file.
-
-For T5_RegexGen.py and Phi_RegexGen.py, you need to install the following packages:
-- transformers 
-- torch
-- tqdm
-
-To run the scripts with command line argument, you need to install:
-- argparse
+You will need an OpenAI API key and have to create a **config.json** file as the **example.json** file. Update your API key in the **config.json** file.
 
 You have to run each code twice: once for raw and once for refined prompts by passing the *raw* or *refined* in the argument. For example:
 
@@ -63,10 +56,6 @@ python T5_RegexGen.py --prompt_type raw
 These codes will generate {Model_name}_{Prompt_type}_Output.json files. 
 
 ### Evaluation
-You need to install the following packages:
-- subprocess
-- timeout_decorator
-- collections
 
 **Compilation.py** will compile the Regexes and tests with the corresponding tests. It will generate {Model_name}_{Prompt_type}_Output_Compiled_Result.json. Then, you can run **Pass_at_k_Evaluation.py** to get the pass@k score.
 
