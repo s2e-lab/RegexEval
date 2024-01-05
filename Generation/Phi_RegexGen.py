@@ -14,6 +14,11 @@ model = AutoModelForCausalLM.from_pretrained("microsoft/phi-1_5", trust_remote_c
 tokenizer = AutoTokenizer.from_pretrained("microsoft/phi-1_5", trust_remote_code=True, torch_dtype="auto")
 
 
+def make_clear(text):
+    text = text.split('<|endoftext|>')[0]
+    text = text.split('\n\n')[0].replace('\n','').strip()
+    return text
+
 # %%
 def phi_response(prompt, tokenizer,model, prompt_type):
     prompt_text = prompt["refined_prompt"] if prompt_type == 'refined' else prompt["raw_prompt"]
@@ -31,7 +36,7 @@ def phi_response(prompt, tokenizer,model, prompt_type):
     for i in range(10):
         prompt["phi_output"].append({})
         output = generated_token[i].cpu().squeeze()
-        prompt["phi_output"][i]["text"] = tokenizer.decode(output).split(prompt_text)[-1].split("\n\n")[0]
+        prompt["phi_output"][i]["text"] = make_clear(tokenizer.decode(output).split(prompt_text)[-1].split("\n\n")[0])
 
     return prompt
 

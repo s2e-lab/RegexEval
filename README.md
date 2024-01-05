@@ -36,11 +36,9 @@ In the following sections, we will describe the purpose of each folder and how t
 
 ### Generation
 There are four Python files for four models.
-There are four Python files for four models.
 For GPT35.py and Text_DaVinci.py, you need to install the following packages:
 - openai
 
-You will also need an OpenAI API key and have to create a **config.json** file as the **example.json** file. Update your API key in the **config.json** file.
 You will also need an OpenAI API key and have to create a **config.json** file as the **example.json** file. Update your API key in the **config.json** file.
 
 For T5_RegexGen.py and Phi_RegexGen.py, you need to install the following packages:
