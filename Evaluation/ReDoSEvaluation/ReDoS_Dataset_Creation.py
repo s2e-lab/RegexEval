@@ -2,7 +2,7 @@
 names = ["Phi_Raw_Output","Phi_Refined_Output","T5_Raw_Output","T5_Refined_Output","Text_DaVinci_Raw_Output","Text_DaVinci_Refined_Output","GPT3.5_Raw_Output","GPT3.5_Refined_Output"]
 for name in names:
     print(name)
-    filename = f'../Evaluation/{name}_Compiled_Result.json'
+    filename = f'../Output/{name}_Compiled_Result.json'
     with open(filename) as f:
         data = f.readlines()
     with open(f'./Input_Data/{name}.txt', 'w') as f:
