@@ -77,5 +77,6 @@ If you use this code, please cite the following paper:
   author={Siddiq, Mohammed Latif and Zhang, Jiahao and Roney, Lindsay and Santos, Joanna C. S.},
   booktitle={Proceedings of the 46th International Conference on Software Engineering, NIER Track (ICSE-NIER '24)}, 
   title={Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks}, 
-  year={2024}
+  year={2024},
+  doi={10.1145/3639476.3639757}
 }
