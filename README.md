@@ -30,7 +30,11 @@ In the following sections, we will describe the purpose of each folder and how t
 
 Run the following command to install the required packages:
 ```
+conda create -n "redos_study"  python=3.9.4
+conda activate redos_study
 pip install -r requirements.txt
+pip install torch torchvision torchaudio
+pip install accelerate
 ```
 
 ### DatasetCollection
