@@ -1,4 +1,6 @@
 Generation/config.json
+env/
+
 .DS_Store
 
 # OS generated files #
@@ -20,3 +22,4 @@ __pycache__/
 
 # weird Icon\r that gets created on mac os
 Icon?
+

@@ -1,7 +1,7 @@
 # %%
 import json
 import openai
-
+import argparse
 
 
 # %%
@@ -29,14 +29,26 @@ def openai_response(prompt):
     print(response)
     prompt['text_davinci_003_output'] = response
     return prompt
+
+ # %%
     
+parser = argparse.ArgumentParser(description='GPT3.5')
+parser.add_argument('--prompt_type', type=str, default='raw', help='Enter prompt type: raw, refined. Default is raw.')
+args = parser.parse_args()
+
+prompt_type = args.prompt_type
+
+print(prompt_type)
+
+if prompt_type not in ['raw', 'refined']:
+    raise ValueError('Invalid prompt type. Please enter raw or refined.')   
 
 
 # %%
 with open('../DatasetCollection/RegexEval.json') as f:
     data = json.loads(f.read())
 
-len(data)
+print(len(data))
 
 # %%
 new_data = []
@@ -47,7 +59,13 @@ for item in data:
 
 
 # %%
-with open("./Output/Text_DaVinci_Output.json", "w") as f:
-    json.dump(new_data, f, indent=4)
+
+if prompt_type == 'refined':
+    with open("./Output/Text_DaVinci_Refined_Output.json", "w") as f:
+        json.dump(new_data, f, indent=4)
+
+else:
+    with open("./Output/Text_DaVinci_Raw_Output.json", "w") as f:
+        json.dump(new_data, f, indent=4)
 
 
