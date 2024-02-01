@@ -7,7 +7,7 @@ With the recent development of the large language model-based text and code gene
 
 
 ## Purpose
-The purpose of this repository is to provide the source code for the paper: **Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks**. We are applying for *available* and *reusable* badges for this repository.
+The purpose of this repository is to provide the source code for the paper: **Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks**. We received *available* and *reusable* badges for this repository from ICSE Artifact Evaluation 2024. 
 
 ## Usage
 
