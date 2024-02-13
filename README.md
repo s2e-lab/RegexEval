@@ -1,3 +1,6 @@
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/s2e-lab/RegexEval)
+
+
 # Re(gEx|DoS)Eval
 This repository contains the source code for the paper: **Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks**. A copy of the paper is available [here](./Miscellaneous/Paper_Preprint_Copy.pdf).
 
@@ -7,7 +10,7 @@ With the recent development of the large language model-based text and code gene
 
 
 ## Purpose
-The purpose of this repository is to provide the source code for the paper: **Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks**. We received *available* and *reusable* badges for this repository from ICSE Artifact Evaluation 2024. 
+The purpose of this repository is to provide the source code for the paper: **Re(gEx|DoS)Eval: Evaluating Generated Regular Expressions and their Proneness to DoS Attacks**. We received *available* and *reusable* badges from ICSE Artifact Evaluation 2024 for this repository. 
 
 ## Usage
 
@@ -19,7 +22,7 @@ This project contains four folders:
    - ReDoSEvaluation:  it has the scripts to evaluate whether the regexes are prone to DoS attacks.
 
 
-The following figure shows the methodology and their linked artifacts of this project.
+The following figure shows the methodology and the linked artifacts of this project.
 
 ![alt text](./Miscellaneous/MethodologyArtifacts.png)
 
@@ -45,6 +48,14 @@ pip install accelerate
    ```
 2. **RegexEval.json** contains the filtered data with the additional tests and will be used in the next steps. We crafted this file *manually* by adding refined prompts and tests.
 
+### Loading the dataset of prompts from HuggingFace
+
+The dataset is now published on HuggingFace. You can load it as follows:
+
+```
+from datasets import load_dataset
+dataset = load_dataset("s2e-lab/RegexEval")
+```
 
 ### Generation
 There are four Python files for four models.
