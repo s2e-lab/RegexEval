@@ -36,8 +36,7 @@ Run the following command to install the required packages:
 conda create -n "redos_study"  python=3.9.4
 conda activate redos_study
 pip install -r requirements.txt
-pip install torch torchvision torchaudio
-pip install accelerate
+pip install torch==1.12.0
 ```
 
 ### DatasetCollection

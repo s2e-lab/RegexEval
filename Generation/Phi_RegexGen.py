@@ -8,10 +8,12 @@ import argparse
 # %%
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
-torch.set_default_device('cuda')
+# torch.set_default_device('cuda')
 
-model = AutoModelForCausalLM.from_pretrained("microsoft/phi-1_5", trust_remote_code=True, torch_dtype="auto")
-tokenizer = AutoTokenizer.from_pretrained("microsoft/phi-1_5", trust_remote_code=True, torch_dtype="auto")
+model = AutoModelForCausalLM.from_pretrained("microsoft/phi-1_5", trust_remote_code=True)
+# model = AutoModelForCausalLM.from_pretrained("microsoft/phi-1_5", trust_remote_code=True, torch_dtype="auto")
+tokenizer = AutoTokenizer.from_pretrained("microsoft/phi-1_5", trust_remote_code=True)
+# tokenizer = AutoTokenizer.from_pretrained("microsoft/phi-1_5", trust_remote_code=True, torch_dtype="auto")
 
 
 def make_clear(text):
@@ -21,8 +23,8 @@ def make_clear(text):
 
 # %%
 def phi_response(prompt, tokenizer,model, prompt_type):
-    prompt_text = prompt["refined_prompt"] if prompt_type == 'refined' else prompt["raw_prompt"]
-    + "Generate a RegEx for this description. \nAnswer:"
+    current_prompt = prompt["refined_prompt"] if prompt_type == 'refined' else prompt["raw_prompt"]
+    prompt_text = current_prompt + "Generate a RegEx for this description. \nAnswer:"
     inputs = tokenizer(prompt_text, return_tensors="pt")
     x = inputs['input_ids']
     x = x.expand(10, -1)

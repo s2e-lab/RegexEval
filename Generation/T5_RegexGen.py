@@ -8,7 +8,8 @@ import argparse
 # Use a pipeline as a high-level helper
 from transformers import pipeline
 
-pipe = pipeline("text2text-generation", model="rymaju/KB13-t5-base-finetuned-en-to-regex", device_map="auto")
+pipe = pipeline("text2text-generation", model="rymaju/KB13-t5-base-finetuned-en-to-regex")
+# pipe = pipeline("text2text-generation", model="rymaju/KB13-t5-base-finetuned-en-to-regex", device_map="auto")
 
 # %%
 def t5_response(prompt, prompt_type):
