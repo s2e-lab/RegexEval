@@ -40,4 +40,3 @@ for i in range(1, 43):
 import json
 with open('./test.json', 'w') as f:
     json.dump(table_data, f)
-
